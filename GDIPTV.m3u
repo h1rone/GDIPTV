@@ -21,8 +21,6 @@ http://113.93.48.90:10000/rtp/239.77.0.217:5146
 http://113.93.48.90:10000/rtp/239.77.0.250:5146
 #EXTINF:-1 tvg-name="嘉佳卡通" group-title="IPTV-广东电视台",嘉佳卡通高清
 http://113.93.48.90:10000/rtp/239.77.0.179:5146
-#EXTINF:-1 tvg-name="南方购物" group-title="IPTV-广东电视台",南方购物-精选
-http://113.93.48.90:10000/rtp/239.77.0.19:5146
 #EXTINF:-1 tvg-name="南方购物" group-title="IPTV-广东电视台",南方购物
 http://113.93.48.90:10000/rtp/239.77.0.22:5146
 #EXTINF:-1 tvg-name="岭南戏曲" group-title="IPTV-广东电视台",岭南戏曲高清
@@ -465,15 +463,7 @@ http://113.93.48.90:10000/rtp/239.253.43.117:5146
 http://113.93.48.90:10000/rtp/239.253.43.116:5146
 #EXTINF:-1,百事通高清
 http://113.93.48.90:10000/rtp/239.253.43.115:5146
-#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺 4K
-http://113.93.48.90:10000/rtp/239.77.1.237:5146
-#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺(4k)
+#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺4k
 http://113.93.48.90:10000/rtp/239.77.0.244:5146
-#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺(4k)
-http://113.93.48.90:10000/rtp/239.77.0.245:5146
-#EXTINF:-1 tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K
-http://113.93.48.90:10000/rtp/239.77.0.194:5146
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K50p
 http://113.93.48.90:10000/rtp/239.77.0.174:5146
-#EXTINF:-1 tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K
-http://113.93.48.90:10000/rtp/239.77.1.180:5146
