@@ -433,8 +433,6 @@ http://113.102.161.217:4022/rtp/239.77.0.200:5146
 http://113.102.161.217:4022/rtp/239.77.1.200:5146
 #EXTINF:-1 tvg-name="CETV-4" group-title="IPTV-数字付费",CETV-4高清
 http://113.102.161.217:4022/rtp/239.253.43.40:5146
-#EXTINF:-1 tvg-name="CETV-4" group-title="IPTV-数字付费",CETV-4高清
-http://113.102.161.217:4022/rtp/239.253.43.114:5146
 #EXTINF:-1 tvg-name="早期教育" group-title="IPTV-数字付费",早期教育高清
 http://113.102.161.217:4022/rtp/239.77.0.180:5146
 #EXTINF:-1 tvg-name="中国交通" group-title="IPTV-数字付费",中国交通
