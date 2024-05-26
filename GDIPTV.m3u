@@ -433,9 +433,7 @@ http://58.63.66.80:8888/rtp/239.77.1.120:5146
 http://58.63.66.80:8888/rtp/239.77.1.208:5146
 #EXTINF:-1 tvg-name="天元围棋" group-title="IPTV-数字付费",天元围棋
 http://58.63.66.80:8888/rtp/239.253.43.98:5146 
-#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺 4K
-http://58.63.66.80:8888/rtp/239.77.1.237:5146 
-#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺(4k)
+#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺4k
 http://58.63.66.80:8888/rtp/239.77.0.245:5146
 #EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
 http://58.63.66.80:8888/rtp/239.253.43.99:5146
