@@ -432,10 +432,8 @@ http://59.39.184.151:8000/rtp/239.77.1.120:5146
 #EXTINF:-1 tvg-name="先锋乒羽" group-title="IPTV-数字付费",先锋乒羽
 http://59.39.184.151:8000/rtp/239.77.1.208:5146
 #EXTINF:-1 tvg-name="天元围棋" group-title="IPTV-数字付费",天元围棋
-http://59.39.184.151:8000/rtp/239.253.43.98:5146 
-#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺 4K
-http://59.39.184.151:8000/rtp/239.77.1.237:5146 
-#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺(4k)
+http://59.39.184.151:8000/rtp/239.253.43.98:5146
+#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺4k
 http://59.39.184.151:8000/rtp/239.77.0.245:5146
 #EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
 http://59.39.184.151:8000/rtp/239.253.43.99:5146
