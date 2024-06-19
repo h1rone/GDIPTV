@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="广东频道",广东民生
+https://histar.zapi.us.kg/?id=gdms
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="广东频道",广东体育
+https://histar.zapi.us.kg/?id=gdty
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="广东频道",广东珠江
+https://histar.zapi.us.kg/?id=gdzj
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="广东频道",广东影视
+https://histar.zapi.us.kg/?id=gdys
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="广东频道",广东新闻
+https://histar.zapi.us.kg/?id=gdxw
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="广东频道",广东少儿
+https://histar.zapi.us.kg/?id=gdse
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="大陆央视",CCTV-1 综合
 https://histar.zapi.us.kg/?id=cctv1
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="大陆央视",CCTV-2 财经
