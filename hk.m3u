@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 group-title="香港频道",无线新闻台
+#EXTINF:-1,无线新闻台
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:-1 group-title="香港频道",华丽翡翠
+#EXTINF:-1,华丽翡翠
 http://php.jdshipin.com:8880/smt.php?id=Wlt
-#EXTINF:-1 group-title="香港频道",翡翠台
+#EXTINF:-1,翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 group-title="香港频道",明珠台
+#EXTINF:-1,明珠台
 http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-#EXTINF:-1 group-title="香港频道",TVB星河
+#EXTINF:-1,TVB星河
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
-#EXTINF:-1 group-title="香港频道",VIUTV
+#EXTINF:-1,VIUTV
 http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-#EXTINF:-1 group-title="香港频道",TVB plus
+#EXTINF:-1,TVB plus
 http://php.jdshipin.com:8880/smt.php?id=j2_twn
-#EXTINF:-1 group-title="香港频道",财经资讯台
+#EXTINF:-1,财经资讯台
 http://php.jdshipin.com:8880/smt.php?id=tvbcaijing_twn
-#EXTINF:-1 group-title="香港频道",凤凰卫视
+#EXTINF:-1,凤凰卫视
 http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-#EXTINF:-1 group-title="香港频道",RTHK32
+#EXTINF:-1,RTHK32
 http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
-#EXTINF:-1 group-title="香港频道",RTHK31
+#EXTINF:-1,RTHK31
 http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
