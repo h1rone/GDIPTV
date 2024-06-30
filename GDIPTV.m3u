@@ -275,7 +275,7 @@ http://a.ifsift.cn:8888/rtp/239.77.1.200:5146
 http://a.ifsift.cn:8888/rtp/239.77.0.180:5146
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="IPTV-数字付费",中国交通
 http://a.ifsift.cn:8888/rtp/239.77.1.249:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-数字付费",茶
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/chapd.png" group-title="IPTV-数字付费",茶
 http://a.ifsift.cn:8888/rtp/239.77.0.15:5146
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="IPTV-数字付费",快乐垂钓
 http://a.ifsift.cn:8888/rtp/239.77.0.145:5146
@@ -283,8 +283,6 @@ http://a.ifsift.cn:8888/rtp/239.77.0.145:5146
 http://a.ifsift.cn:8888/rtp/239.77.1.217:5146
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="IPTV-数字付费",上海纪实高清
 http://a.ifsift.cn:8888/rtp/239.77.1.216:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-数字付费",生态环境
-http://a.ifsift.cn:8888/rtp/239.77.1.201:5146
 #EXTINF:-1 tvg-id="6603" tvg-name="车迷频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC1.jpg" group-title="IPTV-数字付费",车迷频道
 http://a.ifsift.cn:8888/rtp/239.77.1.203:5146
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="IPTV-数字付费",求索纪录高清
