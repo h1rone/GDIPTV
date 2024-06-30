@@ -37,19 +37,19 @@ http://a.ifsift.cn:8888/rtp/239.253.43.74:5146
 http://a.ifsift.cn:8888/rtp/239.77.1.3:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen1.png" group-title="IPTV-深圳电视台",深圳都市频道高清
 http://a.ifsift.cn:8888/rtp/239.77.1.176:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-深圳电视台",深圳电视剧频道高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen2.png" group-title="IPTV-深圳电视台",深圳电视剧频道高清
 http://a.ifsift.cn:8888/rtp/239.77.1.177:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-深圳电视台",深圳财经生活高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen4.png" group-title="IPTV-深圳电视台",深圳财经生活高清
 http://a.ifsift.cn:8888/rtp/239.77.1.242:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-深圳电视台",深圳娱乐频道高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen5.png" group-title="IPTV-深圳电视台",深圳娱乐频道高清
 http://a.ifsift.cn:8888/rtp/239.77.1.243:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-深圳电视台",深圳体育健康高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen8.png" group-title="IPTV-深圳电视台",深圳体育健康高清
 http://a.ifsift.cn:8888/rtp/239.77.1.128:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-深圳电视台",深圳少儿频道高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen6.png" group-title="IPTV-深圳电视台",深圳少儿频道高清
 http://a.ifsift.cn:8888/rtp/239.77.1.244:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-深圳电视台",深圳公共频道高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen3.png" group-title="IPTV-深圳电视台",深圳公共频道高清
 http://a.ifsift.cn:8888/rtp/239.77.1.178:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-深圳电视台",深圳宝安频道高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen9.png" group-title="IPTV-深圳电视台",深圳宝安频道高清
 http://a.ifsift.cn:8888/rtp/239.77.1.67:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-深圳电视台",深圳龙岗频道高清
 http://a.ifsift.cn:8888/rtp/239.77.1.223:5146
