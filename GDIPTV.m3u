@@ -241,7 +241,7 @@ http://a.ifsift.cn:8888/rtp/239.77.0.189:5146
 http://a.ifsift.cn:8888/rtp/239.253.43.113:5146
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="IPTV-央视网台",兵器科技高清
 http://a.ifsift.cn:8888/rtp/239.253.43.18:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-央视网台",电视指南高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="IPTV-央视网台",电视指南高清
 http://a.ifsift.cn:8888/rtp/239.253.43.19:5146
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="IPTV-央视网台",风云足球高清
 http://a.ifsift.cn:8888/rtp/239.253.43.20:5146
@@ -257,7 +257,7 @@ http://a.ifsift.cn:8888/rtp/239.253.43.24:5146
 http://a.ifsift.cn:8888/rtp/239.253.43.25:5146
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="IPTV-央视网台",风云剧场高清
 http://a.ifsift.cn:8888/rtp/239.253.43.26:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-央视网台",央视文化精品高清
+#EXTINF:-1 tvg-id="" tvg-name="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVyswhjp.png" tvg-logo="" group-title="IPTV-央视网台",央视文化精品高清
 http://a.ifsift.cn:8888/rtp/239.253.43.27:5146
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="IPTV-央视网台",第一剧场高清
 http://a.ifsift.cn:8888/rtp/239.253.43.28:5146
