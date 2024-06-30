@@ -17,7 +17,7 @@ http://a.ifsift.cn:8888/rtp/239.77.0.215:5146
 http://a.ifsift.cn:8888/rtp/239.77.0.217:5146
 #EXTINF:-1 tvg-id="7253" tvg-name="广东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" group-title="IPTV-广东电视台",广东少儿
 http://a.ifsift.cn:8888/rtp/239.77.0.250:5146
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="IPTV-广东电视台",嘉佳卡通
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong14.png" group-title="IPTV-广东电视台",嘉佳卡通
 http://a.ifsift.cn:8888/rtp/239.77.0.179:5146
 #EXTINF:-1 tvg-id="" tvg-name="南方购物" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong16.png" group-title="IPTV-广东电视台",南方购物
 http://a.ifsift.cn:8888/rtp/239.77.0.19:5146
