@@ -51,13 +51,13 @@ http://a.ifsift.cn:8888/rtp/239.77.1.244:5146
 http://a.ifsift.cn:8888/rtp/239.77.1.178:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen9.png" group-title="IPTV-深圳电视台",深圳宝安频道高清
 http://a.ifsift.cn:8888/rtp/239.77.1.67:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-深圳电视台",深圳龙岗频道高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nettv.live/uploads/allimg/19/1-1Z2221931550-L.jpg" group-title="IPTV-深圳电视台",深圳龙岗频道高清
 http://a.ifsift.cn:8888/rtp/239.77.1.223:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-深圳电视台",深圳众创TV高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nettv.live/uploads/allimg/19/1-1Z2221934230-L.jpg" group-title="IPTV-深圳电视台",深圳众创TV高清
 http://a.ifsift.cn:8888/rtp/239.77.1.247:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-深圳电视台",深圳宜和购物高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nettv.live/uploads/18/1-1P126202Rb33.jpg" group-title="IPTV-深圳电视台",深圳宜和购物高清
 http://a.ifsift.cn:8888/rtp/239.77.1.87:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-广东地方台",韶关新闻综合高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c0/韶关新闻综合_logo.png/revision/latest?cb=20240422103931&path-prefix=vi" group-title="IPTV-广东地方台",韶关新闻综合高清
 http://a.ifsift.cn:8888/rtp/239.77.0.117:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-广东地方台",湛江新闻综合高清
 http://a.ifsift.cn:8888/rtp/239.77.0.141:5146
