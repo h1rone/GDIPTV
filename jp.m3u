@@ -53,27 +53,27 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:2
 
 #EXTINF:-1 tvg-id="365946" tvg-name="日本映画専門ch" tvg-logo="https://pbs.twimg.com/profile_images/1326029238374293504/27N8fmyd_400x400.jpg" group-title="Other", 日本映画専門チャンネル
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="365944" tvg-name="" tvg-logo="" group-title="Other", 釣りビジョン
+#EXTINF:-1 tvg-id="365944" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1047408166034493440/IUZkSWGa_400x400.jpg" group-title="Other", 釣りビジョン
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="365962" tvg-name="" tvg-logo="" group-title="Other", ファミリー劇場
+#EXTINF:-1 tvg-id="365962" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1498462799194107910/cQuSiuZ__400x400.jpg" group-title="Other", ファミリー劇場
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="365951" tvg-name="" tvg-logo="" group-title="Other", 東映チャンネル
+#EXTINF:-1 tvg-id="365951" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1363766318298587139/TYkQgTdr_400x400.jpg" group-title="Other", 東映チャンネル
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="10824" tvg-name="" tvg-logo="" group-title="Other", チャンネルNECO
+#EXTINF:-1 tvg-id="10824" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1273841835689963521/FKf5Sq2j_400x400.jpg" group-title="Other", チャンネルNECO
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="10731" tvg-name="" tvg-logo="" group-title="Other", 歌謡ポップスチャンネル
+#EXTINF:-1 tvg-id="10731" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/849074387303247873/lBnfq2_Y_400x400.jpg" group-title="Other", 歌謡ポップスチャンネル
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="365963" tvg-name="" tvg-logo="" group-title="Other", ホームドラマチャンネル
+#EXTINF:-1 tvg-id="365963" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1192545007/hdc_logo_little_400x400.jpg" group-title="Other", ホームドラマチャンネル
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="10727" tvg-name="" tvg-logo="" group-title="Other", 時代劇専門チャンネル
+#EXTINF:-1 tvg-id="10727" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1742766372508360704/dgIYBDGV_400x400.jpg" group-title="Other", 時代劇専門チャンネル
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="10763" tvg-name="" tvg-logo="" group-title="Other", 囲碁・将棋チャンネル
+#EXTINF:-1 tvg-id="10763" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/596118449346084864/fwbID_wh_400x400.jpg" group-title="Other", 囲碁・将棋チャンネル
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="10806" tvg-name="" tvg-logo="" group-title="Other", ゴルフネットワーク
+#EXTINF:-1 tvg-id="10806" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1653195946937970688/pWJCI4KH_400x400.jpg" group-title="Other", ゴルフネットワーク
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="10795" tvg-name="" tvg-logo="" group-title="Other", キッズステーション
+#EXTINF:-1 tvg-id="10795" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1265192455973961729/hjdD6xbL_400x400.jpg" group-title="Other", キッズステーション
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="365975" tvg-name="" tvg-logo="" group-title="Other", スーパー!ドラマTV
+#EXTINF:-1 tvg-id="365975" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1712369679485042688/xmGfVrkU_400x400.jpg" group-title="Other", スーパー!ドラマTV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="10712" tvg-name="" tvg-logo="" group-title="Other", チャンネル銀河
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
