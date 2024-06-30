@@ -171,7 +171,7 @@ http://a.ifsift.cn:8888/rtp/239.77.1.10:5146
 http://a.ifsift.cn:8888/rtp/239.77.0.188:5146
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV14.png" group-title="IPTV-央视",CCTV-14高清
 http://a.ifsift.cn:8888/rtp/239.77.1.161:5146
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/imgCCTV15.png" group-title="IPTV-央视",CCTV-15高清
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="IPTV-央视",CCTV-15高清
 http://a.ifsift.cn:8888/rtp/239.77.1.239:5146
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="IPTV-央视",CCTV-16高清
 http://a.ifsift.cn:8888/rtp/239.77.0.165:5146
@@ -301,7 +301,7 @@ http://a.ifsift.cn:8888/rtp/239.253.43.98:5146
 http://a.ifsift.cn:8888/rtp/239.77.0.245:5146
 #EXTINF:-1 tvg-id="" tvg-name="南国都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou6.png" group-title="IPTV-广州电视台",南国都市4K
 http://a.ifsift.cn:8888/rtp/239.253.43.99:5146
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="IPTV-央视",CCTV-16 4K
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="IPTV-央视",CCTV-16 4K
 http://a.ifsift.cn:8888/rtp/239.77.1.98:5146
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="IPTV-央视",CCTV-4K 4K
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" group-title="IPTV-央视",CCTV-4K 4K
 http://a.ifsift.cn:8888/rtp/239.77.0.194:5146
