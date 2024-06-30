@@ -239,7 +239,7 @@ http://a.ifsift.cn:8888/rtp/239.253.43.35:5146
 http://a.ifsift.cn:8888/rtp/239.77.0.189:5146
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="IPTV-卫视",三沙卫视高清
 http://a.ifsift.cn:8888/rtp/239.253.43.113:5146
-#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="IPTV-央视网台",兵器科技高清
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVbqkj.png" group-title="IPTV-央视网台",兵器科技高清
 http://a.ifsift.cn:8888/rtp/239.253.43.18:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="IPTV-央视网台",电视指南高清
 http://a.ifsift.cn:8888/rtp/239.253.43.19:5146
