@@ -199,7 +199,7 @@ http://a.ifsift.cn:8888/rtp/239.77.0.90:5146
 http://a.ifsift.cn:8888/rtp/239.77.1.218:5146
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="IPTV-卫视",安徽卫视高清
 http://a.ifsift.cn:8888/rtp/239.77.1.92:5146
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="IPTV-卫视",北京卫视高清
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="IPTV-卫视",北京卫视高清
 http://a.ifsift.cn:8888/rtp/239.77.1.4:5146
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="IPTV-卫视",天津卫视高清
 http://a.ifsift.cn:8888/rtp/239.77.1.141:5146
