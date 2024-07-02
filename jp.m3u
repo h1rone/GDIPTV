@@ -16,9 +16,9 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:2
 
 #EXTINF:-1 group-title="BS" tvg-id="10760" tvg-name="nhkbs1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png", NHK BS
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="BS" tvg-id="10770" tvg-name="nhkbsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png", NHK BSP 4K
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&checkedby:iptvcat.com
+#EXTINF:-2 group-title="BS" tvg-id="10770" tvg-name="nhkbsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png", NHK BSP 4K
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&checkedby:iptvcat.com
 #EXTINF:-1 group-title="BS" tvg-id="368867" tvg-name="bsntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png", BS NTV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="BS" tvg-id="369335" tvg-name="bsasahi" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs_asahi.png", BS Asahi  
@@ -54,9 +54,9 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="365962" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1498462799194107910/cQuSiuZ__400x400.jpg" group-title="Other", ファミリー劇場
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="365951" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1363766318298587139/TYkQgTdr_400x400.jpg" group-title="Other", 東映チャンネル
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&checkedby:iptvcat.com
+#EXTINF:-2 tvg-id="365951" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1363766318298587139/TYkQgTdr_400x400.jpg" group-title="Other", 東映チャンネル
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="10824" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1273841835689963521/FKf5Sq2j_400x400.jpg" group-title="Other", チャンネルNECO
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="10731" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/849074387303247873/lBnfq2_Y_400x400.jpg" group-title="Other", 歌謡ポップスチャンネル
@@ -74,8 +74,8 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-id="365975" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1712369679485042688/xmGfVrkU_400x400.jpg" group-title="Other", スーパー!ドラマTV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-2 tvg-id="10712" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1242363950030655489/wawK1wr8_400x400.jpg" group-title="Other", チャンネル銀河
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&checkedby:iptvcat.com
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="10831" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/931333270083481600/35PsiZfj_400x400.jpg" group-title="Other", ムービープラス
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="10714" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1212517111446171651/H_9ZOvS9_400x400.jpg" group-title="Other", 日テレジータス
