@@ -231,7 +231,7 @@ http://a.ifsift.cn:8888/rtp/239.253.43.36:5146
 http://a.ifsift.cn:8888/rtp/239.77.1.111:5146
 #EXTINF:-1 tvg-id="80" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="IPTV-卫视",青海卫视高清
 http://a.ifsift.cn:8888/rtp/239.253.43.125:5146
-#EXTINF:-1 tvg-id="78" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="IPTV-卫视",海南卫视高清
+#EXTINF:-1 tvg-id="206" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="IPTV-卫视",海南卫视高清
 http://a.ifsift.cn:8888/rtp/239.253.43.35:5146
 #EXTINF:-1 tvg-id="74" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="IPTV-卫视",甘肃卫视高清
 http://a.ifsift.cn:8888/rtp/239.77.0.189:5146
