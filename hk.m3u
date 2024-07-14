@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml" catchup="append"
 #EXTINF:-1,tvg-id="368359" tvg-name="無綫新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png",无线新闻台
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1,tvg-id="2524" tvg-name="华丽翡翠台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png",华丽翡翠台
@@ -32,3 +32,5 @@ http://php.jdshipin.com:8880/ub.php?id=viu
 
 #EXTINF:-1,tvg-id="8503" tvg-name="TVB J1" tvg-logo="https://epg.pw/media/images/channel/2023/12/09/large/20231209230635791080_38.png",TVB J1
 https://stream1.freetv.fun/986f41c189cd130338872f44469eba694424dbbb2a9b61639365b47400dde6b3.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="surf now tv" tvg-logo="https://epg.pw/media/images/channel/2016/12/31/large/20161231231738105400_86.png",surf now tv
+https://stream1.freetv.fun/d05473213eccf4814f220641dbcf25abe94f124106c31eed62c4c51ee611342d.m3u8
