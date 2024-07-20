@@ -19,21 +19,21 @@ https://mytv.btjson.us.kg/stream/tvb/null-5/master.m3u8?u=btjson&p=213f2541f159a
 https://mytv.btjson.us.kg/stream/tvb/null-6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368335" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/mytv_87.png",亚洲剧台
 https://mytv.btjson.us.kg/stream/tvb/null-7/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="368351" tvg-name="" tvg-logo="",黃金华剧台
+#EXTINF:-1,tvg-id="368351" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB14.png",黃金华剧台
 https://mytv.btjson.us.kg/stream/tvb/null-8/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368323" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/astro_tvb_entertainment.png",娱乐新闻台
 https://mytv.btjson.us.kg/stream/tvb/null-9/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="368353" tvg-name="" tvg-logo="",戏曲台
+#EXTINF:-1,tvg-id="368353" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB14.png",戏曲台
 https://mytv.btjson.us.kg/stream/tvb/null-10/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="368348" tvg-name="" tvg-logo="",美亚电影台
+#EXTINF:-1,tvg-id="368348" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/mytv_201.png",美亚电影台
 https://mytv.btjson.us.kg/stream/tvb/null-11/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="368371" tvg-name="" tvg-logo="",天映经典频道
+#EXTINF:-1,tvg-id="368371" tvg-name="" tvg-logo="https://www.nongbentianxia.com/uploads/tvimg/tvpic/cmclassic.jpg",天映经典频道
 https://mytv.btjson.us.kg/stream/tvb/null-12/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="368330" tvg-name="" tvg-logo="",中国电影频道
+#EXTINF:-1,tvg-id="368330" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/95/China_Movie_Channel_Main_Logo.png",中国电影频道
 https://mytv.btjson.us.kg/stream/tvb/null-13/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368357" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e9/TVBS_Asia_logo_2017.png",无线卫星亚洲台
 https://mytv.btjson.us.kg/stream/tvb/null-14/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="368329" tvg-name="" tvg-logo="",创世电视
+#EXTINF:-1,tvg-id="368329" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/91/Creation-tv_logo.png",创世电视
 https://mytv.btjson.us.kg/stream/tvb/null-15/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368340" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dongfang.png",东方卫视国际频道
 https://mytv.btjson.us.kg/stream/tvb/null-16/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
@@ -51,5 +51,5 @@ https://mytv.btjson.us.kg/stream/tvb/null-21/master.m3u8?u=btjson&p=213f2541f159
 https://mytv.btjson.us.kg/stream/tvb/null-22/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368377" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/cna_news.png",亚洲新闻台
 https://mytv.btjson.us.kg/stream/tvb/null-23/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="368327" tvg-name="" tvg-logo="",半岛电视台英文频道
+#EXTINF:-1,tvg-id="368327" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/Aljazeera.svg",半岛电视台英文频道
 https://mytv.btjson.us.kg/stream/tvb/null-24/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
