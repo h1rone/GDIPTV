@@ -9,19 +9,19 @@ https://mytv.btjson.us.kg/stream/tvb/null-1/master.m3u8?u=btjson&p=213f2541f159a
 https://mytv.btjson.us.kg/stream/tvb/tvbplus/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368369" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png",明珠台
 https://mytv.btjson.us.kg/stream/tvb/null-2/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="368358" tvg-name="" tvg-logo="",黄金翡翠台
+#EXTINF:-1,tvg-id="368358" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB14.png",黄金翡翠台
 https://mytv.btjson.us.kg/stream/tvb/null-3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="368325" tvg-name="" tvg-logo="",千禧经典台
+#EXTINF:-1,tvg-id="368325" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/tvb_classic.png",千禧经典台
 https://mytv.btjson.us.kg/stream/tvb/null-4/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="",华语剧台
+#EXTINF:-1,tvg-id="368344" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/mytv_88.png",华语剧台
 https://mytv.btjson.us.kg/stream/tvb/null-5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="368381" tvg-name="" tvg-logo="",粤语片台
+#EXTINF:-1,tvg-id="368381" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB12.png",粤语片台
 https://mytv.btjson.us.kg/stream/tvb/null-6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="",亚洲剧台
+#EXTINF:-1,tvg-id="368335" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/mytv_87.png",亚洲剧台
 https://mytv.btjson.us.kg/stream/tvb/null-7/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="",黃金华剧台
+#EXTINF:-1,tvg-id="368351" tvg-name="" tvg-logo="",黃金华剧台
 https://mytv.btjson.us.kg/stream/tvb/null-8/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="368323" tvg-name="" tvg-logo="",娱乐新闻台
+#EXTINF:-1,tvg-id="368323" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/astro_tvb_entertainment.png",娱乐新闻台
 https://mytv.btjson.us.kg/stream/tvb/null-9/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368353" tvg-name="" tvg-logo="",戏曲台
 https://mytv.btjson.us.kg/stream/tvb/null-10/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
@@ -31,25 +31,25 @@ https://mytv.btjson.us.kg/stream/tvb/null-11/master.m3u8?u=btjson&p=213f2541f159
 https://mytv.btjson.us.kg/stream/tvb/null-12/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368330" tvg-name="" tvg-logo="",中国电影频道
 https://mytv.btjson.us.kg/stream/tvb/null-13/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="368357" tvg-name="" tvg-logo="",无线卫星亚洲台
+#EXTINF:-1,tvg-id="368357" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e9/TVBS_Asia_logo_2017.png",无线卫星亚洲台
 https://mytv.btjson.us.kg/stream/tvb/null-14/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368329" tvg-name="" tvg-logo="",创世电视
 https://mytv.btjson.us.kg/stream/tvb/null-15/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="368340" tvg-name="" tvg-logo="",东方卫视国际频道
+#EXTINF:-1,tvg-id="368340" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dongfang.png",东方卫视国际频道
 https://mytv.btjson.us.kg/stream/tvb/null-16/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="368338" tvg-name="" tvg-logo="",凤凰卫视中文台
+#EXTINF:-1,tvg-id="368338" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/phtv_live.png",凤凰卫视中文台
 https://mytv.btjson.us.kg/stream/tvb/null-17/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="368343" tvg-name="" tvg-logo="",凤凰卫视资讯台
+#EXTINF:-1,tvg-id="368343" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/phtv_info.png",凤凰卫视资讯台
 https://mytv.btjson.us.kg/stream/tvb/null-18/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="368910" tvg-name="" tvg-logo="",凤凰香港台
+#EXTINF:-1,tvg-id="368910" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/phtv_hk.png",凤凰香港台
 https://mytv.btjson.us.kg/stream/tvb/null-19/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="368375" tvg-name="" tvg-logo="",中央电视台综合频道（港澳版）
+#EXTINF:-1,tvg-id="368899" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png",中央电视台综合频道（港澳版）
 https://mytv.btjson.us.kg/stream/tvb/null-20/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="368352" tvg-name="" tvg-logo="",神州新闻台
+#EXTINF:-1,tvg-id="368352" tvg-name="" tvg-logo="https://www.newton.com.tw/img/3/098/cGcq5SM1EWZzAzNmBTOhRTMwMjYlNDZ5Y2YxM2YmZ2Y2IjM4kTYzQTN0YjYv0WZ0l2LjlGcvU2apFmYv02bj5SdklWYi5yYyN3Ztl2LvoDc0RHa.jpg",神州新闻台
 https://mytv.btjson.us.kg/stream/tvb/null-21/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="368363" tvg-name="" tvg-logo="",无线卫星新闻台
+#EXTINF:-1,tvg-id="368363" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/tvbs_news.png",无线卫星新闻台
 https://mytv.btjson.us.kg/stream/tvb/null-22/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="",亚洲新闻台
+#EXTINF:-1,tvg-id="368377" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/cna_news.png",亚洲新闻台
 https://mytv.btjson.us.kg/stream/tvb/null-23/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368327" tvg-name="" tvg-logo="",半岛电视台英文频道
 https://mytv.btjson.us.kg/stream/tvb/null-24/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
