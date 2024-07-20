@@ -1,35 +1,23 @@
-#EXTINF:1 group-title="TVB" tvg-id="tvb/tvbplus" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",TVB Plus
-https://mytv.btjson.us.kg/stream/tvb/tvbplus/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:2 group-title="TVB" tvg-id="tvb/null-1" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",无线新闻台
-https://mytv.btjson.us.kg/stream/tvb/null-1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:3 group-title="TVB" tvg-id="tvb/null-7" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",亚洲剧台
-https://mytv.btjson.us.kg/stream/tvb/null-7/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:4 group-title="TVB" tvg-id="tvb/null-6" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",粤语片台
-https://mytv.btjson.us.kg/stream/tvb/null-6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:5 group-title="TVB" tvg-id="tvb/null-5" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",华语剧台
-https://mytv.btjson.us.kg/stream/tvb/null-5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:6 group-title="TVB" tvg-id="tvb/null" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",翡翠台
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml" catchup="append"
+#EXTINF:-1,tvg-id="368908" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png",翡翠台
 https://mytv.btjson.us.kg/stream/tvb/null/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:7 group-title="TVB" tvg-id="tvb/4k" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",翡翠台4K
+#EXTINF:-1,tvg-id="368908" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png",翡翠台4K
 https://mytv.btjson.us.kg/stream/tvb/4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:8 group-title="TVB" tvg-id="tvb/null-2" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",明珠台
+#EXTINF:-1,tvg-id="368359" tvg-name="無綫新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png",无线新闻台
+https://mytv.btjson.us.kg/stream/tvb/null-1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1,tvg-id="368906" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4f/TVB_PLUS_LOGO.jpg",TVB plus
+https://mytv.btjson.us.kg/stream/tvb/tvbplus/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1,tvg-id="368369" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png",明珠台
 https://mytv.btjson.us.kg/stream/tvb/null-2/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:9 group-title="TVB" tvg-id="tvb/null-3" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",黄金翡翠台
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="",黄金翡翠台
 https://mytv.btjson.us.kg/stream/tvb/null-3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:10 group-title="TVB" tvg-id="tvb/null-4" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",千禧经典台
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="",千禧经典台
 https://mytv.btjson.us.kg/stream/tvb/null-4/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:11 group-title="TVB" tvg-id="tvb/null-8" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",黃金华剧台
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="",华语剧台
+https://mytv.btjson.us.kg/stream/tvb/null-5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="",粤语片台
+https://mytv.btjson.us.kg/stream/tvb/null-6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="",亚洲剧台
+https://mytv.btjson.us.kg/stream/tvb/null-7/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="",黃金华剧台
 https://mytv.btjson.us.kg/stream/tvb/null-8/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:12 group-title="TVB" tvg-id="tvb/4k" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 翡翠台 4K
-https://cdn.1678520.xyz/fct4k.php
