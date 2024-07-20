@@ -45,15 +45,28 @@ https://mytv.btjson.us.kg/stream/tvb/kix/master.m3u8?u=btjson&p=213f2541f159ac2e
 https://mytv.btjson.us.kg/stream/tvb/lovenaturehd/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368364" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature 4K
 https://mytv.btjson.us.kg/stream/tvb/lovenatureh4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="368356" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/GlobalTrekker_remaster.svg/revision/latest?cb=20240114082358",Global Trekker
+#EXTINF:-1,tvg-id="368356" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/482_144.png",Global Trekker
 https://mytv.btjson.us.kg/stream/tvb/globaltrekker/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368332" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/rock_entertainment.png",ROCK综艺娱乐
 https://mytv.btjson.us.kg/stream/tvb/rock/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-
-
-
-
+#EXTINF:-1,tvg-id="368365" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/tvb_502.png",AXN
+https://mytv.btjson.us.kg/stream/tvb/axn/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1,tvg-id="368333" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/tvb_504.png",Animax
+https://mytv.btjson.us.kg/stream/tvb/animax/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1,tvg-id="368326" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/tvb_505.png",tvN
+https://mytv.btjson.us.kg/stream/tvb/tvn/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1,tvg-id="368374" tvg-name="" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608030139863459_19.png",FashionBox
+https://mytv.btjson.us.kg/stream/tvb/fashionbox/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1,tvg-id="368341" tvg-name="" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608022100085492_43.png",Mezzo Live HD
+https://mytv.btjson.us.kg/stream/tvb/mezzolivehd/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1,tvg-id="368342" tvg-name="" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608022432265759_74.png",France 24
+https://mytv.btjson.us.kg/stream/tvb/france24/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1,tvg-id="368373" tvg-name="" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609090029664165_74.png",DW
+https://mytv.btjson.us.kg/stream/tvb/dw/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1,tvg-id="368337" tvg-name="" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608030639006202_78.png",NHK World-Japan
+https://mytv.btjson.us.kg/stream/tvb/nhkworldjapan/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1,tvg-id="368370" tvg-name="" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608021452818098_59.png",Arirang TV 
+https://mytv.btjson.us.kg/stream/tvb/arirangtv/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368348" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/mytv_201.png",美亚电影台
 https://mytv.btjson.us.kg/stream/tvb/null-11/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368371" tvg-name="" tvg-logo="https://www.nongbentianxia.com/uploads/tvimg/tvpic/cmclassic.jpg",天映经典频道
