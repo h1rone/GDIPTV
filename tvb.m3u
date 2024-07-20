@@ -47,6 +47,8 @@ https://mytv.btjson.us.kg/stream/tvb/lovenaturehd/master.m3u8?u=btjson&p=213f254
 https://mytv.btjson.us.kg/stream/tvb/lovenatureh4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368356" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/GlobalTrekker_remaster.svg/revision/latest?cb=20240114082358",Global Trekker
 https://mytv.btjson.us.kg/stream/tvb/globaltrekker/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1,tvg-id="368332" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/rock_entertainment.png",ROCK综艺娱乐
+https://mytv.btjson.us.kg/stream/tvb/rock/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
 
 
