@@ -31,6 +31,10 @@ https://mytv.btjson.us.kg/stream/tvb/superkidschannel/master.m3u8?u=btjson&p=213
 https://mytv.btjson.us.kg/stream/tvb/zoomoo/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368336" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/nickelodeon.png",nickelodeon
 https://mytv.btjson.us.kg/stream/tvb/nickelodeon/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1,tvg-id="368367" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/nickjr.png",Nick Jr
+https://mytv.btjson.us.kg/stream/tvb/nickjr/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1,tvg-id="368339" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",Thrill
+https://mytv.btjson.us.kg/stream/tvb/thrill/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
 
 
