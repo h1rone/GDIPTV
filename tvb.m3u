@@ -19,7 +19,7 @@ https://mytv.btjson.us.kg/stream/tvb/null-1/master.m3u8?u=btjson&p=213f2541f159a
 https://mytv.btjson.us.kg/stream/tvb/tvbplus/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368369" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png",明珠台
 https://mytv.btjson.us.kg/stream/tvb/null-2/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="星河台" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB%E6%98%9F%E6%B2%B3.png",星河台
+#EXTINF:-1,tvg-id="TVBXingHe.my" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB%E6%98%9F%E6%B2%B3.png",星河台
 https://mytv.btjson.us.kg/stream/tvb/null-25/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368358" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB14.png",黄金翡翠台
 https://mytv.btjson.us.kg/stream/tvb/null-3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
