@@ -5,7 +5,7 @@ https://mytv.btjson.us.kg/stream/tvb/null/master.m3u8?u=btjson&p=213f2541f159ac2
 https://mytv.btjson.us.kg/stream/tvb/4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368359" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png",无线新闻台
 https://mytv.btjson.us.kg/stream/tvb/null-1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="368906" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4f/TVB_PLUS_LOGO.jpg",TVB plus
+#EXTINF:-1,tvg-id="368906" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBPlus.png",TVB plus
 https://mytv.btjson.us.kg/stream/tvb/tvbplus/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368369" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png",明珠台
 https://mytv.btjson.us.kg/stream/tvb/null-2/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
@@ -69,7 +69,7 @@ https://mytv.btjson.us.kg/stream/tvb/nhkworldjapan/master.m3u8?u=btjson&p=213f25
 https://mytv.btjson.us.kg/stream/tvb/arirangtv/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368348" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/mytv_201.png",美亚电影台
 https://mytv.btjson.us.kg/stream/tvb/null-11/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="368371" tvg-name="" tvg-logo="https://www.nongbentianxia.com/uploads/tvimg/tvpic/cmclassic.jpg",天映经典频道
+#EXTINF:-1,tvg-id="368371" tvg-name="" tvg-logo="https://assets.livednow.com/logo/天映經典頻道.png",天映经典频道
 https://mytv.btjson.us.kg/stream/tvb/null-12/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368330" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/95/China_Movie_Channel_Main_Logo.png",中国电影频道
 https://mytv.btjson.us.kg/stream/tvb/null-13/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
@@ -89,9 +89,9 @@ https://mytv.btjson.us.kg/stream/tvb/null-19/master.m3u8?u=btjson&p=213f2541f159
 https://mytv.btjson.us.kg/stream/tvb/null-20/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368352" tvg-name="" tvg-logo="https://www.newton.com.tw/img/3/098/cGcq5SM1EWZzAzNmBTOhRTMwMjYlNDZ5Y2YxM2YmZ2Y2IjM4kTYzQTN0YjYv0WZ0l2LjlGcvU2apFmYv02bj5SdklWYi5yYyN3Ztl2LvoDc0RHa.jpg",神州新闻台
 https://mytv.btjson.us.kg/stream/tvb/null-21/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="368363" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/tvbs_news.png",无线卫星新闻台
+#EXTINF:-1,tvg-id="368363" tvg-name="" tvg-logo="https://assets.livednow.com/logo/無線衛星新聞台.png",无线卫星新闻台
 https://mytv.btjson.us.kg/stream/tvb/null-22/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="368377" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/cna_news.png",亚洲新闻台
+#EXTINF:-1,tvg-id="368377" tvg-name="" tvg-logo="https://assets.livednow.com/logo/亞洲新聞台.png",亚洲新闻台
 https://mytv.btjson.us.kg/stream/tvb/null-23/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368327" tvg-name="" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609120937943360_87.png",半岛电视台英文频道
 https://mytv.btjson.us.kg/stream/tvb/null-24/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
