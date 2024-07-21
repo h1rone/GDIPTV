@@ -1,4 +1,10 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml" catchup="append"
+#EXTINF:-1,tvg-id="爆谷台" tvg-name="" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-26/56162888526c89dd07f29ee0855d8c0a.png",爆谷台
+https://mytv.btjson.us.kg/stream/tvb/null-26/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1,tvg-id="星影台" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png",星影台
+https://mytv.btjson.us.kg/stream/tvb/null-27/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1,tvg-id="368897" tvg-name="" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/073d7fa599cf9e6949d1a9c47450defd.png",ViuTV
+https://mytv.btjson.us.kg/stream/tvb/viutv/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368376" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB14.png",SUPER FREE
 https://mytv.btjson.us.kg/stream/tvb/mytvsuperfree/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368334" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB14.png",myTV SUPER18台
@@ -13,6 +19,8 @@ https://mytv.btjson.us.kg/stream/tvb/null-1/master.m3u8?u=btjson&p=213f2541f159a
 https://mytv.btjson.us.kg/stream/tvb/tvbplus/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368369" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png",明珠台
 https://mytv.btjson.us.kg/stream/tvb/null-2/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1,tvg-id="星河台" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB%E6%98%9F%E6%B2%B3.png",星河台
+https://mytv.btjson.us.kg/stream/tvb/null-25/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368358" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB14.png",黄金翡翠台
 https://mytv.btjson.us.kg/stream/tvb/null-3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="368325" tvg-name="" tvg-logo="http://content.stream-link.org/tv_logo/tvb_classic.png",千禧经典台
