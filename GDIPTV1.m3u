@@ -239,8 +239,6 @@ http://121.13.164.159:8000/rtp/239.77.0.189:5146
 http://121.13.164.159:8000/rtp/239.253.43.113:5146
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVbqkj.png" group-title="IPTV-央视网台",兵器科技高清
 http://121.13.164.159:8000/rtp/239.253.43.18:5146
-#EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="IPTV-央视网台",电视指南高清
-http://121.13.164.159:8000/rtp/239.253.43.19:5146
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="IPTV-央视网台",风云足球高清
 http://121.13.164.159:8000/rtp/239.253.43.20:5146
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" group-title="IPTV-央视网台",央视台球高清
@@ -274,7 +272,7 @@ http://121.13.164.159:8000/rtp/239.77.0.180:5146
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="IPTV-数字付费",中国交通
 http://121.13.164.159:8000/rtp/239.77.1.249:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/chapd.png" group-title="IPTV-数字付费",茶
-http://121.13.164.159:8000/rtp/239.77.0.15:5146
+http://121.13.164.159:8000/rtp/239.77.0.15:5146i
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="IPTV-数字付费",快乐垂钓
 http://121.13.164.159:8000/rtp/239.77.0.145:5146
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="IPTV-数字付费",金鹰纪实高清
