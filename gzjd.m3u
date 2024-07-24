@@ -137,11 +137,7 @@ http://119.129.173.13:8081/hls/67/index.m3u8
 http://119.129.173.13:8081/hls/68/index.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",全纪实
 http://119.129.173.13:8081/hls/69/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",体育赛事
-http://119.129.173.13:8081/hls/70/index.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
 http://119.129.173.13:8081/hls/71/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",岭南戏曲
-http://119.129.173.13:8081/hls/72/index.m3u8
-#EXTINF:-1 tvg-id="6114" tvg-name="MTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mtvlivehd.png" group-title="港澳台",MTV
+#EXTINF:-1 tvg-id="6114" tvg-name="MTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mtvlivehd.png" group-title="港澳台",澳视澳门
 http://119.129.173.13:8081/hls/73/index.m3u8
