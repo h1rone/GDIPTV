@@ -300,4 +300,4 @@ http://113.65.252.158:7777/rtp/239.253.43.99:5146
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="IPTV-央视",CCTV-16 4K
 http://113.65.252.158:7777/rtp/239.77.1.98:5146
 #EXTINF:-1 tvg-id="247" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" group-title="IPTV-央视",CCTV-4K 4K
-http://113.65.252.158:7777/rtp/239.77.0.174:5146
+http://113.65.252.158:7777/rtp/239.77.0.180:5146
