@@ -19,5 +19,5 @@ http://222.217.246.118:8181/tsfile/live/1009_1.m3u8
 http://222.217.246.118:8181/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",广东卫视高清
 http://222.217.246.118:8181/tsfile/live/1031_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB6.png”,星河台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB6.png",星河台
 http://222.217.246.118:8181/tsfile/live/1073_1.m3u8
