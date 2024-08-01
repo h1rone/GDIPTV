@@ -3,8 +3,6 @@
 http://180.142.220.36:8181/tsfile/live/1000_1.m3u8
 #EXTINF:-1,经济科教电信
 http://180.142.220.36:8181/tsfile/live/1003_1.m3u8
-#EXTINF:-1,岭南戏曲高清dx
-http://180.142.220.36:8181/tsfile/live/1005_1.m3u8
 #EXTINF:-1,大湾区卫视高清dx
 http://180.142.220.36:8181/tsfile/live/1002_1.m3u8
 #EXTINF:-1,嘉佳卡通dx
