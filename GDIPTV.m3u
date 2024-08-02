@@ -60,7 +60,7 @@ http://113.87.227.200:5000/udp/239.253.43.104:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p9.itc.cn/q_70/images03/20210224/4f7603654a9f4632b94f2551d6b28a90.png" group-title="IPTV-东莞地方台",东莞生活资讯高清
 http://113.87.227.200:5000/udp/239.253.43.105:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="IPTV-央视",CCTV-1高清
-http://113.87.227.200:5000/udp/239.77.1.159:5146
+http://113.87.227.200:5000/udp/239.77.0.129:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="IPTV-央视",CCTV-2高清
 http://113.87.227.200:5000/udp/239.77.0.137:5146
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" group-title="IPTV-央视",CCTV-3高清
