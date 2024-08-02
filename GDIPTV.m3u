@@ -55,9 +55,9 @@ http://113.87.227.200:5000/udp/239.77.1.67:5146
 http://113.87.227.200:5000/udp/239.77.1.223:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen11.png" group-title="IPTV-深圳电视台",深圳众创TV高清
 http://113.87.227.200:5000/udp/239.77.1.247:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-东莞地方台",东莞新闻综合高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p9.itc.cn/q_70/images03/20210224/4f7603654a9f4632b94f2551d6b28a90.png" group-title="IPTV-东莞地方台",东莞新闻综合高清
 http://113.87.227.200:5000/udp/239.253.43.104:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV-东莞地方台",东莞生活资讯高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p9.itc.cn/q_70/images03/20210224/4f7603654a9f4632b94f2551d6b28a90.png" group-title="IPTV-东莞地方台",东莞生活资讯高清
 http://113.87.227.200:5000/udp/239.253.43.105:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="IPTV-央视",CCTV-1高清
 http://113.87.227.200:5000/udp/239.77.1.159:5146
