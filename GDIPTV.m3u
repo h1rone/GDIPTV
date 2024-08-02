@@ -96,7 +96,7 @@ http://113.87.227.200:5000/udp/239.77.0.133:5146
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="IPTV-央视",CCTV-15高清
 http://113.87.227.200:5000/udp/239.77.1.239:5146
 #EXTINF:-1 tvg-id="187" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="IPTV-央视",CCTV-16高清
-http://113.87.227.200:5000/udp/239.77.1.76:5146
+http://113.87.227.200:5000/udp/239.77.0.165:5146
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="IPTV-央视",CCTV-17高清
 http://113.87.227.200:5000/udp/239.77.1.121:5146
 #EXTINF:-1 tvg-id="200" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTN.png" group-title="IPTV-央视",CGTN英语高清
