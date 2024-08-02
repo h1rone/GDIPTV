@@ -60,11 +60,11 @@ http://a.ifsift.cn:8888/udp/239.253.43.104:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p9.itc.cn/q_70/images03/20210224/4f7603654a9f4632b94f2551d6b28a90.png" group-title="IPTV-东莞地方台",东莞生活资讯高清
 http://a.ifsift.cn:8888/udp/239.253.43.105:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="IPTV-央视",CCTV-1高清
-http://a.ifsift.cn:8888/udp/239.77.1.159:5146
+http://a.ifsift.cn:8888/udp/239.77.0.129:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="IPTV-央视",CCTV-2高清
 http://a.ifsift.cn:8888/udp/239.77.0.137:5146
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" group-title="IPTV-央视",CCTV-3高清
-http://a.ifsift.cn:8888/udp/239.77.0.175:5146
+http://a.ifsift.cn:8888/udp/239.77.0.169:5146
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="IPTV-央视",CCTV-4高清
 http://a.ifsift.cn:8888/udp/239.77.0.78:5146
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4mz.png" group-title="IPTV-央视",CCTV-4美洲高清
@@ -74,13 +74,13 @@ http://a.ifsift.cn:8888/udp/239.253.43.120:5146
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="IPTV-央视",CCTV-5高清
 http://a.ifsift.cn:8888/udp/239.77.0.170:5146
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" group-title="IPTV-央视",CCTV-5+高清
-http://a.ifsift.cn:8888/udp/239.77.1.147:5146
+http://a.ifsift.cn:8888/udp/239.77.1.31:5146
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV6.png" group-title="IPTV-央视",CCTV-6高清
-http://a.ifsift.cn:8888/udp/239.77.0.178:5146
+http://a.ifsift.cn:8888/udp/239.77.0.171:5146
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" group-title="IPTV-央视",CCTV-7高清
 http://a.ifsift.cn:8888/udp/239.77.0.138:5146
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" group-title="IPTV-央视",CCTV-8高清
-http://a.ifsift.cn:8888/udp/239.77.0.181:5146
+http://a.ifsift.cn:8888/udp/239.77.0.172:5146
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" group-title="IPTV-央视",CCTV-9高清
 http://a.ifsift.cn:8888/udp/239.77.0.135:5146
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" group-title="IPTV-央视",CCTV-10高清
@@ -96,7 +96,7 @@ http://a.ifsift.cn:8888/udp/239.77.0.133:5146
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="IPTV-央视",CCTV-15高清
 http://a.ifsift.cn:8888/udp/239.77.1.239:5146
 #EXTINF:-1 tvg-id="187" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="IPTV-央视",CCTV-16高清
-http://a.ifsift.cn:8888/udp/239.77.1.76:5146
+http://a.ifsift.cn:8888/udp/239.77.0.165:5146
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="IPTV-央视",CCTV-17高清
 http://a.ifsift.cn:8888/udp/239.77.1.121:5146
 #EXTINF:-1 tvg-id="200" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTN.png" group-title="IPTV-央视",CGTN英语高清
@@ -162,7 +162,7 @@ http://a.ifsift.cn:8888/udp/239.77.0.189:5146
 #EXTINF:-1 tvg-id="207" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="IPTV-卫视",三沙卫视高清
 http://a.ifsift.cn:8888/udp/239.253.43.113:5146
 #EXTINF:-1 tvg-id="7251" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="IPTV-广东电视台",广东综艺4k
-http://a.ifsift.cn:8888/udp/239.7710.236:5146
+http://a.ifsift.cn:8888/udp/239.77.0.252:5146
 #EXTINF:-1 tvg-id="" tvg-name="南国都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou6.png" group-title="IPTV-广州电视台",南国都市4K
 http://a.ifsift.cn:8888/udp/239.253.43.99:5146
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="IPTV-央视",CCTV-16 4K
