@@ -21,7 +21,3 @@ http://222.217.246.118:8181/tsfile/live/1010_1.m3u8
 http://222.217.246.118:8181/tsfile/live/1031_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB6.png",星河台
 http://222.217.246.118:8181/tsfile/live/1073_1.m3u8
-
-
-#EXTINF:-1,美亚电影
-http://edgeware-live.edgeware.tvb.com/cl/slocalr21/c/ott_CMAM_hevc/op/cenc_m/f/index.mpd?sig=85a56ae2174026bd2050b8001e5f6e7f&ext_start_limit=1722802480&int_start_limit=1722802480&ts=1722802480&c=719568449
