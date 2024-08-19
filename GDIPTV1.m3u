@@ -7,7 +7,7 @@ https://stream.yann.ooo/stream/tvb/fchd/master.m3u8?u=test1&p=e3b0c44298fc1c149a
 https://test.zapi.us.kg/?id=feicui
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" group-title="港澳台",无线新闻台
 https://test.zapi.us.kg/?id=tvb-news
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zh.wikipedia.org/zh-cn/TVB_Plus#/media/File:TVB_PLUS_LOGO.jpg" group-title="港澳台",TVB plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="港澳台",TVB plus
 https://test.zapi.us.kg/?id=tvb-plus
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png" group-title="港澳台",TVB 明珠台  
 https://test.zapi.us.kg/?id=pearl
@@ -15,7 +15,7 @@ https://test.zapi.us.kg/?id=pearl
 https://test.zapi.us.kg/?id=golden-chinese-drama
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now3.png" group-title="港澳台",Now 直播台
 https://test.zapi.us.kg/?id=now-direct
-#EXTINF:-1 tvg-id="" tvg-name="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now1.png" tvg-logo="" group-title="港澳台",now新闻台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now1.png" group-title="港澳台",now新闻台
 https://test.zapi.us.kg/?id=now-news
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now2.png" group-title="港澳台",Now 财经台  
 https://test.zapi.us.kg/?id=now-finance
@@ -25,7 +25,7 @@ https://test.zapi.us.kg/?id=baogu-movies
 https://test.zapi.us.kg/?id=now-jelli
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/now-sports-plus-hk.png" group-title="港澳台",Now Sports Plus
 https://test.zapi.us.kg/?id=now-sports-plus
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="港澳台",Now 星影台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.v1.mk/logo/NOW星影台.png" group-title="港澳台",Now 星影台
 https://test.zapi.us.kg/?id=now-baogu-superstars
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/viu-tv-hk.png" group-title="港澳台",ViuTV
 https://test.zapi.us.kg/?id=viutv
@@ -33,11 +33,11 @@ https://test.zapi.us.kg/?id=viutv
 https://test.zapi.us.kg/?id=viutv6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",Viu剧集台  
 https://test.zapi.us.kg/?id=now-viu-drama
-#EXTINF:-1 tvg-id=" tvg-name="" tvg-logo="" group-title="港澳台",HOY TV国际财经台
+#EXTINF:-1 tvg-id=" tvg-name="" tvg-logo="https://epg.v1.mk/logo/HOY国际财经台.png" group-title="港澳台",HOY TV国际财经台
 https://test.zapi.us.kg/?id=hoy-ibc
-#EXTINF:-1 tvg-id=" tvg-name="" tvg-logo="" group-title="港澳台",HOY TV
+#EXTINF:-1 tvg-id=" tvg-name="" tvg-logo="https://epg.v1.mk/logo/hoytv.png" group-title="港澳台",HOY TV
 https://test.zapi.us.kg/?id=hoytv
-#EXTINF:-1 tvg-id=" tvg-name="" tvg-logo="" group-title="港澳台",HOY TV资讯台
+#EXTINF:-1 tvg-id=" tvg-name="" tvg-logo="https://epg.v1.mk/logo/hoy资讯台.png" group-title="港澳台",HOY TV资讯台
 https://test.zapi.us.kg/?id=hoy-info
 #EXTINF:-1 tvg-id="20" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="IPTV-广东电视台",广东卫视
 http://a.ifsift.cn:8888/udp/239.77.0.166:5146
