@@ -3,14 +3,19 @@
 http://119.129.172.208:8081/hls/20/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台(谷豆广电版)
 https://stream.yann.ooo/stream/tvb/fchd/master.m3u8?u=test1&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台(xsj)
 https://test.zapi.us.kg/?id=feicui
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台(xsj)
+http://14.19.145.33:9981/stream/channelid/1202627090?&profile=pass
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" group-title="港澳台",无线新闻台
 https://test.zapi.us.kg/?id=tvb-news
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="港澳台",TVB plus
 https://test.zapi.us.kg/?id=tvb-plus
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png" group-title="港澳台",TVB 明珠台  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png" group-title="港澳台",TVB 明珠台(xsj)
 https://test.zapi.us.kg/?id=pearl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png" group-title="港澳台",TVB 明珠台  
+http://14.19.145.33:9981/stream/channelid/1099821014?&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB13.png" group-title="港澳台",TVB华剧台  
 https://test.zapi.us.kg/?id=golden-chinese-drama
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now3.png" group-title="港澳台",Now 直播台
