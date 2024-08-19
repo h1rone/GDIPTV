@@ -5,33 +5,33 @@ http://119.129.172.208:8081/hls/20/index.m3u8
 https://stream.yann.ooo/stream/tvb/fchd/master.m3u8?u=test1&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 https://test.zapi.us.kg/?id=feicui
-#EXTINF:-1,无线新闻台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",无线新闻台
 https://test.zapi.us.kg/?id=tvb-news
-#EXTINF:-1,TVB plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",TVB plus
 https://test.zapi.us.kg/?id=tvb-plus
-#EXTINF:-1,TVB 明珠台  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",TVB 明珠台  
 https://test.zapi.us.kg/?id=pearl
-#EXTINF:-1,myTV SUPER 18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",myTV SUPER 18
 https://test.zapi.us.kg/?id=mytvsuper-18
-#EXTINF:-1,TVB华剧台  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",TVB华剧台  
 https://test.zapi.us.kg/?id=golden-chinese-drama
-#EXTINF:-1,Now 直播台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",Now 直播台
 https://test.zapi.us.kg/?id=now-direct
-#EXTINF:-1,now新闻台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",now新闻台
 https://test.zapi.us.kg/?id=now-news
-#EXTINF:-1,Now 财经台  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",Now 财经台  
 https://test.zapi.us.kg/?id=now-finance
-#EXTINF:-1,now爆谷台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",now爆谷台
 https://test.zapi.us.kg/?id=baogu-movies
-#EXTINF:-1,Now jelli紫金国际台  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",Now jelli紫金国际台  
 https://test.zapi.us.kg/?id=now-jelli
-#EXTINF:-1,Now Sports Plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",Now Sports Plus
 https://test.zapi.us.kg/?id=now-sports-plus
-#EXTINF:-1,Now 星影台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",Now 星影台
 https://test.zapi.us.kg/?id=now-baogu-superstars
-#EXTINF:-1,ViuTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ViuTV
 https://test.zapi.us.kg/?id=viutv
-#EXTINF:-1,ViuTV6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ViuTV6
 https://test.zapi.us.kg/?id=viutv6
 #EXTINF:-1 tvg-id=" tvg-name="" tvg-logo="" group-title="港澳台",HOY TV国际财经台
 https://test.zapi.us.kg/?id=hoy-ibc
