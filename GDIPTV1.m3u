@@ -3,12 +3,42 @@
 http://119.129.172.208:8081/hls/20/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台(谷豆广电版)
 https://stream.yann.ooo/stream/tvb/fchd/master.m3u8?u=test1&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
+https://test.zapi.us.kg/?id=feicui
+#EXTINF:-1,无线新闻台
+https://test.zapi.us.kg/?id=tvb-news
+#EXTINF:-1,TVB plus
+https://test.zapi.us.kg/?id=tvb-plus
+#EXTINF:-1,TVB 明珠台  
+https://test.zapi.us.kg/?id=pearl
+#EXTINF:-1,myTV SUPER 18
+https://test.zapi.us.kg/?id=mytvsuper-18
+#EXTINF:-1,TVB华剧台  
+https://test.zapi.us.kg/?id=golden-chinese-drama
+#EXTINF:-1,Now 直播台
+https://test.zapi.us.kg/?id=now-direct
+#EXTINF:-1,now新闻台
+https://test.zapi.us.kg/?id=now-news
+#EXTINF:-1,Now 财经台  
+https://test.zapi.us.kg/?id=now-finance
+#EXTINF:-1,now爆谷台
+https://test.zapi.us.kg/?id=baogu-movies
+#EXTINF:-1,Now jelli紫金国际台  
+https://test.zapi.us.kg/?id=now-jelli
+#EXTINF:-1,Now Sports Plus
+https://test.zapi.us.kg/?id=now-sports-plus
+#EXTINF:-1,Now 星影台
+https://test.zapi.us.kg/?id=now-baogu-superstars
+#EXTINF:-1,ViuTV
+https://test.zapi.us.kg/?id=viutv
+#EXTINF:-1,ViuTV6
+https://test.zapi.us.kg/?id=viutv6
 #EXTINF:-1 tvg-id=" tvg-name="" tvg-logo="" group-title="港澳台",HOY TV国际财经台
-https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+https://test.zapi.us.kg/?id=hoy-ibc
 #EXTINF:-1 tvg-id=" tvg-name="" tvg-logo="" group-title="港澳台",HOY TV
-https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+https://test.zapi.us.kg/?id=hoytv
 #EXTINF:-1 tvg-id=" tvg-name="" tvg-logo="" group-title="港澳台",HOY TV资讯台
-https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+https://test.zapi.us.kg/?id=hoy-info
 #EXTINF:-1 tvg-id="20" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="IPTV-广东电视台",广东卫视
 http://a.ifsift.cn:8888/udp/239.77.0.166:5146
 #EXTINF:-1 tvg-id="21" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="IPTV-广东电视台",广东珠江
