@@ -31,7 +31,7 @@ https://test.zapi.us.kg/?id=now-baogu-superstars
 https://test.zapi.us.kg/?id=viutv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/viu-tv-six-hk.png" group-title="港澳台",ViuTV6
 https://test.zapi.us.kg/?id=viutv6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",Viu剧集台  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/viu-tv-hk.png" group-title="港澳台",Viu剧集台  
 https://test.zapi.us.kg/?id=now-viu-drama
 #EXTINF:-1 tvg-id=" tvg-name="" tvg-logo="https://epg.v1.mk/logo/HOY国际财经台.png" group-title="港澳台",HOY TV国际财经台
 https://test.zapi.us.kg/?id=hoy-ibc
