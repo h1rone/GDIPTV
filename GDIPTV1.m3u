@@ -25,7 +25,7 @@ https://test.zapi.us.kg/?id=baogu-movies
 https://test.zapi.us.kg/?id=now-jelli
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/now-sports-plus-hk.png" group-title="港澳台",Now Sports Plus
 https://test.zapi.us.kg/?id=now-sports-plus
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",Now 星影台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="港澳台",Now 星影台
 https://test.zapi.us.kg/?id=now-baogu-superstars
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/viu-tv-hk.png" group-title="港澳台",ViuTV
 https://test.zapi.us.kg/?id=viutv
