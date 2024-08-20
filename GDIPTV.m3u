@@ -1,171 +1,207 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List/master/epg.xml" catchup="append"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List/master/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台(广州酒店广电版)
 http://119.129.172.208:8081/hls/20/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台(谷豆广电版)
 https://stream.yann.ooo/stream/tvb/fchd/master.m3u8?u=test1&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台(xsj)
+https://test.zapi.us.kg/?id=feicui
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" group-title="港澳台",无线新闻台
+https://test.zapi.us.kg/?id=tvb-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="港澳台",TVB plus
+https://test.zapi.us.kg/?id=tvb-plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png" group-title="港澳台",TVB 明珠台
+https://test.zapi.us.kg/?id=pearl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB13.png" group-title="港澳台",TVB华剧台  
+https://test.zapi.us.kg/?id=golden-chinese-drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now3.png" group-title="港澳台",Now 直播台
+https://test.zapi.us.kg/?id=now-direct
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now1.png" group-title="港澳台",now新闻台
+https://test.zapi.us.kg/?id=now-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now2.png" group-title="港澳台",Now 财经台  
+https://test.zapi.us.kg/?id=now-finance
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="港澳台",now爆谷台
+https://test.zapi.us.kg/?id=baogu-movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/now-jelli-hk.png" group-title="港澳台",Now jelli紫金国际台  
+https://test.zapi.us.kg/?id=now-jelli
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/now-sports-plus-hk.png" group-title="港澳台",Now Sports Plus
+https://test.zapi.us.kg/?id=now-sports-plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.v1.mk/logo/NOW星影台.png" group-title="港澳台",Now 星影台
+https://test.zapi.us.kg/?id=now-baogu-superstars
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/viu-tv-hk.png" group-title="港澳台",ViuTV
+https://test.zapi.us.kg/?id=viutv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/viu-tv-six-hk.png" group-title="港澳台",ViuTV6
+https://test.zapi.us.kg/?id=viutv6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/viu-tv-hk.png" group-title="港澳台",Viu剧集台  
+https://test.zapi.us.kg/?id=now-viu-drama
+#EXTINF:-1 tvg-id=" tvg-name="" tvg-logo="https://epg.v1.mk/logo/HOY国际财经台.png" group-title="港澳台",HOY TV国际财经台
+https://test.zapi.us.kg/?id=hoy-ibc
+#EXTINF:-1 tvg-id=" tvg-name="" tvg-logo="https://epg.v1.mk/logo/hoytv.png" group-title="港澳台",HOY TV
+https://test.zapi.us.kg/?id=hoytv
+#EXTINF:-1 tvg-id=" tvg-name="" tvg-logo="https://epg.v1.mk/logo/hoy资讯台.png" group-title="港澳台",HOY TV资讯台
+https://test.zapi.us.kg/?id=hoy-info
 #EXTINF:-1 tvg-id="20" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="IPTV-广东电视台",广东卫视
-http://121.13.85.221:8000/udp/239.77.0.166:5146
+http://14.154.194.169:4022/udp/239.77.0.166:5146
 #EXTINF:-1 tvg-id="21" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="IPTV-广东电视台",广东珠江
-http://121.13.85.221:8000/udp/239.77.0.1:5146
+http://14.154.194.169:4022/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-id="25" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="IPTV-广东电视台",广东新闻
-http://121.13.85.221:8000/udp/239.77.0.173:5146
+http://14.154.194.169:4022/udp/239.77.0.173:5146
 #EXTINF:-1 tvg-id="23" tvg-name=广东民生"" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong2.png" group-title="IPTV-广东电视台",广东民生
-http://121.13.85.221:8000/udp/239.77.0.225:5146
+http://14.154.194.169:4022/udp/239.77.0.225:5146
 #EXTINF:-1 tvg-id="22" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="IPTV-广东电视台",广东体育
-http://121.13.85.221:8000/udp/239.77.0.168:5146
+http://14.154.194.169:4022/udp/239.77.0.168:5146
 #EXTINF:-1 tvg-id="28" tvg-name="经济科教" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong7.png" group-title="IPTV-广东电视台",经济科教
-http://121.13.85.221:8000/udp/239.77.0.167:5146
+http://14.154.194.169:4022/udp/239.77.0.167:5146
 #EXTINF:-1 tvg-id="29" tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong10.png" group-title="IPTV-广东电视台",大湾区卫视
-http://121.13.85.221:8000/udp/239.77.0.215:5146
+http://14.154.194.169:4022/udp/239.77.0.215:5146
 #EXTINF:-1 tvg-id="32" tvg-name="广东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" group-title="IPTV-广东电视台",广东影视
-http://121.13.85.221:8000/udp/239.77.0.217:5146
+http://14.154.194.169:4022/udp/239.77.0.217:5146
 #EXTINF:-1 tvg-id="33" tvg-name="广东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" group-title="IPTV-广东电视台",广东少儿
-http://121.13.85.221:8000/udp/239.77.0.250:5146
+http://14.154.194.169:4022/udp/239.77.0.250:5146
 #EXTINF:-1 tvg-id="26" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong14.png" group-title="IPTV-广东电视台",嘉佳卡通
-http://121.13.85.221:8000/udp/239.77.0.179:5146
+http://14.154.194.169:4022/udp/239.77.0.179:5146
 #EXTINF:-1 tvg-id="" tvg-name="南方购物" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong16.png" group-title="IPTV-广东电视台",南方购物
-http://121.13.85.221:8000/udp/239.77.0.19:5146
+http://14.154.194.169:4022/udp/239.77.0.19:5146
 #EXTINF:-1 tvg-id="" tvg-name="岭南戏曲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong11.png" group-title="IPTV-广东电视台",岭南戏曲
-http://121.13.85.221:8000/udp/239.77.0.122:5146
+http://14.154.194.169:4022/udp/239.77.0.122:5146
 #EXTINF:-1 tvg-id="34" tvg-name="现代教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong13.png" group-title="IPTV-广东电视台",现代教育
-http://121.13.85.221:8000/udp/239.77.0.213:5146
+http://14.154.194.169:4022/udp/239.77.0.213:5146
 #EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou1.png" group-title="IPTV-广州电视台",广州综合高清
-http://121.13.85.221:8000/udp/239.253.43.71:5146
+http://14.154.194.169:4022/udp/239.253.43.71:5146
 #EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou2.png" group-title="IPTV-广州电视台",广州新闻高清
-http://121.13.85.221:8000/udp/239.253.43.72:5146
+http://14.154.194.169:4022/udp/239.253.43.72:5146
 #EXTINF:-1 tvg-id="" tvg-name="广州影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou5.png" group-title="IPTV-广州电视台",广州影视高清
-http://121.13.85.221:8000/udp/239.253.43.73:5146
+http://14.154.194.169:4022/udp/239.253.43.73:5146
 #EXTINF:-1 tvg-id="" tvg-name="广州法治" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou3.png" group-title="IPTV-广州电视台",广州法治高清
-http://121.13.85.221:8000/udp/239.253.43.74:5146
+http://14.154.194.169:4022/udp/239.253.43.74:5146
 #EXTINF:-1 tvg-id="170" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="IPTV-深圳电视台",深圳卫视
-http://121.13.85.221:8000/udp/239.77.1.3:5146
+http://14.154.194.169:4022/udp/239.77.1.3:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen1.png" group-title="IPTV-深圳电视台",深圳都市频道高清
-http://121.13.85.221:8000/udp/239.77.1.176:5146
+http://14.154.194.169:4022/udp/239.77.1.176:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen2.png" group-title="IPTV-深圳电视台",深圳电视剧频道高清
-http://121.13.85.221:8000/udp/239.77.1.177:5146
+http://14.154.194.169:4022/udp/239.77.1.177:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen4.png" group-title="IPTV-深圳电视台",深圳财经生活高清
-http://121.13.85.221:8000/udp/239.77.1.242:5146
+http://14.154.194.169:4022/udp/239.77.1.242:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen8.png" group-title="IPTV-深圳电视台",深圳体育健康高清
-http://121.13.85.221:8000/udp/239.77.1.128:5146
+http://14.154.194.169:4022/udp/239.77.1.128:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen6.png" group-title="IPTV-深圳电视台",深圳少儿频道高清
-http://121.13.85.221:8000/udp/239.77.1.244:5146
+http://14.154.194.169:4022/udp/239.77.1.244:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen9.png" group-title="IPTV-深圳电视台",深圳宝安频道高清
-http://121.13.85.221:8000/udp/239.77.1.67:5146
+http://14.154.194.169:4022/udp/239.77.1.67:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen10.png" group-title="IPTV-深圳电视台",深圳龙岗频道高清
-http://121.13.85.221:8000/udp/239.77.1.223:5146
+http://14.154.194.169:4022/udp/239.77.1.223:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen11.png" group-title="IPTV-深圳电视台",深圳众创TV高清
-http://121.13.85.221:8000/udp/239.77.1.247:5146
+http://14.154.194.169:4022/udp/239.77.1.247:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p9.itc.cn/q_70/images03/20210224/4f7603654a9f4632b94f2551d6b28a90.png" group-title="IPTV-东莞地方台",东莞新闻综合高清
-http://121.13.85.221:8000/udp/239.253.43.104:5146
+http://14.154.194.169:4022/udp/239.253.43.104:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p9.itc.cn/q_70/images03/20210224/4f7603654a9f4632b94f2551d6b28a90.png" group-title="IPTV-东莞地方台",东莞生活资讯高清
-http://121.13.85.221:8000/udp/239.253.43.105:5146
+http://14.154.194.169:4022/udp/239.253.43.105:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="IPTV-央视",CCTV-1高清
-http://121.13.85.221:8000/udp/239.77.0.129:5146
+http://14.154.194.169:4022/udp/239.77.0.129:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="IPTV-央视",CCTV-2高清
-http://121.13.85.221:8000/udp/239.77.0.137:5146
+http://14.154.194.169:4022/udp/239.77.0.137:5146
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" group-title="IPTV-央视",CCTV-3高清
-http://121.13.85.221:8000/udp/239.77.0.169:5146
+http://14.154.194.169:4022/udp/239.77.0.169:5146
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="IPTV-央视",CCTV-4高清
-http://121.13.85.221:8000/udp/239.77.0.78:5146
+http://14.154.194.169:4022/udp/239.77.0.78:5146
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4mz.png" group-title="IPTV-央视",CCTV-4美洲高清
-http://121.13.85.221:8000/udp/239.253.43.121:5146
+http://14.154.194.169:4022/udp/239.253.43.121:5146
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4oz.png" group-title="IPTV-央视",CCTV-4欧洲高清
-http://121.13.85.221:8000/udp/239.253.43.120:5146
+http://14.154.194.169:4022/udp/239.253.43.120:5146
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="IPTV-央视",CCTV-5高清
-http://121.13.85.221:8000/udp/239.77.0.170:5146
+http://14.154.194.169:4022/udp/239.77.0.170:5146
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" group-title="IPTV-央视",CCTV-5+高清
-http://121.13.85.221:8000/udp/239.77.1.31:5146
+http://14.154.194.169:4022/udp/239.77.1.31:5146
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV6.png" group-title="IPTV-央视",CCTV-6高清
-http://121.13.85.221:8000/udp/239.77.0.171:5146
+http://14.154.194.169:4022/udp/239.77.0.171:5146
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" group-title="IPTV-央视",CCTV-7高清
-http://121.13.85.221:8000/udp/239.77.0.138:5146
+http://14.154.194.169:4022/udp/239.77.0.138:5146
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" group-title="IPTV-央视",CCTV-8高清
-http://121.13.85.221:8000/udp/239.77.0.172:5146
+http://14.154.194.169:4022/udp/239.77.0.172:5146
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" group-title="IPTV-央视",CCTV-9高清
-http://121.13.85.221:8000/udp/239.77.0.135:5146
+http://14.154.194.169:4022/udp/239.77.0.135:5146
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" group-title="IPTV-央视",CCTV-10高清
-http://121.13.85.221:8000/udp/239.77.0.134:5146
+http://14.154.194.169:4022/udp/239.77.0.134:5146
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV11.png" group-title="IPTV-央视",CCTV-11高清
-http://121.13.85.221:8000/udp/239.77.1.238:5146
+http://14.154.194.169:4022/udp/239.77.1.238:5146
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV12.png" group-title="IPTV-央视",CCTV-12
-http://121.13.85.221:8000/udp/239.77.0.136:5146
+http://14.154.194.169:4022/udp/239.77.0.136:5146
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="IPTV-央视",CCTV-13高清
-http://121.13.85.221:8000/udp/239.77.0.188:5146
+http://14.154.194.169:4022/udp/239.77.0.188:5146
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV14.png" group-title="IPTV-央视",CCTV-14高清
-http://121.13.85.221:8000/udp/239.77.0.133:5146
+http://14.154.194.169:4022/udp/239.77.0.133:5146
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="IPTV-央视",CCTV-15高清
-http://121.13.85.221:8000/udp/239.77.1.239:5146
+http://14.154.194.169:4022/udp/239.77.1.239:5146
 #EXTINF:-1 tvg-id="187" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="IPTV-央视",CCTV-16高清
-http://121.13.85.221:8000/udp/239.77.0.165:5146
+http://14.154.194.169:4022/udp/239.77.0.165:5146
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="IPTV-央视",CCTV-17高清
-http://121.13.85.221:8000/udp/239.77.1.121:5146
+http://14.154.194.169:4022/udp/239.77.1.121:5146
 #EXTINF:-1 tvg-id="200" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTN.png" group-title="IPTV-央视",CGTN英语高清
-http://121.13.85.221:8000/udp/239.77.0.199:5146
+http://14.154.194.169:4022/udp/239.77.0.199:5146
 #EXTINF:-1 tvg-id="205" tvg-name="CGTNDocumentary" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNjilu.png" group-title="IPTV-央视",CGTN Documentary高清
-http://121.13.85.221:8000/udp/239.253.43.122:5146
+http://14.154.194.169:4022/udp/239.253.43.122:5146
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNxbyy.png" group-title="IPTV-央视",CGTN西班牙语高清
-http://121.13.85.221:8000/udp/239.77.0.221:5146
+http://14.154.194.169:4022/udp/239.77.0.221:5146
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNfy.png" group-title="IPTV-央视",CGTN法语高清
-http://121.13.85.221:8000/udp/239.77.0.228:5146
+http://14.154.194.169:4022/udp/239.77.0.228:5146
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNalby.png" group-title="IPTV-央视",CGTN阿拉伯语高清
-http://121.13.85.221:8000/udp/239.253.43.200:5146
+http://14.154.194.169:4022/udp/239.253.43.200:5146
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNey.png" group-title="IPTV-央视",CGTN俄语高清
-http://121.13.85.221:8000/udp/239.253.43.201:5146
+http://14.154.194.169:4022/udp/239.253.43.201:5146
 #EXTINF:-1 tvg-id="64" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="IPTV-卫视",湖南卫视高清
-http://121.13.85.221:8000/udp/239.77.1.5:5146
+http://14.154.194.169:4022/udp/239.77.1.5:5146
 #EXTINF:-1 tvg-id="66" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="IPTV-卫视",浙江卫视高清
-http://121.13.85.221:8000/udp/239.77.1.33:5146
+http://14.154.194.169:4022/udp/239.77.1.33:5146
 #EXTINF:-1 tvg-id="65" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="IPTV-卫视",江苏卫视高清
-http://121.13.85.221:8000/udp/239.77.0.90:5146
+http://14.154.194.169:4022/udp/239.77.0.90:5146
 #EXTINF:-1 tvg-id="63" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="IPTV-卫视",东方卫视高清
-http://121.13.85.221:8000/udp/239.77.1.218:5146
+http://14.154.194.169:4022/udp/239.77.1.218:5146
 #EXTINF:-1 tvg-id="61" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="IPTV-卫视",安徽卫视高清
-http://121.13.85.221:8000/udp/239.77.1.92:5146
+http://14.154.194.169:4022/udp/239.77.1.92:5146
 #EXTINF:-1 tvg-id="62" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="IPTV-卫视",北京卫视高清
-http://121.13.85.221:8000/udp/239.77.1.4:5146
+http://14.154.194.169:4022/udp/239.77.1.4:5146
 #EXTINF:-1 tvg-id="68" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="IPTV-卫视",天津卫视高清
-http://121.13.85.221:8000/udp/239.77.1.141:5146
+http://14.154.194.169:4022/udp/239.77.1.141:5146
 #EXTINF:-1 tvg-id="67" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="IPTV-卫视",山东卫视高清
-http://121.13.85.221:8000/udp/239.77.1.142:5146
+http://14.154.194.169:4022/udp/239.77.1.142:5146
 #EXTINF:-1 tvg-id="76" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="IPTV-卫视",江西卫视高清
-http://121.13.85.221:8000/udp/239.77.1.219:5146
+http://14.154.194.169:4022/udp/239.77.1.219:5146
 #EXTINF:-1 tvg-id="77" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="IPTV-卫视",湖北卫视高清
-http://121.13.85.221:8000/udp/239.77.1.93:5146
+http://14.154.194.169:4022/udp/239.77.1.93:5146
 #EXTINF:-1 tvg-id="75" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="IPTV-卫视",辽宁卫视高清
-http://121.13.85.221:8000/udp/239.77.1.103:5146
+http://14.154.194.169:4022/udp/239.77.1.103:5146
 #EXTINF:-1 tvg-id="88" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="IPTV-卫视",黑龙江卫视高清
-http://121.13.85.221:8000/udp/239.77.1.6:5146
+http://14.154.194.169:4022/udp/239.77.1.6:5146
 #EXTINF:-1 tvg-id="73" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="IPTV-卫视",贵州卫视高清
-http://121.13.85.221:8000/udp/239.77.1.221:5146
+http://14.154.194.169:4022/udp/239.77.1.221:5146
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="IPTV-卫视",四川卫视高清
-http://121.13.85.221:8000/udp/239.77.1.215:5146
+http://14.154.194.169:4022/udp/239.77.1.215:5146
 #EXTINF:-1 tvg-id="71" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="IPTV-卫视",河南卫视高清
-http://121.13.85.221:8000/udp/239.77.1.229:5146
+http://14.154.194.169:4022/udp/239.77.1.229:5146
 #EXTINF:-1 tvg-id="79" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="IPTV-卫视",云南卫视高清
-http://121.13.85.221:8000/udp/239.253.43.37:5146
+http://14.154.194.169:4022/udp/239.253.43.37:5146
 #EXTINF:-1 tvg-id="84" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="IPTV-卫视",重庆卫视高清
-http://121.13.85.221:8000/udp/239.77.1.162:5146
+http://14.154.194.169:4022/udp/239.77.1.162:5146
 #EXTINF:-1 tvg-id="82" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="IPTV-卫视",河北卫视高清
-http://121.13.85.221:8000/udp/239.77.1.214:5146
+http://14.154.194.169:4022/udp/239.77.1.214:5146
 #EXTINF:-1 tvg-id="70" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="IPTV-卫视",福建东南卫视高清
-http://121.13.85.221:8000/udp/239.77.0.146:5146
+http://14.154.194.169:4022/udp/239.77.0.146:5146
 #EXTINF:-1 tvg-id="72" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="IPTV-卫视",广西卫视高清
-http://121.13.85.221:8000/udp/239.253.43.36:5146
+http://14.154.194.169:4022/udp/239.253.43.36:5146
 #EXTINF:-1 tvg-id="83" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="IPTV-卫视",吉林卫视高清
-http://121.13.85.221:8000/udp/239.77.1.111:5146
+http://14.154.194.169:4022/udp/239.77.1.111:5146
 #EXTINF:-1 tvg-id="80" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="IPTV-卫视",青海卫视高清
-http://121.13.85.221:8000/udp/239.253.43.125:5146
+http://14.154.194.169:4022/udp/239.253.43.125:5146
 #EXTINF:-1 tvg-id="206" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="IPTV-卫视",海南卫视高清
-http://121.13.85.221:8000/udp/239.253.43.35:5146
+http://14.154.194.169:4022/udp/239.253.43.35:5146
 #EXTINF:-1 tvg-id="74" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="IPTV-卫视",甘肃卫视高清
-http://121.13.85.221:8000/udp/239.77.0.189:5146
+http://14.154.194.169:4022/udp/239.77.0.189:5146
 #EXTINF:-1 tvg-id="207" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="IPTV-卫视",三沙卫视高清
-http://121.13.85.221:8000/udp/239.253.43.113:5146
+http://14.154.194.169:4022/udp/239.253.43.113:5146
 #EXTINF:-1 tvg-id="7251" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="IPTV-广东电视台",广东综艺4k
-http://121.13.85.221:8000/udp/239.77.0.252:5146
+http://14.154.194.169:4022/udp/239.77.0.252:5146
 #EXTINF:-1 tvg-id="" tvg-name="南国都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou6.png" group-title="IPTV-广州电视台",南国都市4K
-http://121.13.85.221:8000/udp/239.253.43.99:5146
+http://14.154.194.169:4022/udp/239.253.43.99:5146
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="IPTV-央视",CCTV-16 4K
-http://121.13.85.221:8000/udp/239.77.1.98:5146
+http://14.154.194.169:4022/udp/239.77.1.98:5146
 #EXTINF:-1 tvg-id="247" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" group-title="IPTV-央视",CCTV-4K 4K
-http://121.13.85.221:8000/udp/239.77.0.174:5146
+http://14.154.194.169:4022/udp/239.77.0.174:5146
