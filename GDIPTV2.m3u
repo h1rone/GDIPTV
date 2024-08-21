@@ -23,8 +23,6 @@ http://jt.zorua.cn:8787/udp/239.77.0.217:5146
 http://jt.zorua.cn:8787/udp/239.77.0.250:5146
 #EXTINF:-1 tvg-id="26" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong14.png" group-title="IPTV-广东电视台",嘉佳卡通
 http://jt.zorua.cn:8787/udp/239.77.0.179:5146
-#EXTINF:-1 tvg-id="" tvg-name="南方购物" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong16.png" group-title="IPTV-广东电视台",南方购物
-http://jt.zorua.cn:8787/udp/239.77.0.19:5146
 #EXTINF:-1 tvg-id="" tvg-name="岭南戏曲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong11.png" group-title="IPTV-广东电视台",岭南戏曲
 http://jt.zorua.cn:8787/udp/239.77.0.122:5146
 #EXTINF:-1 tvg-id="34" tvg-name="现代教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong13.png" group-title="IPTV-广东电视台",现代教育
