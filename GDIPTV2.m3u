@@ -3,6 +3,14 @@
 http://119.129.172.208:8081/hls/20/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台(谷豆广电版)
 https://stream.yann.ooo/stream/tvb/fchd/master.m3u8?u=test1&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
+http://cdn.1678520.xyz/tvb/?id=fct
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
+http://cdn3.1678520.xyz/live/?id=fct2
+#EXTINF:-1 tvg-id="" tvg-name="VIUTV" tvg-logo="https://live.hkdvb.com/static/logos/77.png" group-title="港澳台",VIUTV
+http://cdn12.1678520.xyz/live/?id=viu
+#EXTINF:-1 tvg-id="" tvg-name="Viu剧集台" tvg-logo="" group-title="港澳台",Viu剧集台
+http://cdn12.1678520.xyz/live/?id=viu2
 #EXTINF:-1 tvg-id="20" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="IPTV-广东电视台",广东卫视
 http://jt.zorua.cn:8787/udp/239.77.0.166:5146
 #EXTINF:-1 tvg-id="21" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="IPTV-广东电视台",广东珠江
