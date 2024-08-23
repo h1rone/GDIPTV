@@ -109,14 +109,6 @@ http://14.216.221.26:4206/udp/239.77.1.121:5146
 http://14.216.221.26:4206/udp/239.77.0.199:5146
 #EXTINF:-1 tvg-id="205" tvg-name="CGTNDocumentary" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNjilu.png" group-title="IPTV-央视",CGTN Documentary高清
 http://14.216.221.26:4206/udp/239.253.43.122:5146
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNxbyy.png" group-title="IPTV-央视",CGTN西班牙语高清
-http://14.216.221.26:4206/udp/239.77.0.221:5146
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNfy.png" group-title="IPTV-央视",CGTN法语高清
-http://14.216.221.26:4206/udp/239.77.0.228:5146
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNalby.png" group-title="IPTV-央视",CGTN阿拉伯语高清
-http://14.216.221.26:4206/udp/239.253.43.200:5146
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNey.png" group-title="IPTV-央视",CGTN俄语高清
-http://14.216.221.26:4206/udp/239.253.43.201:5146
 #EXTINF:-1 tvg-id="64" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="IPTV-卫视",湖南卫视高清
 http://14.216.221.26:4206/udp/239.77.1.5:5146
 #EXTINF:-1 tvg-id="66" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="IPTV-卫视",浙江卫视高清
