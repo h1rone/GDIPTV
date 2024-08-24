@@ -7,11 +7,11 @@ http://cdn.1678520.xyz/tvb/?id=fct
 http://cdn3.1678520.xyz/live/?id=fct2
 #EXTINF:-1 tvg-id="" tvg-name="华丽翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",华丽翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
-#EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB星河
+#EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609093104731072_47.png" group-title="港澳台",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xingh
-#EXTINF:-1 tvg-id="" tvg-name="千禧经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",千禧经典台
+#EXTINF:-1 tvg-id="" tvg-name="千禧经典台" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609103239999116_44.png" group-title="港澳台",千禧经典台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-#EXTINF:-1 tvg-id="" tvg-name="Astro AOD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",Astro AOD
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609081008343330_76.png" group-title="港澳台",Astro AOD
 http://php.jdshipin.com/TVOD/iptv.php?id=aod
 #EXTINF:-1 tvg-id="" tvg-name="VIUTV" tvg-logo="https://live.hkdvb.com/static/logos/77.png" group-title="港澳台",VIUTV
 http://cdn12.1678520.xyz/live/?id=viu
