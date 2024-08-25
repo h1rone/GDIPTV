@@ -18,6 +18,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=aod
 http://cdn12.1678520.xyz/live/?id=viu
 #EXTINF:-1 tvg-id="" tvg-name="Viu剧集台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="港澳台",Viu剧集台
 http://cdn12.1678520.xyz/live/?id=viu2
+#EXTINF:-1 tvg-id="" tvg-name="Now星影台" tvg-logo="https://live.hkdvb.com/static/logos/138.png" group-title="港澳台",Now星影台
+http://cdn5.1678520.xyz/live/?id=xyt
 #EXTINF:-1 tvg-id="20" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="IPTV-广东电视台",广东卫视
 http://jt.zorua.cn:8787/udp/239.77.0.166:5146
 #EXTINF:-1 tvg-id="21" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="IPTV-广东电视台",广东珠江
