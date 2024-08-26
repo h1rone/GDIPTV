@@ -6,6 +6,8 @@ https://stream.yann.ooo/stream/tvb/fchd/master.m3u8?u=test1&p=e3b0c44298fc1c149a
 http://cdn.1678520.xyz/tvb/?id=fct
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台(国内版)
 http://cdn3.1678520.xyz/live/?id=fct2
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台(mytvsuper)
+http://www.mytvsuper.us.kg/tvbts0.1.php?id=feicui
 #EXTINF:-1 tvg-id="" tvg-name="华丽翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",华丽翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
 #EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609093104731072_47.png" group-title="港澳台",TVB星河
