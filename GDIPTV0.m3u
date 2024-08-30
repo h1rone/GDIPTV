@@ -8,7 +8,10 @@ http://cdn.1678520.xyz/tvb/?id=fct
 http://cdn3.1678520.xyz/live/?id=fct2
 #EXTINF:-1 tvg-id="" tvg-name="TVB Plus" tvg-logo="http://content.stream-link.org/tv_logo/tvb_plus.png" group-title="港澳台",TVB Plus(国内版)
 http://120.84.121.118:808/hls/24/index.m3u8
-
+#EXTINF:-1 tvg-id="22" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="港澳台",广东体育
+http://120.84.121.118:808/hls/22/index.m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="凤凰香港台" tvg-logo="https://live.hkdvb.com/static/logos/85.png" group-title="港澳台",凤凰香港台
+http://120.84.121.118:808/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="华丽翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",华丽翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
 #EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609093104731072_47.png" group-title="港澳台",TVB星河
