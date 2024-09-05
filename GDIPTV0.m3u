@@ -21,6 +21,8 @@ http://cdn12.1678520.xyz/live/?id=viu
 http://cdn12.1678520.xyz/live/?id=viu2
 #EXTINF:-1 tvg-id="" tvg-name="Now星影台" tvg-logo="https://live.hkdvb.com/static/logos/138.png" group-title="港澳台",Now星影台
 http://cdn5.1678520.xyz/live/?id=xyt
+#EXTINF:-1 tvg-id="" tvg-name="Now星影台" tvg-logo="https://live.hkdvb.com/static/logos/138.png" group-title="港澳台",日本vs中国
+http://aliyuncoccdnct-xn.inter.iqiyi.com/tslive/l1/c64_ssports_20240905_mllv121v_hevc_1080p50_chst2_t4/0-TwiroP_NUnwYp_dv7IKca5r8ztDH3vdK8qag_Cti_0CELF7sRir_MPRUGpfGfpaR0HDiaI-8t8JAimNnnNVeTSKnpl0MQQZrnRkJftjunj4pXbkATJjKrqTM94V_ELGiKSjz-hW-576l3a0f7nI3-bqRvWJP58Xcxw5XrsVJJjQ8kHFzTY1jlHxIPNiPrMB_cyU3UbbgsXxGdBpWJ5RlOHRShjxdDMnVDqXORxPQj92PK-98jZlklFKcuMwgyR/1150b9b3cde25a63eb24c8419f1254ef8/c64_ssports_20240905_mllv121v_hevc_1080p50_chst2_t4.m3u8?key=0395f75a005e675b5630c2e8740fca94f&dis_t=1725527591&random=1&rand_hash=0&uuid=7d566f86-66d97627-3b2&qdpv=3&z=live_alicdn_coc_cn_southwest_ct&qd_bid=610&qd_sft=0&pv=0.2
 
 #EXTINF:-1 tvg-id="20" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="IPTV-广东电视台",广东卫视
 http://113.102.144.197:60000/udp/239.77.0.166:5146
