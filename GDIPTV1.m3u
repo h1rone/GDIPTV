@@ -1,15 +1,12 @@
 #EXTM3U catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List/master/epg.xml"
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台(谷豆广电版)
-https://stream.yann.ooo/stream/tvb/fchd/master.m3u8?u=test1&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台(香港版)
 http://cdn.1678520.xyz/tvb/?id=fct
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台(国内版)
 http://cdn3.1678520.xyz/live/?id=fct2
+
 #EXTINF:-1 tvg-id="" tvg-name="华丽翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",华丽翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
-#EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609093104731072_47.png" group-title="港澳台",TVB星河
-http://php.jdshipin.com/TVOD/iptv.php?id=xingh
 #EXTINF:-1 tvg-id="" tvg-name="千禧经典台" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609103239999116_44.png" group-title="港澳台",千禧经典台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 tvg-id="" tvg-name="Astro AOD" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609081008343330_76.png" group-title="港澳台",Astro AOD
@@ -18,8 +15,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=aod
 http://cdn12.1678520.xyz/live/?id=viu
 #EXTINF:-1 tvg-id="" tvg-name="Viu剧集台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="港澳台",Viu剧集台
 http://cdn12.1678520.xyz/live/?id=viu2
-#EXTINF:-1 tvg-id="" tvg-name="Now星影台" tvg-logo="https://live.hkdvb.com/static/logos/138.png" group-title="港澳台",Now星影台
-http://cdn5.1678520.xyz/live/?id=xyt
 
 #EXTINF:-1 tvg-id="20" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="IPTV-广东电视台",广东卫视
 http://a.ifsift.cn:8888/udp/239.77.0.166:5146
