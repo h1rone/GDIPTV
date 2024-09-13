@@ -167,7 +167,7 @@ http://116.21.126.59:3333/udp/239.253.43.99:5146
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="4K",CCTV-16 4K
 http://116.21.126.59:3333/udp/239.77.1.98:5146
 #EXTINF:-1 tvg-id="247" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" group-title="4K",CCTV-4K 4K
-http://116.21.126.59:3333/239.77.0.194:5146
+http://116.21.126.59:3333/udp/239.77.0.194:5146
 
 #EXTINF:-1 tvg-id="4gtv-live208" tvg-name="Love Nature" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live208_mobile.png" group-title="4K",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
