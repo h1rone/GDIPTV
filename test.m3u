@@ -1,3 +1,21 @@
 #EXTM3U
-#EXTINF:-1,翡翠台
-http://113.83.152.56:8182/bynumber/1
+#EXTINF:-1 tvg-id="a6981f90a165ca198a15bd9ce28dd274",*HOY IBC
+http://113.116.35.91:39981/stream/channelid/270506150?profile=pass
+#EXTINF:-1 tvg-id="b26fb1ba499d32cb75a78df628a8b46b",*HOY Infotainment
+http://113.116.35.91:39981/stream/channelid/984706994?profile=pass
+#EXTINF:-1 tvg-id="c608027ae446631fa7807331c1da0280",*HOY TV
+http://113.116.35.91:39981/stream/channelid/2046953670?profile=pass
+#EXTINF:-1 tvg-id="f1a5ffae761dc9bea649cf41bc905739",Jade
+http://113.116.35.91:39981/stream/channelid/788506097?profile=pass
+#EXTINF:-1 tvg-id="77051e12e1fcde715582200bcd7f35f8",Pearl
+http://113.116.35.91:39981/stream/channelid/303957367?profile=pass
+#EXTINF:-1 tvg-id="14c559a3d324620e0739ec2fcd2fd060",PHOENIX HK CHANNEL
+http://113.116.35.91:39981/stream/channelid/593085716?profile=pass
+#EXTINF:-1 tvg-id="30a7fd63d592cd76ff9fe90df12b06a9",TVB News Channel
+http://113.116.35.91:39981/stream/channelid/1677567792?profile=pass
+#EXTINF:-1 tvg-id="85d6570516263911e26469d5ab990b00",TVB Plus
+http://113.116.35.91:39981/stream/channelid/89642629?profile=pass
+#EXTINF:-1 tvg-id="006cdc358228dee5900cc128699fc75e",ViuTV
+http://113.116.35.91:39981/stream/channelid/903638016?profile=pass
+#EXTINF:-1 tvg-id="0c01a23f37d60ff9217815b472341088",ViuTVsix
+http://113.116.35.91:39981/stream/channelid/1067581708?profile=pass
