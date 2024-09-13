@@ -7,8 +7,6 @@ http://cdn3.1678520.xyz/live/?id=fct2
 
 #EXTINF:-1 tvg-id="" tvg-name="华丽翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",华丽翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
-#EXTINF:-1 tvg-id="" tvg-name="千禧经典台" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609103239999116_44.png" group-title="港澳台",千禧经典台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 tvg-id="" tvg-name="Astro AOD" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609081008343330_76.png" group-title="港澳台",Astro AOD
 http://php.jdshipin.com/TVOD/iptv.php?id=aod
 #EXTINF:-1 tvg-id="" tvg-name="VIUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="港澳台",VIUTV
