@@ -1,21 +1,34 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="a6981f90a165ca198a15bd9ce28dd274",HOY IBC
+#EXTINF:-1 tvg-id="a6981f90a165ca198a15bd9ce28dd274",group-title="港澳台",HOY IBC
 http://113.116.35.91:39981/stream/channelid/270506150?profile=pass
-#EXTINF:-1 tvg-id="b26fb1ba499d32cb75a78df628a8b46b",HOY Infotainment
+#EXTINF:-1 tvg-id="b26fb1ba499d32cb75a78df628a8b46b",group-title="港澳台",HOY Infotainment
 http://113.116.35.91:39981/stream/channelid/984706994?profile=pass
-#EXTINF:-1 tvg-id="c608027ae446631fa7807331c1da0280",HOY TV
+#EXTINF:-1 tvg-id="c608027ae446631fa7807331c1da0280",group-title="港澳台",HOY TV
 http://113.116.35.91:39981/stream/channelid/2046953670?profile=pass
-#EXTINF:-1 tvg-id="f1a5ffae761dc9bea649cf41bc905739",Jade
+#EXTINF:-1 tvg-id="f1a5ffae761dc9bea649cf41bc905739",group-title="港澳台",Jade
 http://113.116.35.91:39981/stream/channelid/788506097?profile=pass
-#EXTINF:-1 tvg-id="77051e12e1fcde715582200bcd7f35f8",Pearl
+#EXTINF:-1 tvg-id="77051e12e1fcde715582200bcd7f35f8",group-title="港澳台",Pearl
 http://113.116.35.91:39981/stream/channelid/303957367?profile=pass
-#EXTINF:-1 tvg-id="14c559a3d324620e0739ec2fcd2fd060",PHOENIX HK CHANNEL
+#EXTINF:-1 tvg-id="14c559a3d324620e0739ec2fcd2fd060",group-title="港澳台",PHOENIX HK CHANNEL
 http://113.116.35.91:39981/stream/channelid/593085716?profile=pass
-#EXTINF:-1 tvg-id="30a7fd63d592cd76ff9fe90df12b06a9",TVB News Channel
+#EXTINF:-1 tvg-id="30a7fd63d592cd76ff9fe90df12b06a9",group-title="港澳台",TVB News Channel
 http://113.116.35.91:39981/stream/channelid/1677567792?profile=pass
-#EXTINF:-1 tvg-id="85d6570516263911e26469d5ab990b00",TVB Plus
+#EXTINF:-1 tvg-id="85d6570516263911e26469d5ab990b00",group-title="港澳台",TVB Plus
 http://113.116.35.91:39981/stream/channelid/89642629?profile=pass
-#EXTINF:-1 tvg-id="006cdc358228dee5900cc128699fc75e",ViuTV
+#EXTINF:-1 tvg-id="006cdc358228dee5900cc128699fc75e",group-title="港澳台",ViuTV
 http://113.116.35.91:39981/stream/channelid/903638016?profile=pass
-#EXTINF:-1 tvg-id="0c01a23f37d60ff9217815b472341088",ViuTVsix
+#EXTINF:-1 tvg-id="0c01a23f37d60ff9217815b472341088",group-title="港澳台",ViuTVsix
 http://113.116.35.91:39981/stream/channelid/1067581708?profile=pass
+
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台(香港版)
+http://cdn.1678520.xyz/tvb/?id=fct
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台(国内版)
+http://cdn3.1678520.xyz/live/?id=fct2
+#EXTINF:-1 tvg-id="" tvg-name="华丽翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",华丽翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609081008343330_76.png" group-title="港澳台",Astro AOD
+http://php.jdshipin.com/TVOD/iptv.php?id=aod
+#EXTINF:-1 tvg-id="" tvg-name="VIUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="港澳台",VIUTV
+http://cdn12.1678520.xyz/live/?id=viu
+#EXTINF:-1 tvg-id="" tvg-name="Viu剧集台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="港澳台",Viu剧集台
+http://cdn12.1678520.xyz/live/?id=viu2
