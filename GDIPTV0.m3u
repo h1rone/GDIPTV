@@ -152,15 +152,3 @@ http://14.117.234.110:9000/udp/239.77.1.98:5146
 #EXTINF:-1 tvg-id="247" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" group-title="IPTV-央视",CCTV-4K 4K
 http://14.117.234.110:9000/udp/239.77.0.194:5146
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",NASA
-http://endpnt.com:8000/nasa-uhd-30p.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",NASA
-http://endpnt.com:8000/nasa-uhd.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",Bloomberg TV+ UHD (2160p)
-https://bloomberg-bloombergtv-1-fr.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",Bloomberg TV+ UHD (2160p)
-https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/438EE5CB-0885-429B-9995-4CDC5C98C158.png" group-title="4K",Fashion4K
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
