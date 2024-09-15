@@ -13,6 +13,22 @@ http://cdn12.1678520.xyz/live/?id=viu
 #EXTINF:-1 tvg-id="" tvg-name="Viu剧集台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="港澳台",Viu剧集台
 http://cdn12.1678520.xyz/live/?id=viu2
 
+#EXTINF:-1 group-title="广州电视台",广州综合
+http://58.144.154.93/tencentplay.gztv.com/live/zonghes.m3u8
+#EXTINF:-1 group-title="广州电视台",广州新闻
+http://58.144.154.93/tencentplay.gztv.com/live/xinwen.m3u8
+#EXTINF:-1 group-title="广州电视台",广州影视
+http://58.144.154.93/tencentplay.gztv.com/live/yingshi.m3u8
+#EXTINF:-1 group-title="广州电视台",广州法治
+http://58.144.154.93/tencentplay.gztv.com/live/fazhi.m3u8
+#EXTINF:-1 group-title="广州电视台",广州南国都市
+http://58.144.154.93/tencentplay.gztv.com/live/nanguodushi.m3u8
+#EXTINF:-1 group-title="广州电视台",广州竞赛
+http://58.144.154.93/tencentplay.gztv.com/live/jingsai.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608020613958421_88.png" group-title="4K",NASA
 http://endpnt.com:8000/nasa-uhd-30p.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608020613958421_88.png" group-title="4K",NASA
