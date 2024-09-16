@@ -2,17 +2,17 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List/master/epg.xml"
 
 #EXTINF:-1 tvg-id="20" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="IPTV-广东电视台",广东卫视
-http://113.87.227.237:5000/udp/239.77.0.166:5146
+http://113.87.227.237:5000/rtp/239.77.0.166:5146
 #EXTINF:-1 tvg-id="21" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="IPTV-广东电视台",广东珠江
-http://113.87.227.237:5000/udp/239.77.0.1:5146
+http://113.87.227.237:5000/rtp/239.77.0.1:5146
 #EXTINF:-1 tvg-id="25" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="IPTV-广东电视台",广东新闻
-http://113.87.227.237:5000/udp/239.77.0.173:5146
+http://113.87.227.237:5000/rtp/239.77.0.173:5146
 #EXTINF:-1 tvg-id="23" tvg-name=广东民生"" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong2.png" group-title="IPTV-广东电视台",广东民生
-http://113.87.227.237:5000/udp/239.77.0.225:5146
+http://113.87.227.237:5000/rtp/239.77.0.225:5146
 #EXTINF:-1 tvg-id="22" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="IPTV-广东电视台",广东体育
-http://113.87.227.237:5000/udp/239.77.0.168:5146
+http://113.87.227.237:5000/rtp/239.77.0.168:5146
 #EXTINF:-1 tvg-id="28" tvg-name="经济科教" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong7.png" group-title="IPTV-广东电视台",经济科教
-http://113.87.227.237:5000/udp/239.77.0.167:5146
+http://113.87.227.237:5000/rtp/239.77.0.167:5146
 #EXTINF:-1 tvg-id="29" tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong10.png" group-title="IPTV-广东电视台",大湾区卫视
 http://14.117.234.110:9000/udp/239.77.0.215:5146
 #EXTINF:-1 tvg-id="32" tvg-name="广东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" group-title="IPTV-广东电视台",广东影视
