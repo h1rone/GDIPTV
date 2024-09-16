@@ -97,5 +97,12 @@ https://www.mytvsuper.us.kg/youtube.php?id=coYw-eVU0Ks
 #EXTINF:-1 tvg-id="LIVE NOW" tvg-name="LIVE NOW" tvg-logo="https://i.ytimg.com/vi/twhG7_jvA8g/hqdefault_live.jpg" group-title="YouTube", LIVE NOW
 https://www.mytvsuper.us.kg/youtube.php?id=twhG7_jvA8g
 
+#EXTINF:-1 tvg-id="测试" tvg-name="Viutv" tvg-logo="https://assets.livednow.com/logo/Viutv.png" group-title="綜合", 测试剧集
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "oB19xO31gklrfnPWfp5omQ", "kid": "kbp1KkRhSMaEANeDdLF4tA"}], "type": "temporary"}
+https://000000.998877.gay
+
+
 #EXTINF:-1 tvg-id="JapaNews24" tvg-name="JapaNews24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mpIQ3U-_W4KRzXYgYaQvC6yJhfcAxYA61V_wJUg6s1hww=s160-c-k-c0x00ffffff-no-rj" group-title="YouTube", JapaNews24
 https://www.mytvsuper.us.kg/youtube.php?id=coYw-eVU0Ks
