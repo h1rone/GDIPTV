@@ -38,71 +38,33 @@ https://bloomberg-bloombergtv-1-fr.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://content.stream-link.org/images/bloomberg.png" group-title="4K",Bloomberg TV+ UHD (2160p)
 https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609115137038123_31.png" group-title="4K",Fashion4K
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="鳳凰衛視PhoenixTV" tvg-name="鳳凰衛視PhoenixTV" tvg-logo="https://i.ytimg.com/vi/HFib76ySpbU/hqdefault_live.jpg" group-title="YouTube", 鳳凰衛視PhoenixTV
-https://www.mytvsuper.us.kg/youtube.php?id=HFib76ySpbU
-
-#EXTINF:-1 tvg-id="TVBS NEWS" tvg-name="TVBS NEWS" tvg-logo="https://i.ytimg.com/vi/2mCSYvcfhtc/hqdefault_live.jpg" group-title="YouTube", TVBS NEWS
-https://www.mytvsuper.us.kg/youtube.php?id=2mCSYvcfhtc
-
-#EXTINF:-1 tvg-id="TVBS NEWS" tvg-name="TVBS NEWS" tvg-logo="https://i.ytimg.com/vi/m_dhMSvUCIc/hqdefault_live.jpg" group-title="YouTube", TVBS NEWS
-https://www.mytvsuper.us.kg/youtube.php?id=m_dhMSvUCIc
-
-#EXTINF:-1 tvg-id="三立LIVE新聞" tvg-name="三立LIVE新聞" tvg-logo="https://i.ytimg.com/vi/oZdzzvxTfUY/hqdefault_live.jpg" group-title="YouTube", 三立LIVE新聞
-https://www.mytvsuper.us.kg/youtube.php?id=oZdzzvxTfUY
-
-#EXTINF:-1 tvg-id="三立LIVE新聞" tvg-name="三立LIVE新聞" tvg-logo="https://i.ytimg.com/vi/FoBfXvlOR6I/hqdefault_live.jpg" group-title="YouTube", 三立LIVE新聞
-https://www.mytvsuper.us.kg/youtube.php?id=FoBfXvlOR6I
-
-#EXTINF:-1 tvg-id="鏡新聞" tvg-name="鏡新聞" tvg-logo="https://i.ytimg.com/vi/5n0y6b0Q25o/hqdefault_live.jpg" group-title="YouTube", 鏡新聞
-https://www.mytvsuper.us.kg/youtube.php?id=5n0y6b0Q25o
-
-#EXTINF:-1 tvg-id="台視新聞 TTV NEWS" tvg-name="台視新聞 TTV NEWS" tvg-logo="https://i.ytimg.com/vi/xL0ch83RAK8/hqdefault_live.jpg" group-title="YouTube", 台視新聞 TTV NEWS
-https://www.mytvsuper.us.kg/youtube.php?id=xL0ch83RAK8
-
-#EXTINF:-1 tvg-id="中視新聞 HD直播頻道｜Taiwan CTV news HD Live" tvg-name="中視新聞 HD直播頻道｜Taiwan CTV news HD Live" tvg-logo="https://i.ytimg.com/vi/TCnaIE_SAtM/hqdefault_live.jpg" group-title="YouTube", 中視新聞 HD直播頻道｜Taiwan CTV news HD Live
-https://www.mytvsuper.us.kg/youtube.php?id=TCnaIE_SAtM
-
-#EXTINF:-1 tvg-id="中天電視" tvg-name="中天電視" tvg-logo="https://i.ytimg.com/vi/oIgbl7t0S_w/hqdefault_live.jpg" group-title="YouTube", 中天電視
-https://www.mytvsuper.us.kg/youtube.php?id=oIgbl7t0S_w
-
-#EXTINF:-1 tvg-id="CTI+ | 中天2台" tvg-name="CTI+ | 中天2台" tvg-logo="https://i.ytimg.com/vi/WPfPjbOLNfE/hqdefault_live.jpg" group-title="YouTube", CTI+ | 中天2台
-https://www.mytvsuper.us.kg/youtube.php?id=WPfPjbOLNfE
-
-#EXTINF:-1 tvg-id="公視新聞網" tvg-name="公視新聞網" tvg-logo="https://i.ytimg.com/vi/quwqlazU-c8/hqdefault_live.jpg" group-title="YouTube", 公視新聞網
-https://www.mytvsuper.us.kg/youtube.php?id=quwqlazU-c8
-
-#EXTINF:-1 tvg-id="東森新聞 CH51" tvg-name="東森新聞 CH51" tvg-logo="https://i.ytimg.com/vi/E0zhe2gkXBs/hqdefault_live.jpg" group-title="YouTube", 東森新聞 CH51
-https://www.mytvsuper.us.kg/youtube.php?id=E0zhe2gkXBs
-
-#EXTINF:-1 tvg-id="57東森財經新聞" tvg-name="57東森財經新聞" tvg-logo="https://i.ytimg.com/vi/WHEPzbFA3hw/hqdefault_live.jpg" group-title="YouTube", 57東森財經新聞
-https://www.mytvsuper.us.kg/youtube.php?id=WHEPzbFA3hw
-
-#EXTINF:-1 tvg-id="寰宇新聞 頻道" tvg-name="寰宇新聞 頻道" tvg-logo="https://i.ytimg.com/vi/6IquAgfvYmc/hqdefault_live.jpg" group-title="YouTube", 寰宇新聞 頻道
-https://www.mytvsuper.us.kg/youtube.php?id=6IquAgfvYmc
-
-#EXTINF:-1 tvg-id="民視新聞網 Formosa TV News network" tvg-name="民視新聞網 Formosa TV News network" tvg-logo="https://i.ytimg.com/vi/ylYJSBUgaMA/hqdefault_live.jpg" group-title="YouTube", 民視新聞網 Formosa TV News network
-https://www.mytvsuper.us.kg/youtube.php?id=ylYJSBUgaMA
-
-#EXTINF:-1 tvg-id="中視經典綜藝" tvg-name="中視經典綜藝" tvg-logo="https://i.ytimg.com/vi/ADDSmXoPDY8/hqdefault_live.jpg" group-title="YouTube", 中視經典綜藝
-https://www.mytvsuper.us.kg/youtube.php?id=ADDSmXoPDY8
-
-#EXTINF:-1 tvg-id="TBS NEWS DIG Powered by JNN" tvg-name="TBS NEWS DIG Powered by JNN" tvg-logo="https://i.ytimg.com/vi/ohI356mwBp8/hqdefault_live.jpg" group-title="YouTube", TBS NEWS DIG Powered by JNN
-https://www.mytvsuper.us.kg/youtube.php?id=ohI356mwBp8
-
-#EXTINF:-1 tvg-id="ANNnewsCH" tvg-name="ANNnewsCH" tvg-logo="https://i.ytimg.com/vi/coYw-eVU0Ks/hqdefault_live.jpg" group-title="YouTube", ANNnewsCH
-https://www.mytvsuper.us.kg/youtube.php?id=coYw-eVU0Ks
-
-#EXTINF:-1 tvg-id="LIVE NOW" tvg-name="LIVE NOW" tvg-logo="https://i.ytimg.com/vi/twhG7_jvA8g/hqdefault_live.jpg" group-title="YouTube", LIVE NOW
-https://www.mytvsuper.us.kg/youtube.php?id=twhG7_jvA8g
-
-#EXTINF:-1 tvg-id="测试" tvg-name="Viutv" tvg-logo="https://assets.livednow.com/logo/Viutv.png" group-title="綜合", 测试剧集
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u
+EXTINF:-1 tvg-id="测试" tvg-name="Viutv" tvg-logo="https://assets.livednow.com/logo/Viutv.png" group-title="綜合", 测试剧集
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "oB19xO31gklrfnPWfp5omQ", "kid": "kbp1KkRhSMaEANeDdLF4tA"}], "type": "temporary"}
 https://000000.998877.gay
 
+#EXTM3U
+#EXTINF:-1 group-title="韩国",1
+https://cdn.kmmc.net/live/cetv.php?id=1
+#EXTINF:-1 group-title="韩国",2
+https://cdn.kmmc.net/live/cetv.php?id=2
+#EXTINF:-1 group-title="韩国",3
+https://cdn.kmmc.net/live/cetv.php?id=3
+#EXTINF:-1 group-title="韩国",4
+https://cdn.kmmc.net/live/cetv.php?id=4
+#EXTINF:-1 group-title="韩国",5
+https://cdn.kmmc.net/live/cetv.php?id=5
+#EXTINF:-1 group-title="韩国",6
+https://cdn.kmmc.net/live/cetv.php?id=6
+#EXTINF:-1 group-title="韩国",7
+https://cdn.kmmc.net/live/cetv.php?id=31
+#EXTINF:-1 group-title="韩国",8
+https://cdn.kmmc.net/live/cetv.php?id=32
+#EXTINF:-1 group-title="韩国",9
+https://cdn.kmmc.net/live/cetv.php?id=33
 
-#EXTINF:-1 tvg-id="JapaNews24" tvg-name="JapaNews24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mpIQ3U-_W4KRzXYgYaQvC6yJhfcAxYA61V_wJUg6s1hww=s160-c-k-c0x00ffffff-no-rj" group-title="YouTube", JapaNews24
-https://www.mytvsuper.us.kg/youtube.php?id=coYw-eVU0Ks
+
+
+
