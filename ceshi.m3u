@@ -171,6 +171,33 @@ http://bva.iptviptv.site:9694/hls/732/index.m3u8
 http://bva.iptviptv.site:9694/hls/716/index.m3u8
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="央视网台",新视觉
 http://bva.iptviptv.site:9694/hls/717/index.m3u8
+
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台(广电)
+http://bva.iptviptv.site:9694/hls/99/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台(原版)
+http://bva.iptviptv.site:9694/hls/98/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台4k
+http://bva.iptviptv.site:9694/hls/902/index.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="香港",明珠台
+http://bva.iptviptv.site:9694/hls/103/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.kmmc.net/logos/tvb_plus.png" group-title="香港",TVB PLUS
+http://bva.iptviptv.site:9694/hls/905/index.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://cdn.kmmc.net/logos/tvb_news.png" group-title="香港",无线新闻台
+http://bva.iptviptv.site:9694/hls/906/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.kmmc.net/logos/tvb_classic.png" group-title="香港",千禧经典台
+http://bva.iptviptv.site:9694/hls/901/index.m3u8
+#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="香港",Animax
+http://bva.iptviptv.site:9694/hls/903/index.m3u8
+#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="香港",美亚电影台
+http://bva.iptviptv.site:9694/hls/904/index.m3u8
+#EXTINF:-1 tvg-id="828" tvg-name="天映经典" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv112_mobile.png" group-title="香港",天映经典频道
+http://bva.iptviptv.site:9694/hls/914/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",黄金翡翠台
+http://bva.iptviptv.site:9694/hls/916/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",黄金华剧台
+http://bva.iptviptv.site:9694/hls/900/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",华语剧台
+http://bva.iptviptv.site:9694/hls/907/index.m3u8
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="香港",HBO
 http://bva.iptviptv.site:9694/hls/1001/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",今日俄罗斯
@@ -179,30 +206,3 @@ http://bva.iptviptv.site:9694/hls/1003/index.m3u8
 http://bva.iptviptv.site:9694/hls/1004/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",韩国KBS
 http://bva.iptviptv.site:9694/hls/1005/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台(广电)
-http://bva.iptviptv.site:9694/hls/99/index.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="香港",明珠台
-http://bva.iptviptv.site:9694/hls/103/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台(原版)
-http://bva.iptviptv.site:9694/hls/98/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.kmmc.net/logos/tvb_classic.png" group-title="香港",千禧经典台
-http://bva.iptviptv.site:9694/hls/901/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台4k
-http://bva.iptviptv.site:9694/hls/902/index.m3u8
-#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="香港",Animax
-http://bva.iptviptv.site:9694/hls/903/index.m3u8
-#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="香港",美亚电影台
-http://bva.iptviptv.site:9694/hls/904/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.kmmc.net/logos/tvb_plus.png" group-title="香港",TVB PLUS
-http://bva.iptviptv.site:9694/hls/905/index.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://cdn.kmmc.net/logos/tvb_news.png" group-title="香港",无线新闻台
-http://bva.iptviptv.site:9694/hls/906/index.m3u8
-#EXTINF:-1 tvg-id="828" tvg-name="天映经典" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv112_mobile.png" group-title="香港",天映经典频道
-http://bva.iptviptv.site:9694/hls/914/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",黄金翡翠台
-http://bva.iptviptv.site:9694/hls/916/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",黄金华剧台
-http://bva.iptviptv.site:9694/hls/900/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",华语剧台
-http://bva.iptviptv.site:9694/hls/907/index.m3u8
