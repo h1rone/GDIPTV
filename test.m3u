@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台(香港版)
-http://cdn.1678520.xyz/tvb/?id=fct
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台(国内版)
-http://cdn3.1678520.xyz/live/?id=fct2
 #EXTINF:-1 tvg-id="" tvg-name="华丽翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",华丽翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
 #EXTINF:-1 tvg-id="" tvg-name="Astro AOD" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609081008343330_76.png" group-title="港澳台",Astro AOD
@@ -27,10 +23,6 @@ http://58.144.154.93/tencentplay.gztv.com/live/nanguodushi.m3u8
 http://58.144.154.93/tencentplay.gztv.com/live/jingsai.m3u8
 
 
-#EXTINF:-1 group-title="卫视",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608020613958421_88.png" group-title="4K",NASA
 http://endpnt.com:8000/nasa-uhd-30p.ts
@@ -48,24 +40,7 @@ EXTINF:-1 tvg-id="测试" tvg-name="Viutv" tvg-logo="https://assets.livednow.com
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "oB19xO31gklrfnPWfp5omQ", "kid": "kbp1KkRhSMaEANeDdLF4tA"}], "type": "temporary"}
 https://000000.998877.gay
 
-#EXTINF:-1 group-title="韩国",1
-https://cdn.kmmc.net/live/cetv.php?id=1
-#EXTINF:-1 group-title="韩国",2
-https://cdn.kmmc.net/live/cetv.php?id=2
-#EXTINF:-1 group-title="韩国",3
-https://cdn.kmmc.net/live/cetv.php?id=3
-#EXTINF:-1 group-title="韩国",4
-https://cdn.kmmc.net/live/cetv.php?id=4
-#EXTINF:-1 group-title="韩国",5
-https://cdn.kmmc.net/live/cetv.php?id=5
-#EXTINF:-1 group-title="韩国",6
-https://cdn.kmmc.net/live/cetv.php?id=6
-#EXTINF:-1 group-title="韩国",7
-https://cdn.kmmc.net/live/cetv.php?id=31
-#EXTINF:-1 group-title="韩国",8
-https://cdn.kmmc.net/live/cetv.php?id=32
-#EXTINF:-1 group-title="韩国",9
-https://cdn.kmmc.net/live/cetv.php?id=33
+
 
 #EXTINF:-1 group-title="台湾",中天新闻台
 http://tw.ts138.top/4g/?id=4gtv-4gtv009
