@@ -97,255 +97,43 @@ http://bva.iptviptv.site:9694/hls/133/index.m3u8
 http://bva.iptviptv.site:9694/hls/134/index.m3u8
 #EXTINF:-1 group-title="卫视",厦门卫视
 http://bva.iptviptv.site:9694/hls/135/index.m3u8
-#EXTINF:-1 group-title="地方",五星体育
+#EXTINF:-1 group-title="上海",五星体育
 http://bva.iptviptv.site:9694/hls/150/index.m3u8
-#EXTINF:-1 group-title="地方",新闻综合
+#EXTINF:-1 group-title="上海",新闻综合
 http://bva.iptviptv.site:9694/hls/151/index.m3u8
-#EXTINF:-1 group-title="地方",东方财经
+#EXTINF:-1 group-title="上海",东方财经
 http://bva.iptviptv.site:9694/hls/152/index.m3u8
-#EXTINF:-1 group-title="地方",第一财经
+#EXTINF:-1 group-title="上海",第一财经
 http://bva.iptviptv.site:9694/hls/153/index.m3u8
-#EXTINF:-1 group-title="地方",法治天地
+#EXTINF:-1 group-title="上海",法治天地
 http://bva.iptviptv.site:9694/hls/154/index.m3u8
-#EXTINF:-1 group-title="地方",都市频道
+#EXTINF:-1 group-title="上海",都市频道
 http://bva.iptviptv.site:9694/hls/155/index.m3u8
-#EXTINF:-1 group-title="地方",东方影视
+#EXTINF:-1 group-title="上海",东方影视
 http://bva.iptviptv.site:9694/hls/156/index.m3u8
-#EXTINF:-1 group-title="地方",上海教育
+#EXTINF:-1 group-title="上海",上海教育
 http://bva.iptviptv.site:9694/hls/157/index.m3u8
-#EXTINF:-1 group-title="地方",七彩戏剧
-http://bva.iptviptv.site:9694/hls/158/index.m3u8
-#EXTINF:-1 group-title="地方",金色学堂
-http://bva.iptviptv.site:9694/hls/159/index.m3u8
-#EXTINF:-1 group-title="地方",重庆影视
-http://bva.iptviptv.site:9694/hls/162/index.m3u8
-#EXTINF:-1 group-title="地方",重庆新闻
-http://bva.iptviptv.site:9694/hls/163/index.m3u8
-#EXTINF:-1 group-title="地方",重庆社会
-http://bva.iptviptv.site:9694/hls/164/index.m3u8
-#EXTINF:-1 group-title="地方",重庆时尚
-http://bva.iptviptv.site:9694/hls/165/index.m3u8
-#EXTINF:-1 group-title="地方",重庆娱乐
-http://bva.iptviptv.site:9694/hls/166/index.m3u8
-#EXTINF:-1 group-title="地方",重庆少儿
-http://bva.iptviptv.site:9694/hls/167/index.m3u8
-#EXTINF:-1 group-title="地方",重庆科教
-http://bva.iptviptv.site:9694/hls/168/index.m3u8
-#EXTINF:-1 group-title="地方",重庆汽摩
-http://bva.iptviptv.site:9694/hls/169/index.m3u8
-#EXTINF:-1 group-title="地方",铜梁综合
-http://bva.iptviptv.site:9694/hls/172/index.m3u8
-#EXTINF:-1 group-title="地方",万州综合
-http://bva.iptviptv.site:9694/hls/173/index.m3u8
-#EXTINF:-1 group-title="地方",万州科教
-http://bva.iptviptv.site:9694/hls/174/index.m3u8
-#EXTINF:-1 group-title="地方",万州影视
-http://bva.iptviptv.site:9694/hls/175/index.m3u8
-#EXTINF:-1 group-title="地方",万州三峡移民
-http://bva.iptviptv.site:9694/hls/176/index.m3u8
-#EXTINF:-1 group-title="地方",扬州1
-http://bva.iptviptv.site:9694/hls/182/index.m3u8
-#EXTINF:-1 group-title="地方",扬州2
-http://bva.iptviptv.site:9694/hls/183/index.m3u8
-#EXTINF:-1 group-title="地方",扬州3
-http://bva.iptviptv.site:9694/hls/184/index.m3u8
-#EXTINF:-1 group-title="地方",浙江新闻
-http://bva.iptviptv.site:9694/hls/188/index.m3u8
-#EXTINF:-1 group-title="地方",浙江体育
-http://bva.iptviptv.site:9694/hls/189/index.m3u8
-#EXTINF:-1 group-title="地方",浙江经济
-http://bva.iptviptv.site:9694/hls/191/index.m3u8
-#EXTINF:-1 group-title="地方",浙江钱江
-http://bva.iptviptv.site:9694/hls/193/index.m3u8
-#EXTINF:-1 group-title="地方",浙江少儿
-http://bva.iptviptv.site:9694/hls/194/index.m3u8
-#EXTINF:-1 group-title="地方",浙江数码
-http://bva.iptviptv.site:9694/hls/195/index.m3u8
-#EXTINF:-1 group-title="地方",杭州TV-1 综合
-http://bva.iptviptv.site:9694/hls/196/index.m3u8
-#EXTINF:-1 group-title="地方",杭州TV-2 明珠
-http://bva.iptviptv.site:9694/hls/197/index.m3u8
-#EXTINF:-1 group-title="地方",杭州TV-3 生活
-http://bva.iptviptv.site:9694/hls/198/index.m3u8
-#EXTINF:-1 group-title="地方",杭州TV-4 影视
-http://bva.iptviptv.site:9694/hls/199/index.m3u8
-#EXTINF:-1 group-title="地方",杭州TV-5 青少·体育
-http://bva.iptviptv.site:9694/hls/200/index.m3u8
-#EXTINF:-1 group-title="地方",宁波TV1
-http://bva.iptviptv.site:9694/hls/205/index.m3u8
-#EXTINF:-1 group-title="地方",宁波TV2
-http://bva.iptviptv.site:9694/hls/206/index.m3u8
-#EXTINF:-1 group-title="地方",宁波TV3
-http://bva.iptviptv.site:9694/hls/207/index.m3u8
-#EXTINF:-1 group-title="地方",宁波TV4
-http://bva.iptviptv.site:9694/hls/208/index.m3u8
-#EXTINF:-1 group-title="地方",安徽体育
-http://bva.iptviptv.site:9694/hls/250/index.m3u8
-#EXTINF:-1 group-title="地方",安徽公共
-http://bva.iptviptv.site:9694/hls/252/index.m3u8
-#EXTINF:-1 group-title="地方",安徽影视
-http://bva.iptviptv.site:9694/hls/253/index.m3u8
-#EXTINF:-1 group-title="地方",安徽经济
-http://bva.iptviptv.site:9694/hls/254/index.m3u8
-#EXTINF:-1 group-title="地方",安徽科教
-http://bva.iptviptv.site:9694/hls/255/index.m3u8
-#EXTINF:-1 group-title="地方",亳州农村
-http://bva.iptviptv.site:9694/hls/259/index.m3u8
-#EXTINF:-1 group-title="地方",亳州新闻
-http://bva.iptviptv.site:9694/hls/260/index.m3u8
-#EXTINF:-1 group-title="地方",歙县综合
-http://bva.iptviptv.site:9694/hls/263/index.m3u8
-#EXTINF:-1 group-title="地方",滁州公共
-http://bva.iptviptv.site:9694/hls/265/index.m3u8
-#EXTINF:-1 group-title="地方",滁州科教
-http://bva.iptviptv.site:9694/hls/266/index.m3u8
-#EXTINF:-1 group-title="地方",滁州新闻综合
-http://bva.iptviptv.site:9694/hls/267/index.m3u8
-#EXTINF:-1 group-title="地方",四川影视
-http://bva.iptviptv.site:9694/hls/300/index.m3u8
-#EXTINF:-1 group-title="地方",经济频道
-http://bva.iptviptv.site:9694/hls/301/index.m3u8
-#EXTINF:-1 group-title="地方",文化旅游
-http://bva.iptviptv.site:9694/hls/302/index.m3u8
-#EXTINF:-1 group-title="地方",新闻频道
-http://bva.iptviptv.site:9694/hls/303/index.m3u8
-#EXTINF:-1 group-title="地方",影视文艺
-http://bva.iptviptv.site:9694/hls/304/index.m3u8
-#EXTINF:-1 group-title="地方",科教频道
-http://bva.iptviptv.site:9694/hls/305/index.m3u8
-#EXTINF:-1 group-title="地方",乡村频道
-http://bva.iptviptv.site:9694/hls/306/index.m3u8
-#EXTINF:-1 group-title="地方",峨眉电影
-http://bva.iptviptv.site:9694/hls/325/index.m3u8
-#EXTINF:-1 group-title="地方",天津新闻
-http://bva.iptviptv.site:9694/hls/350/index.m3u8
-#EXTINF:-1 group-title="地方",天津文艺
-http://bva.iptviptv.site:9694/hls/351/index.m3u8
-#EXTINF:-1 group-title="地方",天津影视
-http://bva.iptviptv.site:9694/hls/352/index.m3u8
-#EXTINF:-1 group-title="地方",天津都市
-http://bva.iptviptv.site:9694/hls/353/index.m3u8
-#EXTINF:-1 group-title="地方",天津体育
-http://bva.iptviptv.site:9694/hls/354/index.m3u8
-#EXTINF:-1 group-title="地方",陕西新闻
-http://bva.iptviptv.site:9694/hls/380/index.m3u8
-#EXTINF:-1 group-title="地方",陕西都市
-http://bva.iptviptv.site:9694/hls/381/index.m3u8
-#EXTINF:-1 group-title="地方",陕西生活
-http://bva.iptviptv.site:9694/hls/382/index.m3u8
-#EXTINF:-1 group-title="地方",陕西影视
-http://bva.iptviptv.site:9694/hls/383/index.m3u8
-#EXTINF:-1 group-title="地方",陕西公共
-http://bva.iptviptv.site:9694/hls/384/index.m3u8
-#EXTINF:-1 group-title="地方",陕西体育
-http://bva.iptviptv.site:9694/hls/386/index.m3u8
-#EXTINF:-1 group-title="地方",西部电影
-http://bva.iptviptv.site:9694/hls/387/index.m3u8
-#EXTINF:-1 group-title="地方",西安影视
-http://bva.iptviptv.site:9694/hls/389/index.m3u8
-#EXTINF:-1 group-title="地方",延安频道
-http://bva.iptviptv.site:9694/hls/393/index.m3u8
-#EXTINF:-1 group-title="地方",安康综合
-http://bva.iptviptv.site:9694/hls/394/index.m3u8
-#EXTINF:-1 group-title="地方",咸阳综合
-http://bva.iptviptv.site:9694/hls/400/index.m3u8
-#EXTINF:-1 group-title="地方",宝鸡1
-http://bva.iptviptv.site:9694/hls/401/index.m3u8
-#EXTINF:-1 group-title="地方",宝鸡2
-http://bva.iptviptv.site:9694/hls/402/index.m3u8
-#EXTINF:-1 group-title="地方",扶风频道
-http://bva.iptviptv.site:9694/hls/405/index.m3u8
-#EXTINF:-1 group-title="地方",广东卫视
+
+
+#EXTINF:-1 group-title="广东",广东卫视
 http://bva.iptviptv.site:9694/hls/450/index.m3u8
-#EXTINF:-1 group-title="地方",广东珠江
+#EXTINF:-1 group-title="广东",广东珠江
 http://bva.iptviptv.site:9694/hls/451/index.m3u8
-#EXTINF:-1 group-title="地方",大湾区卫视
+#EXTINF:-1 group-title="广东",大湾区卫视
 http://bva.iptviptv.site:9694/hls/452/index.m3u8
-#EXTINF:-1 group-title="地方",广州综合
+#EXTINF:-1 group-title="广东",广州综合
 http://bva.iptviptv.site:9694/hls/453/index.m3u8
-#EXTINF:-1 group-title="地方",广东新闻
+#EXTINF:-1 group-title="广东",广东新闻
 http://bva.iptviptv.site:9694/hls/454/index.m3u8
-#EXTINF:-1 group-title="地方",广东民生
+#EXTINF:-1 group-title="广东",广东民生
 http://bva.iptviptv.site:9694/hls/455/index.m3u8
-#EXTINF:-1 group-title="地方",广东体育
+#EXTINF:-1 group-title="广东",广东体育
 http://bva.iptviptv.site:9694/hls/456/index.m3u8
-#EXTINF:-1 group-title="地方",广东经济科教
+#EXTINF:-1 group-title="广东",广东经济科教
 http://bva.iptviptv.site:9694/hls/457/index.m3u8
-#EXTINF:-1 group-title="地方",广东影视
+#EXTINF:-1 group-title="广东",广东影视
 http://bva.iptviptv.site:9694/hls/458/index.m3u8
-#EXTINF:-1 group-title="地方",潮州综合
-http://bva.iptviptv.site:9694/hls/459/index.m3u8
-#EXTINF:-1 group-title="地方",潮州民生
-http://bva.iptviptv.site:9694/hls/460/index.m3u8
-#EXTINF:-1 group-title="地方",梅州导视
-http://bva.iptviptv.site:9694/hls/461/index.m3u8
-#EXTINF:-1 group-title="地方",广东导视(G导视)
-http://bva.iptviptv.site:9694/hls/462/index.m3u8
-#EXTINF:-1 group-title="地方",广西新闻
-http://bva.iptviptv.site:9694/hls/470/index.m3u8
-#EXTINF:-1 group-title="地方",广西综艺
-http://bva.iptviptv.site:9694/hls/471/index.m3u8
-#EXTINF:-1 group-title="地方",广西都市
-http://bva.iptviptv.site:9694/hls/472/index.m3u8
-#EXTINF:-1 group-title="地方",广西乐购
-http://bva.iptviptv.site:9694/hls/473/index.m3u8
-#EXTINF:-1 group-title="地方",广西影视
-http://bva.iptviptv.site:9694/hls/474/index.m3u8
-#EXTINF:-1 group-title="地方",广西资讯
-http://bva.iptviptv.site:9694/hls/475/index.m3u8
-#EXTINF:-1 group-title="地方",南宁新闻
-http://bva.iptviptv.site:9694/hls/476/index.m3u8
-#EXTINF:-1 group-title="地方",南宁都市
-http://bva.iptviptv.site:9694/hls/477/index.m3u8
-#EXTINF:-1 group-title="地方",南宁影视
-http://bva.iptviptv.site:9694/hls/478/index.m3u8
-#EXTINF:-1 group-title="地方",南宁公共
-http://bva.iptviptv.site:9694/hls/479/index.m3u8
-#EXTINF:-1 group-title="地方",贺州综合
-http://bva.iptviptv.site:9694/hls/480/index.m3u8
-#EXTINF:-1 group-title="地方",玉林新闻
-http://bva.iptviptv.site:9694/hls/488/index.m3u8
-#EXTINF:-1 group-title="地方",河北经济
-http://bva.iptviptv.site:9694/hls/550/index.m3u8
-#EXTINF:-1 group-title="地方",河北都市
-http://bva.iptviptv.site:9694/hls/551/index.m3u8
-#EXTINF:-1 group-title="地方",河北影视
-http://bva.iptviptv.site:9694/hls/552/index.m3u8
-#EXTINF:-1 group-title="地方",河北少儿
-http://bva.iptviptv.site:9694/hls/553/index.m3u8
-#EXTINF:-1 group-title="地方",河北公共
-http://bva.iptviptv.site:9694/hls/554/index.m3u8
-#EXTINF:-1 group-title="地方",河北农民
-http://bva.iptviptv.site:9694/hls/555/index.m3u8
-#EXTINF:-1 group-title="地方",河北杂技
-http://bva.iptviptv.site:9694/hls/556/index.m3u8
-#EXTINF:-1 group-title="地方",湖北经视
-http://bva.iptviptv.site:9694/hls/570/index.m3u8
-#EXTINF:-1 group-title="地方",湖北垄上
-http://bva.iptviptv.site:9694/hls/571/index.m3u8
-#EXTINF:-1 group-title="地方",湖北公共
-http://bva.iptviptv.site:9694/hls/572/index.m3u8
-#EXTINF:-1 group-title="地方",湖北影视
-http://bva.iptviptv.site:9694/hls/573/index.m3u8
-#EXTINF:-1 group-title="地方",湖北生活
-http://bva.iptviptv.site:9694/hls/575/index.m3u8
-#EXTINF:-1 group-title="地方",武汉新闻
-http://bva.iptviptv.site:9694/hls/576/index.m3u8
-#EXTINF:-1 group-title="地方",武汉电视剧
-http://bva.iptviptv.site:9694/hls/577/index.m3u8
-#EXTINF:-1 group-title="地方",房县新闻
-http://bva.iptviptv.site:9694/hls/583/index.m3u8
-#EXTINF:-1 group-title="地方",江苏体育休闲
-http://bva.iptviptv.site:9694/hls/600/index.m3u8
-#EXTINF:-1 group-title="地方",江苏城市
-http://bva.iptviptv.site:9694/hls/601/index.m3u8
-#EXTINF:-1 group-title="地方",江苏影视
-http://bva.iptviptv.site:9694/hls/602/index.m3u8
-#EXTINF:-1 group-title="地方",江苏教育
-http://bva.iptviptv.site:9694/hls/603/index.m3u8
-#EXTINF:-1 group-title="地方",江苏综艺
-http://bva.iptviptv.site:9694/hls/604/index.m3u8
-#EXTINF:-1 group-title="地方",江苏新闻
+
 http://bva.iptviptv.site:9694/hls/605/index.m3u8
 #EXTINF:-1 group-title="地方",CHC家庭影院
 http://bva.iptviptv.site:9694/hls/700/index.m3u8
@@ -395,34 +183,6 @@ http://bva.iptviptv.site:9694/hls/718/index.m3u8
 http://bva.iptviptv.site:9694/hls/719/index.m3u8
 #EXTINF:-1 group-title="地方",北京体育
 http://bva.iptviptv.site:9694/hls/800/index.m3u8
-#EXTINF:-1 group-title="地方",淘电影
-http://bva.iptviptv.site:9694/hls/801/index.m3u8
-#EXTINF:-1 group-title="地方",淘剧场
-http://bva.iptviptv.site:9694/hls/802/index.m3u8
-#EXTINF:-1 group-title="地方",淘娱乐
-http://bva.iptviptv.site:9694/hls/803/index.m3u8
-#EXTINF:-1 group-title="地方",淘baby
-http://bva.iptviptv.site:9694/hls/804/index.m3u8
-#EXTINF:-1 group-title="地方",淘精彩
-http://bva.iptviptv.site:9694/hls/805/index.m3u8
-#EXTINF:-1 group-title="地方",北京文艺
-http://bva.iptviptv.site:9694/hls/806/index.m3u8
-#EXTINF:-1 group-title="地方",北京科教
-http://bva.iptviptv.site:9694/hls/807/index.m3u8
-#EXTINF:-1 group-title="地方",北京影视
-http://bva.iptviptv.site:9694/hls/808/index.m3u8
-#EXTINF:-1 group-title="地方",北京生活
-http://bva.iptviptv.site:9694/hls/809/index.m3u8
-#EXTINF:-1 group-title="地方",北京财经
-http://bva.iptviptv.site:9694/hls/810/index.m3u8
-#EXTINF:-1 group-title="地方",北京新闻
-http://bva.iptviptv.site:9694/hls/811/index.m3u8
-#EXTINF:-1 group-title="地方",北京卡酷少儿
-http://bva.iptviptv.site:9694/hls/812/index.m3u8
-#EXTINF:-1 group-title="地方",北京国际
-http://bva.iptviptv.site:9694/hls/813/index.m3u8
-#EXTINF:-1 group-title="地方",V音乐台
-http://bva.iptviptv.site:9694/hls/1000/index.m3u8
 #EXTINF:-1 group-title="香港",HBO
 http://bva.iptviptv.site:9694/hls/1001/index.m3u8
 #EXTINF:-1 group-title="香港",今日俄罗斯
