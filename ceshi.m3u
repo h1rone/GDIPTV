@@ -201,3 +201,8 @@ http://bva.iptviptv.site:9694/hls/906/index.m3u8
 http://bva.iptviptv.site:9694/hls/914/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",黄金翡翠台
 http://bva.iptviptv.site:9694/hls/916/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",黄金华剧台
+http://bva.iptviptv.site:9694/hls/900/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",华语剧台
+http://bva.iptviptv.site:9694/hls/907/index.m3u8
