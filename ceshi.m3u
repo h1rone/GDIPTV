@@ -185,7 +185,7 @@ http://bva.iptviptv.site:9694/hls/99/index.m3u8
 http://bva.iptviptv.site:9694/hls/103/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台(原版)
 http://bva.iptviptv.site:9694/hls/98/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",千禧经典台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.kmmc.net/logos/tvb_classic.png" group-title="香港",千禧经典台
 http://bva.iptviptv.site:9694/hls/901/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台4k
 http://bva.iptviptv.site:9694/hls/902/index.m3u8
@@ -193,9 +193,9 @@ http://bva.iptviptv.site:9694/hls/902/index.m3u8
 http://bva.iptviptv.site:9694/hls/903/index.m3u8
 #EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="香港",美亚电影台
 http://bva.iptviptv.site:9694/hls/904/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",TVB PLUS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.kmmc.net/logos/tvb_plus.png" group-title="香港",TVB PLUS
 http://bva.iptviptv.site:9694/hls/905/index.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="香港",无线新闻台
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://cdn.kmmc.net/logos/tvb_news.png" group-title="香港",无线新闻台
 http://bva.iptviptv.site:9694/hls/906/index.m3u8
 #EXTINF:-1 tvg-id="828" tvg-name="天映经典" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv112_mobile.png" group-title="香港",天映经典频道
 http://bva.iptviptv.site:9694/hls/914/index.m3u8
