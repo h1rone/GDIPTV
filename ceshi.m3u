@@ -35,6 +35,7 @@ http://bva.iptviptv.site:9694/hls/15/index.m3u8
 http://bva.iptviptv.site:9694/hls/16/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 农业高清
 http://bva.iptviptv.site:9694/hls/17/index.m3u8
+
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://bva.iptviptv.site:9694/hls/105/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
@@ -97,22 +98,7 @@ http://bva.iptviptv.site:9694/hls/133/index.m3u8
 http://bva.iptviptv.site:9694/hls/134/index.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
 http://bva.iptviptv.site:9694/hls/135/index.m3u8
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育
-http://bva.iptviptv.site:9694/hls/150/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai1.png" group-title="上海",新闻综合
-http://bva.iptviptv.site:9694/hls/151/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dfcj.png" group-title="上海",东方财经
-http://bva.iptviptv.site:9694/hls/152/index.m3u8
-#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经
-http://bva.iptviptv.site:9694/hls/153/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/fztd.png" group-title="上海",法治天地
-http://bva.iptviptv.site:9694/hls/154/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai2.png" group-title="上海",都市频道
-http://bva.iptviptv.site:9694/hls/155/index.m3u8
-#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",东方影视
-http://bva.iptviptv.site:9694/hls/156/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai6.png" group-title="上海",上海教育
-http://bva.iptviptv.site:9694/hls/157/index.m3u8
+
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="广东",广东卫视
 http://bva.iptviptv.site:9694/hls/450/index.m3u8
 #EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="广东",广东珠江
@@ -131,6 +117,9 @@ http://bva.iptviptv.site:9694/hls/456/index.m3u8
 http://bva.iptviptv.site:9694/hls/457/index.m3u8
 #EXTINF:-1 tvg-id="7250" tvg-name="广东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" group-title="广东",广东影视
 http://bva.iptviptv.site:9694/hls/458/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="导视" tvg-logo="" group-title="央视网台",导视
+http://bva.iptviptv.site:9694/hls/462/index.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="央视网台",CHC家庭影院
 http://bva.iptviptv.site:9694/hls/700/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="央视网台",CHC动作电影
