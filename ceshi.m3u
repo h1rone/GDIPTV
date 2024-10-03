@@ -181,12 +181,14 @@ http://qwe.iptviptv.site:9694/hls/903/index.m3u8
 http://qwe.iptviptv.site:9694/hls/904/index.m3u8
 #EXTINF:-1 tvg-id="828" tvg-name="天映经典" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv112_mobile.png" group-title="香港",天映经典频道
 http://qwe.iptviptv.site:9694/hls/914/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",黄金翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="" tvg-logo="" group-title="香港",黄金翡翠台
 http://qwe.iptviptv.site:9694/hls/916/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",黄金华剧台
 http://qwe.iptviptv.site:9694/hls/900/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",华语剧台
 http://qwe.iptviptv.site:9694/hls/907/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",不知道
+http://qwe.iptviptv.site:9694/hls/908/index.m3u8
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="香港",HBO
 http://qwe.iptviptv.site:9694/hls/1001/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",今日俄罗斯
