@@ -78,7 +78,7 @@ http://202.168.187.221:4001/udp/239.12.22.47:10001
 http://202.168.187.221:4001/udp/239.12.22.49:10001
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
 http://202.168.187.221:4001/udp/239.12.22.57:10001
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="地方",生活时尚
 http://202.168.187.221:4001/udp/239.12.22.58:10001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",city都市剧场
 http://202.168.187.221:4001/udp/239.12.22.59:10001
