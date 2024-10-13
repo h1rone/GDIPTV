@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://202.168.187.221:4001/udp/239.12.22.1:10001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",经济科教
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东频道",经济科教
 http://202.168.187.221:4001/udp/239.12.22.2:10001
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",cctv1
 http://202.168.187.221:4001/udp/239.12.22.3:10001
@@ -17,7 +17,7 @@ http://202.168.187.221:4001/udp/239.12.22.7:10001
 http://202.168.187.221:4001/udp/239.12.22.8:10001
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://202.168.187.221:4001/udp/239.12.22.9:10001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",chc影迷电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",chc影迷电影
 http://202.168.187.221:4001/udp/239.12.22.11:10001
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://202.168.187.221:4001/udp/239.12.22.12:10001
@@ -61,17 +61,17 @@ http://202.168.187.221:4001/udp/239.12.22.30:10001
 http://202.168.187.221:4001/udp/239.12.22.31:10001
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",cctv14
 http://202.168.187.221:4001/udp/239.12.22.32:10001
-#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海",新视觉HD
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="地方",新视觉HD
 http://202.168.187.221:4001/udp/239.12.22.33:10001
-#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="地方",劲爆体育
 http://202.168.187.221:4001/udp/239.12.22.34:10001
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓
 http://202.168.187.221:4001/udp/239.12.22.35:10001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",乐游
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",乐游
 http://202.168.187.221:4001/udp/239.12.22.36:10001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",魅力足球
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",魅力足球
 http://202.168.187.221:4001/udp/239.12.22.37:10001
-#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="地方",广东体育
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="广东频道",广东体育
 http://202.168.187.221:4001/udp/239.12.22.47:10001
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="地方",求索纪录
 http://202.168.187.221:4001/udp/239.12.22.49:10001
@@ -79,17 +79,17 @@ http://202.168.187.221:4001/udp/239.12.22.49:10001
 http://202.168.187.221:4001/udp/239.12.22.57:10001
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
 http://202.168.187.221:4001/udp/239.12.22.58:10001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",city都市剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",city都市剧场
 http://202.168.187.221:4001/udp/239.12.22.59:10001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动漫秀场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",动漫秀场
 http://202.168.187.221:4001/udp/239.12.22.61:10001
-#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="地方",游戏风云
 http://202.168.187.221:4001/udp/239.12.22.62:10001
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
 http://202.168.187.221:4001/udp/239.12.22.64:10001
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4k超高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东频道",4k超高清
 http://202.168.187.221:4001/udp/239.12.22.65:10001
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",cctv4k
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",cctv4k
 http://202.168.187.221:4001/udp/239.12.22.66:10001
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
 http://202.168.187.221:4001/udp/239.12.22.67:10001
@@ -99,23 +99,19 @@ http://202.168.187.221:4001/udp/239.12.22.68:10001
 http://202.168.187.221:4001/udp/239.12.22.69:10001
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",chc动作电影
 http://202.168.187.221:4001/udp/239.12.22.70:10001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳视澳门
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",澳视澳门
 http://202.168.187.221:4001/udp/239.12.22.76:10001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",精彩影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",精彩影视
 http://202.168.187.221:4001/udp/239.12.22.82:10001
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方",广东珠江
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="广东频道",广东珠江
 http://202.168.187.221:4001/udp/239.12.22.84:10001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",导视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",导视
 http://202.168.187.221:4001/udp/239.12.22.85:10001
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
 http://202.168.187.221:4001/udp/239.12.22.87:10001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宜和购物
-http://202.168.187.221:4001/udp/239.12.22.92:10001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南方购物
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东频道",南方购物
 http://202.168.187.221:4001/udp/239.12.22.93:10001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",聚鲨环球精选
-http://202.168.187.221:4001/udp/239.12.22.94:10001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纪实科教
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",纪实科教
 http://202.168.187.221:4001/udp/239.12.22.100:10001
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",cctv17
 http://202.168.187.221:4001/udp/239.12.22.101:10001
@@ -125,15 +121,13 @@ http://202.168.187.221:4001/udp/239.12.22.102:10001
 http://202.168.187.221:4001/udp/239.12.22.103:10001
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",cctv4
 http://202.168.187.221:4001/udp/239.12.22.104:10001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南国都市
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东频道",南国都市
 http://202.168.187.221:4001/udp/239.12.22.107:10001
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",cctv13
 http://202.168.187.221:4001/udp/239.12.22.114:10001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中华美食
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",中华美食
 http://202.168.187.221:4001/udp/239.12.22.115:10001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",央广购物
-http://202.168.187.221:4001/udp/239.12.22.116:10001
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="地方",金鹰卡通
 http://202.168.187.221:4001/udp/239.12.22.117:10001
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
 http://202.168.187.221:4001/udp/239.12.22.120:10001
@@ -163,27 +157,27 @@ http://202.168.187.221:4001/udp/239.12.22.133:10001
 http://202.168.187.221:4001/udp/239.12.22.134:10001
 #EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="地方",文物宝库
 http://202.168.187.221:4001/udp/239.12.22.135:10001
-#EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="地方",广东新闻
+#EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="广东频道",广东新闻
 http://202.168.187.221:4001/udp/239.12.22.136:10001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广东民生
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东频道",广东民生
 http://202.168.187.221:4001/udp/239.12.22.137:10001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",大湾区卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东频道",大湾区卫视
 http://202.168.187.221:4001/udp/239.12.22.138:10001
-#EXTINF:-1 tvg-id="7253" tvg-name="广东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" group-title="地方",广东少儿
+#EXTINF:-1 tvg-id="7253" tvg-name="广东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" group-title="广东频道",广东少儿
 http://202.168.187.221:4001/udp/239.12.22.139:10001
-#EXTINF:-1 tvg-id="7250" tvg-name="广东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" group-title="地方",广东影视
+#EXTINF:-1 tvg-id="7250" tvg-name="广东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" group-title="广东频道",广东影视
 http://202.168.187.221:4001/udp/239.12.22.140:10001
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="广东频道",嘉佳卡通
 http://202.168.187.221:4001/udp/239.12.22.141:10001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",岭南戏曲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东频道",岭南戏曲
 http://202.168.187.221:4001/udp/239.12.22.142:10001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",地方财经
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",地方财经
 http://202.168.187.221:4001/udp/239.12.22.143:10001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",金色学堂
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",金色学堂
 http://202.168.187.221:4001/udp/239.12.22.144:10001
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
 http://202.168.187.221:4001/udp/239.12.22.146:10001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重温经典
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",重温经典
 http://202.168.187.221:4001/udp/239.12.22.148:10001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",kaku少儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",kaku少儿
 http://202.168.187.221:4001/udp/239.12.22.149:10001
