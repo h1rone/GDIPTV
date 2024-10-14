@@ -150,8 +150,6 @@ http://php.iptviptv.site/iptv.php?id=yzjt
 http://php.iptviptv.site/iptv.php?id=kidsch
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",myTV SUPER FREE
 http://php.iptviptv.site/iptv.php?id=superfree
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",myTV SUPER 18台
-http://php.iptviptv.site/iptv.php?id=super18
 
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="国际",HBO
 http://php.iptviptv.site/iptv.php?id=HBO
