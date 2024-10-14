@@ -144,6 +144,15 @@ http://php.iptviptv.site/iptv.php?id=hjfct
 http://php.iptviptv.site/iptv.php?id=hjhjt
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",华语剧台
 http://php.iptviptv.site/iptv.php?id=hyjt66
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",亚洲剧台
+http://php.iptviptv.site/iptv.php?id=yzjt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",SUPER Kids Channel
+http://php.iptviptv.site/iptv.php?id=kidsch
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",myTV SUPER FREE
+http://php.iptviptv.site/iptv.php?id=superfree
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",myTV SUPER 18台
+http://php.iptviptv.site/iptv.php?id=super18
+
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="国际",HBO
 http://php.iptviptv.site/iptv.php?id=HBO
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",今日俄罗斯
