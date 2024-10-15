@@ -153,7 +153,7 @@ http://php.iptviptv.site/iptv.php?id=superfree
 
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="国际",HBO
 http://php.iptviptv.site/iptv.php?id=HBO
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",今日俄罗斯
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",今日俄罗斯
 http://php.iptviptv.site/iptv.php?id=elsjr
 #EXTINF:-1 tvg-id="6113" tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="国际",日本NHK
 http://php.iptviptv.site/iptv.php?id=nhk
