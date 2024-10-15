@@ -300,20 +300,14 @@ http://192.168.2.1:7088/udp/239.77.1.21:5146
 http://192.168.2.1:7088/udp/239.77.1.23:5146
 #EXTINF:-1 tvg-name="IPTV1" group-title="IPTV-IPTV频道",IPTV1高清
 http://192.168.2.1:7088/udp/239.77.1.7:5146
-#EXTINF:-1 tvg-name="IPTV1" group-title="IPTV-IPTV频道",IPTV1高清
-http://192.168.2.1:7088/udp/239.77.1.203:5146
 #EXTINF:-1 tvg-name="IPTV2" group-title="IPTV-IPTV频道",IPTV2高清
 http://192.168.2.1:7088/udp/239.77.1.8:5146
-#EXTINF:-1 tvg-name="IPTV2" group-title="IPTV-IPTV频道",IPTV2高清
-http://192.168.2.1:7088/udp/239.77.1.201:5146
 #EXTINF:-1 tvg-name="IPTV3" group-title="IPTV-IPTV频道",IPTV3高清
 http://192.168.2.1:7088/udp/239.77.1.9:5146
 #EXTINF:-1 tvg-name="IPTV4" group-title="IPTV-IPTV频道",IPTV4高清
 http://192.168.2.1:7088/udp/239.77.1.10:5146
 #EXTINF:-1 tvg-name="IPTV爱体育" group-title="IPTV-IPTV频道",爱体育高清
 http://192.168.2.1:7088/udp/239.77.0.176:5146
-#EXTINF:-1 tvg-name="IPTV爱体育" group-title="IPTV-IPTV频道",爱体育高清
-http://192.168.2.1:7088/udp/239.77.1.116:5146
 #EXTINF:-1 group-title="IPTV-其他",九屏同播
 http://192.168.2.1:7088/udp/239.77.1.234:5146
 #EXTINF:-1 group-title="IPTV-其他",四屏同播
