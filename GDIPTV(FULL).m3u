@@ -74,8 +74,6 @@ http://192.168.2.1:7088/udp/239.77.0.202:5146
 http://192.168.2.1:7088/udp/239.77.1.232:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="IPTV-广东地方台",HZTV-2高清
 http://192.168.2.1:7088/udp/239.77.1.233:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/珠海1.png" group-title="IPTV-广东地方台",珠海-1高清
-http://192.168.2.1:7088/udp/239.77.0.155:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/珠海2.png" group-title="IPTV-广东地方台",珠海-2高清
 http://192.168.2.1:7088/udp/239.77.0.154:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/肇庆综合.png" group-title="IPTV-广东地方台",肇庆综合高清
@@ -126,9 +124,7 @@ http://192.168.2.1:7088/udp/239.253.43.63:5146
 http://192.168.2.1:7088/udp/239.253.43.70:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/潮州民生.png" group-title="IPTV-广东地方台",潮州民生高清
 http://192.168.2.1:7088/udp/239.253.43.75:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/徐闻综合.png" group-title="IPTV-广东地方台",徐闻综合高清
-http://192.168.2.1:7088/udp/239.253.43.112:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/梅州1.png" group-title="IPTV-广东地方台",梅州-1高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/梅州1.png" group-title="IPTV-广东地方台",梅州综合高清
 http://192.168.2.1:7088/udp/239.253.43.123:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/客家生活.png" group-title="IPTV-广东地方台",客家生活高清
 http://192.168.2.1:7088/udp/239.253.43.124:5146
