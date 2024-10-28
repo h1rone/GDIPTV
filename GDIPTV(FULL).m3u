@@ -51,12 +51,13 @@ http://192.168.2.1:7088/udp/239.77.1.67:5146
 http://192.168.2.1:7088/udp/239.77.1.223:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen11.png" group-title="IPTV-深圳电视台",深圳众创TV高清
 http://192.168.2.1:7088/udp/239.77.1.247:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/韶关新闻综合.png" group-title="IPTV-广东地方台",韶关新闻综合高清
-http://192.168.2.1:7088/udp/239.77.0.117:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东莞新闻综合.png" group-title="IPTV-广东地方台",东莞新闻综合高清
 http://192.168.2.1:7088/udp/239.253.43.104:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东莞生活资讯.png" group-title="IPTV-广东地方台",东莞生活资讯高清
 http://192.168.2.1:7088/udp/239.253.43.105:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/韶关新闻综合.png" group-title="IPTV-广东地方台",韶关新闻综合高清
+http://192.168.2.1:7088/udp/239.77.0.117:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/湛江新闻综合.png" group-title="IPTV-广东地方台",湛江新闻综合高清
 http://192.168.2.1:7088/udp/239.77.0.141:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/湛江公共.png" group-title="IPTV-广东地方台",湛江公共高清
