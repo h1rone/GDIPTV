@@ -254,6 +254,8 @@ http://192.168.2.1:7088/udp/239.253.43.27:5146
 http://192.168.2.1:7088/udp/239.253.43.28:5146
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" group-title="IPTV-央视网台",风云音乐高清
 http://192.168.2.1:7088/udp/239.253.43.29:5146
+#EXTINF:-1 tvg-id="6558 tvg-name="卫生健康" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVwsjk.png" group-title="IPTV-央视网台",卫生健康高清
+http://192.168.2.1:7088/udp/239.77.0.212:5146
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="IPTV-央视网台",CHC高清电影
 http://192.168.2.1:7088/udp/239.77.0.27:5146
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="IPTV-数字付费",金鹰卡通高清
