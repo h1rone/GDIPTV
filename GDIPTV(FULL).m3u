@@ -20,7 +20,7 @@ http://192.168.2.1:7088/udp/239.77.0.250:5146
 #EXTINF:-1 tvg-id="26" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong14.png" group-title="IPTV-广东电视台",嘉佳卡通
 http://192.168.2.1:7088/udp/239.77.0.179:5146
 #EXTINF:-1 tvg-id="" tvg-name="南方购物" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong16.png" group-title="IPTV-广东电视台",南方购物
-http://192.168.2.1:7088/udp/239.77.0.19:5146
+http://192.168.2.1:7088/udp/239.77.0.241:5146
 #EXTINF:-1 tvg-id="" tvg-name="岭南戏曲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong11.png" group-title="IPTV-广东电视台",岭南戏曲
 http://192.168.2.1:7088/udp/239.77.0.122:5146
 #EXTINF:-1 tvg-id="34" tvg-name="现代教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong13.png" group-title="IPTV-广东电视台",现代教育
@@ -78,8 +78,8 @@ http://192.168.2.1:7088/udp/239.77.0.202:5146
 http://192.168.2.1:7088/udp/239.77.1.232:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="IPTV-广东地方台",HZTV-2高清
 http://192.168.2.1:7088/udp/239.77.1.233:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/珠海2.png" group-title="IPTV-广东地方台",珠海-2高清
-http://192.168.2.1:7088/udp/239.77.0.154:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/珠海1.png" group-title="IPTV-广东地方台",珠海-1高清
+http://192.168.2.1:7088/udp/239.77.0.155:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/肇庆综合.png" group-title="IPTV-广东地方台",肇庆综合高清
 http://192.168.2.1:7088/udp/239.253.43.1:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/肇庆生活服务.png" group-title="IPTV-广东地方台",肇庆生活服务高清
