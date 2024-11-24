@@ -248,7 +248,7 @@ http://192.168.2.1:7088/udp/239.253.43.24:5146
 http://192.168.2.1:7088/udp/239.253.43.25:5146
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png" group-title="IPTV-央视网台",风云剧场
 http://192.168.2.1:7088/udp/239.253.43.26:5146
-#EXTINF:-1 tvg-id="" tvg-name="文化精品" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVyswhjp.png" group-title="IPTV-央视网台",央视文化精
+#EXTINF:-1 tvg-id="" tvg-name="文化精品" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVyswhjp.png" group-title="IPTV-央视网台",央视文化精品
 http://192.168.2.1:7088/udp/239.253.43.27:5146
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdyjc.png" group-title="IPTV-央视网台",第一剧场
 http://192.168.2.1:7088/udp/239.253.43.28:5146
