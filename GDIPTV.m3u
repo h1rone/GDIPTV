@@ -72,9 +72,9 @@ http://192.168.2.1:7088/udp/239.77.0.187:5146
 http://192.168.2.1:7088/udp/239.77.0.201:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/江门侨乡生活.png" group-title="IPTV-广东地方台",江门侨乡生活
 http://192.168.2.1:7088/udp/239.77.0.202:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="IPTV-广东地方台",HZTV-1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/HZTV-1.png" group-title="IPTV-广东地方台",HZTV-1
 http://192.168.2.1:7088/udp/239.77.1.232:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="IPTV-广东地方台",HZTV-2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/HZTV-1.png" group-title="IPTV-广东地方台",HZTV-2
 http://192.168.2.1:7088/udp/239.77.1.233:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/珠海-1.png" group-title="IPTV-广东地方台",珠海-1
 http://192.168.2.1:7088/udp/239.77.0.155:5146
