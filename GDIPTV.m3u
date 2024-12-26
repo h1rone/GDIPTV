@@ -1,37 +1,37 @@
 #EXTM3U url-tvg="https://gh.huazi.me/https://raw.githubusercontent.com/biansty/IPTV-EPG/refs/heads/master/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="20" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="IPTV-广东电视台",广东卫视
 http://192.168.2.1:7088/udp/239.77.1.152:5146
-#EXTINF:-1 tvg-id="21" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="IPTV-广东电视台",广东珠江
+#EXTINF:-1 tvg-id="21" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="IPTV-广东电视台",广东珠江
 http://192.168.2.1:7088/udp/239.77.0.114:5146
-#EXTINF:-1 tvg-id="25" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="IPTV-广东电视台",广东新闻
+#EXTINF:-1 tvg-id="25" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="IPTV-广东电视台",广东新闻
 http://192.168.2.1:7088/udp/239.77.0.173:5146
-#EXTINF:-1 tvg-id="23" tvg-name=广东民生"" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong2.png" group-title="IPTV-广东电视台",广东民生
+#EXTINF:-1 tvg-id="23" tvg-name=广东民生"" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" group-title="IPTV-广东电视台",广东民生
 http://192.168.2.1:7088/udp/239.77.0.225:5146
-#EXTINF:-1 tvg-id="22" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="IPTV-广东电视台",广东体育
+#EXTINF:-1 tvg-id="22" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="IPTV-广东电视台",广东体育
 http://192.168.2.1:7088/udp/239.77.0.168:5146
-#EXTINF:-1 tvg-id="28" tvg-name="经济科教" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong7.png" group-title="IPTV-广东电视台",经济科教
+#EXTINF:-1 tvg-id="28" tvg-name="经济科教" tvg-logo="https://epg.112114.xyz/logo/广东经济.png" group-title="IPTV-广东电视台",经济科教
 http://192.168.2.1:7088/udp/239.77.0.167:5146
-#EXTINF:-1 tvg-id="29" tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong10.png" group-title="IPTV-广东电视台",大湾区卫视
+#EXTINF:-1 tvg-id="29" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="IPTV-广东电视台",大湾区卫视
 http://192.168.2.1:7088/udp/239.77.0.215:5146
-#EXTINF:-1 tvg-id="32" tvg-name="广东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" group-title="IPTV-广东电视台",广东影视
+#EXTINF:-1 tvg-id="32" tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" group-title="IPTV-广东电视台",广东影视
 http://192.168.2.1:7088/udp/239.77.0.217:5146
-#EXTINF:-1 tvg-id="33" tvg-name="广东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" group-title="IPTV-广东电视台",广东少儿
+#EXTINF:-1 tvg-id="33" tvg-name="广东少儿" tvg-logo="https://epg.112114.xyz/logo/广东少儿.png" group-title="IPTV-广东电视台",广东少儿
 http://192.168.2.1:7088/udp/239.77.0.250:5146
-#EXTINF:-1 tvg-id="26" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong14.png" group-title="IPTV-广东电视台",嘉佳卡通
+#EXTINF:-1 tvg-id="26" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="IPTV-广东电视台",嘉佳卡通
 http://192.168.2.1:7088/udp/239.77.0.179:5146
-#EXTINF:-1 tvg-id="" tvg-name="岭南戏曲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong11.png" group-title="IPTV-广东电视台",岭南戏曲
+#EXTINF:-1 tvg-id="" tvg-name="岭南戏曲" tvg-logo="https://epg.112114.xyz/logo/岭南戏曲.png" group-title="IPTV-广东电视台",岭南戏曲
 http://192.168.2.1:7088/udp/239.77.0.122:5146
-#EXTINF:-1 tvg-id="34" tvg-name="现代教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong13.png" group-title="IPTV-广东电视台",现代教育
+#EXTINF:-1 tvg-id="34" tvg-name="现代教育" tvg-logo="https://epg.112114.xyz/logo/现代教育.png" group-title="IPTV-广东电视台",现代教育
 http://192.168.2.1:7088/udp/239.77.0.213:5146
-#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou1.png" group-title="IPTV-广州电视台",广州综合
+#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" group-title="IPTV-广州电视台",广州综合
 http://192.168.2.1:7088/udp/239.253.43.71:5146
-#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou2.png" group-title="IPTV-广州电视台",广州新闻
+#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="IPTV-广州电视台",广州新闻
 http://192.168.2.1:7088/udp/239.253.43.72:5146
-#EXTINF:-1 tvg-id="" tvg-name="广州影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou5.png" group-title="IPTV-广州电视台",广州影视
+#EXTINF:-1 tvg-id="" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" group-title="IPTV-广州电视台",广州影视
 http://192.168.2.1:7088/udp/239.253.43.73:5146
-#EXTINF:-1 tvg-id="" tvg-name="广州法治" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou3.png" group-title="IPTV-广州电视台",广州法治
+#EXTINF:-1 tvg-id="" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" group-title="IPTV-广州电视台",广州法治
 http://192.168.2.1:7088/udp/239.253.43.74:5146
-#EXTINF:-1 tvg-id="170" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="IPTV-深圳电视台",深圳卫视
+#EXTINF:-1 tvg-id="170" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="IPTV-深圳电视台",深圳卫视
 http://192.168.2.1:7088/udp/239.77.1.3:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen1.png" group-title="IPTV-深圳电视台",深圳都市频道
 http://192.168.2.1:7088/udp/239.77.1.176:5146
