@@ -282,13 +282,13 @@ http://192.168.2.1:7088/udp/239.77.1.217:5146
 http://192.168.2.1:7088/udp/239.77.0.21:5146
 #EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="IPTV-数字付费",天元围棋
 http://192.168.2.1:7088/udp/239.253.43.98:5146
-#EXTINF:-1 tvg-name="睛彩" group-title="IPTV-数字付费",睛彩青少
+#EXTINF:-1 tvg-name="睛彩" tvg-logo="https://epg.112114.xyz/logo/睛彩青少.png" group-title="IPTV-数字付费",睛彩青少
 http://192.168.2.1:7088/udp/239.77.1.22:5146
-#EXTINF:-1 tvg-name="睛彩" group-title="IPTV-数字付费",睛彩竞技
+#EXTINF:-1 tvg-name="睛彩" tvg-logo="https://epg.112114.xyz/logo/睛彩竞技.png" group-title="IPTV-数字付费",睛彩竞技
 http://192.168.2.1:7088/udp/239.77.1.20:5146
-#EXTINF:-1 tvg-name="睛彩" group-title="IPTV-数字付费",睛彩篮球
+#EXTINF:-1 tvg-name="睛彩" tvg-logo="https://epg.112114.xyz/logo/睛彩篮球.png" group-title="IPTV-数字付费",睛彩篮球
 http://192.168.2.1:7088/udp/239.77.1.21:5146
-#EXTINF:-1 tvg-name="睛彩" group-title="IPTV-数字付费",睛彩广场舞
+#EXTINF:-1 tvg-name="睛彩" tvg-logo="https://epg.112114.xyz/logo/睛彩广场舞.png" group-title="IPTV-数字付费",睛彩广场舞
 http://192.168.2.1:7088/udp/239.77.1.23:5146
 
 
