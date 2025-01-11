@@ -304,7 +304,5 @@ http://192.168.2.1:7088/udp/239.77.1.107:5146
 http://192.168.2.1:7088/udp/239.77.0.245:5146
 #EXTINF:-1 tvg-id="" tvg-name="南国都市" tvg-logo="https://epg.112114.xyz/logo/南国都市.png" group-title="IPTV-广州电视台",南国都市4K
 http://192.168.2.1:7088/udp/239.253.43.99:5146
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="IPTV-央视",CCTV-16 4K
-http://192.168.2.1:7088/udp/239.77.1.98:5146
 #EXTINF:-1 tvg-id="247" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" group-title="IPTV-央视",CCTV-4K 4K
 http://192.168.2.1:7088/udp/239.77.0.174:5146
