@@ -221,5 +221,12 @@ http://61.163.58.154:1321/ms/IPTV.php?id=231
 http://61.163.58.154:1321/ms/IPTV.php?id=233
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",广东体育
+http://61.163.58.154:1321/ms/IPTV.php?id=234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",广东新闻
+http://61.163.58.154:1321/ms/IPTV.php?id=235
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",民视
+http://61.163.58.154:1321/ms/IPTV.php?id=237
 
 
