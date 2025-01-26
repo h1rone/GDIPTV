@@ -171,7 +171,7 @@ http://61.163.58.154:1321/ms/IPTV.php?id=206
 http://61.163.58.154:1321/ms/IPTV.php?id=207
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",天映频道
 http://61.163.58.154:1321/ms/IPTV.php?id=208
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Astro
+#EXTINF:-1 tvg-id="TVBClassic" tvg-name="TVB千禧經典台" tvg-logo="https://content.stream-link.org/images/tvb_classic.png",TVB千禧經典台
 http://61.163.58.154:1321/ms/IPTV.php?id=209
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",HUB都会
 http://61.163.58.154:1321/ms/IPTV.php?id=210
