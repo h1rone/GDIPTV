@@ -183,37 +183,37 @@ http://61.163.58.154:1321/ms/IPTV.php?id=212
 http://61.163.58.154:1321/ms/IPTV.php?id=213
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
 http://61.163.58.154:1321/ms/IPTV.php?id=214
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="AstroQuanJiaHD" tvg-name="Astro QuanJia" tvg-logo="https://content.stream-link.org/images/Astro_QJ.png",Astro QuanJia
 http://61.163.58.154:1321/ms/IPTV.php?id=215
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
 http://61.163.58.154:1321/ms/IPTV.php?id=216
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="TVBUSE" tvg-name="翡翠娛樂台" tvg-logo="https://content.stream-link.org/images/tvbus_e.png",翡翠娛樂台
 http://61.163.58.154:1321/ms/IPTV.php?id=217
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",星空
 http://61.163.58.154:1321/ms/IPTV.php?id=218
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
 http://61.163.58.154:1321/ms/IPTV.php?id=219
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",翡翠台
 http://61.163.58.154:1321/ms/IPTV.php?id=220
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",翡翠台
 http://61.163.58.154:1321/ms/IPTV.php?id=221
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
 http://61.163.58.154:1321/ms/IPTV.php?id=222
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",翡翠台
 http://61.163.58.154:1321/ms/IPTV.php?id=223
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVB Plus" tvg-logo="https://content.stream-link.org/images/tvb_plus.png",TVB Plus
 http://61.163.58.154:1321/ms/IPTV.php?id=224
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="TVBPearl" tvg-name="明珠台" tvg-logo="https://content.stream-link.org/images/tvb_pearl.png",明珠台
 http://61.163.58.154:1321/ms/IPTV.php?id=225
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="I-STYLE" tvg-name="TVB生活台" tvg-logo="https://content.stream-link.org/images/tvbanywhere_style.png",TVB生活台
 http://61.163.58.154:1321/ms/IPTV.php?id=226
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="TVBXingHe.my" tvg-name="TVB星河台(國語)" tvg-logo="https://content.stream-link.org/images/tvb_xing_he.png,TVB星河台(國語)
 http://61.163.58.154:1321/ms/IPTV.php?id=227
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="TVBXingHe.my" tvg-name="TVB星河台(粵語)" tvg-logo="https://content.stream-link.org/images/tvb_xing_he.png",TVB星河台(粵語)
 http://61.163.58.154:1321/ms/IPTV.php?id=228
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
 http://61.163.58.154:1321/ms/IPTV.php?id=229
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",赛马
 http://61.163.58.154:1321/ms/IPTV.php?id=230
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="TVBUSPearlDrama" tvg-name="明珠劇集台" tvg-logo="https://content.stream-link.org/images/tvbus_pearl_drama.png",明珠劇集台(北美)
 http://61.163.58.154:1321/ms/IPTV.php?id=231
