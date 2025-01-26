@@ -7,7 +7,7 @@ http://61.163.58.154:1321/ms/IPTV.php?id=124
 http://61.163.58.154:1321/ms/IPTV.php?id=125
 #EXTINF:-1 tvg-id="TVBJade" tvg-name="翡翠台" tvg-logo="https://content.stream-link.org/images/tvb_jade_hk.png",翡翠台
 http://61.163.58.154:1321/ms/IPTV.php?id=126
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无线赛马18台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",有线赛马18台
 http://61.163.58.154:1321/ms/IPTV.php?id=127
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无线赛马18台
 http://61.163.58.154:1321/ms/IPTV.php?id=128
@@ -27,57 +27,57 @@ http://61.163.58.154:1321/ms/IPTV.php?id=134
 http://61.163.58.154:1321/ms/IPTV.php?id=135
 #EXTINF:-1 tvg-id="nowBaoguMovies" tvg-name="now爆谷電影台" tvg-logo="https://content.stream-link.org/images/now_133.png",now爆谷電影台
 http://61.163.58.154:1321/ms/IPTV.php?id=136
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="nowChineseDramaChannel" tvg-name="now華劇台" tvg-logo="https://content.stream-link.org/images/now_105.png",now華劇台
 http://61.163.58.154:1321/ms/IPTV.php?id=137
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="viu" tvg-name="viu劇集台" tvg-logo="https://content.stream-link.org/images/now_102.png",viu劇集台
 http://61.163.58.154:1321/ms/IPTV.php?id=138
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="nowJelli" tvg-name="now紫金國際" tvg-logo=""https://content.stream-link.org/images/now_108.png,now紫金國際
 http://61.163.58.154:1321/ms/IPTV.php?id=139
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="nowSportsPrime" tvg-name="Now Sports Prime" tvg-logo="https://content.stream-link.org/images/now_630.png",now精選體育
 http://61.163.58.154:1321/ms/IPTV.php?id=140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSports
 http://61.163.58.154:1321/ms/IPTV.php?id=141
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSportsPlus
 http://61.163.58.154:1321/ms/IPTV.php?id=142
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWNBA
 http://61.163.58.154:1321/ms/IPTV.php?id=143
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",HOY76
 http://61.163.58.154:1321/ms/IPTV.php?id=144
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",HOY77
 http://61.163.58.154:1321/ms/IPTV.php?id=145
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",HOY78
 http://61.163.58.154:1321/ms/IPTV.php?id=146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",VIUTV
 http://61.163.58.154:1321/ms/IPTV.php?id=147
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",VIU6
 http://61.163.58.154:1321/ms/IPTV.php?id=148
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",RTHK31
 http://61.163.58.154:1321/ms/IPTV.php?id=149
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",RTHK32
 http://61.163.58.154:1321/ms/IPTV.php?id=150
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",新时代1
 http://61.163.58.154:1321/ms/IPTV.php?id=151
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",新时代2
 http://61.163.58.154:1321/ms/IPTV.php?id=152
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",城市电视
 http://61.163.58.154:1321/ms/IPTV.php?id=153
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",中旺电视
 http://61.163.58.154:1321/ms/IPTV.php?id=154
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",FASHION
 http://61.163.58.154:1321/ms/IPTV.php?id=155
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",tvN
 http://61.163.58.154:1321/ms/IPTV.php?id=156
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",KIX
 http://61.163.58.154:1321/ms/IPTV.php?id=157
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",ROCKACTION
 http://61.163.58.154:1321/ms/IPTV.php?id=158
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",ROCKE
 http://61.163.58.154:1321/ms/IPTV.php?id=159
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
 http://61.163.58.154:1321/ms/IPTV.php?id=160
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
 http://61.163.58.154:1321/ms/IPTV.php?id=161
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
 http://61.163.58.154:1321/ms/IPTV.php?id=162
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
 http://61.163.58.154:1321/ms/IPTV.php?id=163
