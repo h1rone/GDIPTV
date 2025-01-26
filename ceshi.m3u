@@ -199,9 +199,9 @@ http://61.163.58.154:1321/ms/IPTV.php?id=220
 http://61.163.58.154:1321/ms/IPTV.php?id=221
 #EXTINF:-1 tvg-id="I-J-UK" tvg-name="翡翠台.英國時區" tvg-logo="https://content.stream-link.org/images/tvb_jade_uk.png",翡翠台.英國(tvbanywhere)
 http://61.163.58.154:1321/ms/IPTV.php?id=222
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",翡翠台
+#EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVB Plus" tvg-logo="https://content.stream-link.org/images/tvb_plus.png",TVB Plus
 http://61.163.58.154:1321/ms/IPTV.php?id=223
-EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVB Plus" tvg-logo="https://content.stream-link.org/images/tvb_plus.png",TVB Plus
+#EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVB Plus" tvg-logo="https://content.stream-link.org/images/tvb_plus.png",TVB Plu
 http://61.163.58.154:1321/ms/IPTV.php?id=224
 #EXTINF:-1 tvg-id="TVBPearl" tvg-name="明珠台" tvg-logo="https://content.stream-link.org/images/tvb_pearl.png",明珠台 anywhere
 http://61.163.58.154:1321/ms/IPTV.php?id=225
