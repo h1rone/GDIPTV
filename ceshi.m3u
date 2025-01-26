@@ -177,13 +177,13 @@ http://61.163.58.154:1321/ms/IPTV.php?id=209
 http://61.163.58.154:1321/ms/IPTV.php?id=210
 #EXTINF:-1 tvg-id="HubVVDrama.sg" tvg-name="Hub娛家" tvg-logo="https://content.2025link.site/images/hub_vv_drama.png",Hub娛家
 http://61.163.58.154:1321/ms/IPTV.php?id=211
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Astro 欢喜台
+#EXTINF:-1 tvg-id="AstroHuaHeeDai" tvg-name="Astro Hua Hee Dai" tvg-logo="https://content.stream-link.org/images/Astro_Hua_Hee_Dai.png",Astro Hua Hee Dai
 http://61.163.58.154:1321/ms/IPTV.php?id=212
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Astro AOD
+#EXTINF:-1 tvg-id="AstroAOD" tvg-name="Astro AOD" tvg-logo="https://content.stream-link.org/images/Astro_AOD.png",Astro AOD
 http://61.163.58.154:1321/ms/IPTV.php?id=213
 #EXTINF:-1 tvg-id="AstroQuanJiaHD" tvg-name="Astro QuanJia" tvg-logo="https://content.stream-link.org/images/Astro_QJ.png",Astro QuanJia
 http://61.163.58.154:1321/ms/IPTV.php?id=214
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Astro AEC
+#EXTINF:-1 tvg-id="AstroAEC" tvg-name="Astro AEC" tvg-logo="https://content.stream-link.org/images/Astro_AEC.png",Astro AEC
 http://61.163.58.154:1321/ms/IPTV.php?id=215
 #EXTINF:-1 tvg-id="TVBUSE" tvg-name="翡翠娛樂台" tvg-logo="https://content.stream-link.org/images/tvbus_e.png",翡翠娛樂台
 http://61.163.58.154:1321/ms/IPTV.php?id=216
