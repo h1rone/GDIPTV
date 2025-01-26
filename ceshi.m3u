@@ -137,9 +137,9 @@ http://61.163.58.154:1321/ms/IPTV.php?id=189
 http://61.163.58.154:1321/ms/IPTV.php?id=190
 #EXTINF:-1 tvg-id="200" tvg-name="粵語片台" tvg-logo="https://live.hkdvb.com/static/logos/804.png",粤语片台
 http://61.163.58.154:1321/ms/IPTV.php?id=191
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",戏曲台
 http://61.163.58.154:1321/ms/IPTV.php?id=192
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",super kids channel
 http://61.163.58.154:1321/ms/IPTV.php?id=193
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
 http://61.163.58.154:1321/ms/IPTV.php?id=194
