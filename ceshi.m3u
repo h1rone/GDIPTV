@@ -203,7 +203,7 @@ http://61.163.58.154:1321/ms/IPTV.php?id=222
 http://61.163.58.154:1321/ms/IPTV.php?id=223
 EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVB Plus" tvg-logo="https://content.stream-link.org/images/tvb_plus.png",TVB Plus
 http://61.163.58.154:1321/ms/IPTV.php?id=224
-#EXTINF:-1 tvg-id="TVBPearl" tvg-name="明珠台" tvg-logo="https://content.stream-link.org/images/tvb_pearl.png",明珠台
+#EXTINF:-1 tvg-id="TVBPearl" tvg-name="明珠台" tvg-logo="https://content.stream-link.org/images/tvb_pearl.png",明珠台 anywhere
 http://61.163.58.154:1321/ms/IPTV.php?id=225
 #EXTINF:-1 tvg-id="I-STYLE" tvg-name="TVB生活台" tvg-logo="https://content.stream-link.org/images/tvbanywhere_style.png",TVB生活台
 http://61.163.58.154:1321/ms/IPTV.php?id=226
