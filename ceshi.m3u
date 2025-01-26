@@ -157,9 +157,9 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
 http://61.163.58.154:1321/ms/IPTV.php?id=200
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",中国电影频道
 http://61.163.58.154:1321/ms/IPTV.php?id=201
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",美亚电影台（粤语）
 http://61.163.58.154:1321/ms/IPTV.php?id=202
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",美亚电影台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",美亚电影台（国语）
 http://61.163.58.154:1321/ms/IPTV.php?id=203
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Asia action（粤语）
 http://61.163.58.154:1321/ms/IPTV.php?id=204
@@ -175,7 +175,7 @@ http://61.163.58.154:1321/ms/IPTV.php?id=208
 http://61.163.58.154:1321/ms/IPTV.php?id=209
 #EXTINF:-1 tvg-id="HubECity.sg" tvg-name="Hub都會" tvg-logo="https://content.stream-link.org/images/hub_e_city.png",Hub都會
 http://61.163.58.154:1321/ms/IPTV.php?id=210
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",HUB娱家
 http://61.163.58.154:1321/ms/IPTV.php?id=211
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Astro 欢喜台
 http://61.163.58.154:1321/ms/IPTV.php?id=212
