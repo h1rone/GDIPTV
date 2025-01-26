@@ -31,7 +31,7 @@ http://61.163.58.154:1321/ms/IPTV.php?id=136
 http://61.163.58.154:1321/ms/IPTV.php?id=137
 #EXTINF:-1 tvg-id="viu" tvg-name="viu劇集台" tvg-logo="https://content.stream-link.org/images/now_102.png",viu劇集台
 http://61.163.58.154:1321/ms/IPTV.php?id=138
-#EXTINF:-1 tvg-id="nowJelli" tvg-name="now紫金國際" tvg-logo=""https://content.stream-link.org/images/now_108.png,now紫金國際
+#EXTINF:-1 tvg-id="nowJelli" tvg-name="now紫金國際" tvg-logo="https://content.stream-link.org/images/now_108.png",now紫金國際
 http://61.163.58.154:1321/ms/IPTV.php?id=139
 #EXTINF:-1 tvg-id="nowSportsPrime" tvg-name="Now Sports Prime" tvg-logo="https://content.stream-link.org/images/now_630.png",now精選體育
 http://61.163.58.154:1321/ms/IPTV.php?id=140
