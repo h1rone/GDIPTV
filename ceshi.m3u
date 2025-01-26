@@ -11,7 +11,7 @@ http://61.163.58.154:1321/ms/IPTV.php?id=126
 http://61.163.58.154:1321/ms/IPTV.php?id=127
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无线赛马18台
 http://61.163.58.154:1321/ms/IPTV.php?id=128
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",28AI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",28AI智慧赛马
 http://61.163.58.154:1321/ms/IPTV.php?id=129
 #EXTINF:-1 tvg-id="nowNews" tvg-name="Now News" tvg-logo="https://content.stream-link.org/images/now_332.png",NOW新闻台
 http://61.163.58.154:1321/ms/IPTV.php?id=130
