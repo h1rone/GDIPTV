@@ -193,7 +193,7 @@ http://61.163.58.154:1321/ms/IPTV.php?id=217
 http://61.163.58.154:1321/ms/IPTV.php?id=218
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",翡翠台
 http://61.163.58.154:1321/ms/IPTV.php?id=219
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",翡翠台
+#EXTINF:-1 tvg-id="I-J-AUS" tvg-name="翡翠台.澳新時區" tvg-logo="https://content.stream-link.org/images/tvb_jade_aus.png",翡翠台.澳新(tvbanywhere)
 http://61.163.58.154:1321/ms/IPTV.php?id=220
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",翡翠台
 http://61.163.58.154:1321/ms/IPTV.php?id=221
