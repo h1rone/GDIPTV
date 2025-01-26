@@ -101,41 +101,41 @@ http://61.163.58.154:1321/ms/IPTV.php?id=171
 http://61.163.58.154:1321/ms/IPTV.php?id=172
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", myTV SUPER 直播足球3台
 http://61.163.58.154:1321/ms/IPTV.php?id=173
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",年代MUCHHD
 http://61.163.58.154:1321/ms/IPTV.php?id=174
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",nowsport1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSports1
 http://61.163.58.154:1321/ms/IPTV.php?id=175
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",nowsport2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSports2
 http://61.163.58.154:1321/ms/IPTV.php?id=176
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSports3
 http://61.163.58.154:1321/ms/IPTV.php?id=177
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSports4
 http://61.163.58.154:1321/ms/IPTV.php?id=178
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSports5
 http://61.163.58.154:1321/ms/IPTV.php?id=179
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSports6
 http://61.163.58.154:1321/ms/IPTV.php?id=180
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSports7
 http://61.163.58.154:1321/ms/IPTV.php?id=181
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSports英超1台
 http://61.163.58.154:1321/ms/IPTV.php?id=182
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSports
 http://61.163.58.154:1321/ms/IPTV.php?id=183
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSports
 http://61.163.58.154:1321/ms/IPTV.php?id=184
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSports
 http://61.163.58.154:1321/ms/IPTV.php?id=185
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
 http://61.163.58.154:1321/ms/IPTV.php?id=186
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
 http://61.163.58.154:1321/ms/IPTV.php?id=187
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="beINSports1" tvg-name="beINSports1" tvg-logo="https://content.stream-link.org/images/bein_sports1.png",beIN SPORTS1
 http://61.163.58.154:1321/ms/IPTV.php?id=188
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="beINSports2" tvg-name="beINSports2" tvg-logo="https://content.stream-link.org/images/bein_sports2.png",beIN SPORTS2
 http://61.163.58.154:1321/ms/IPTV.php?id=189
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="beINSports3" tvg-name="beINSports3" tvg-logo="https://content.stream-link.org/images/bein_sports3.png",beIN SPORTS3
 http://61.163.58.154:1321/ms/IPTV.php?id=190
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="200" tvg-name="粵語片台" tvg-logo="https://live.hkdvb.com/static/logos/804.png",粤语片台
 http://61.163.58.154:1321/ms/IPTV.php?id=191
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
 http://61.163.58.154:1321/ms/IPTV.php?id=192
