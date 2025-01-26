@@ -159,31 +159,31 @@ http://61.163.58.154:1321/ms/IPTV.php?id=200
 http://61.163.58.154:1321/ms/IPTV.php?id=201
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
 http://61.163.58.154:1321/ms/IPTV.php?id=202
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
-http://61.163.58.154:1321/ms/IPTV.php?id=203
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",美亚电影台
-http://61.163.58.154:1321/ms/IPTV.php?id=204
+http://61.163.58.154:1321/ms/IPTV.php?id=203
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Asia action（粤语）
-http://61.163.58.154:1321/ms/IPTV.php?id=205
+http://61.163.58.154:1321/ms/IPTV.php?id=204
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Asia action（国语）
-http://61.163.58.154:1321/ms/IPTV.php?id=206
+http://61.163.58.154:1321/ms/IPTV.php?id=205
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",天映经典频道
+http://61.163.58.154:1321/ms/IPTV.php?id=206
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",天映频道
 http://61.163.58.154:1321/ms/IPTV.php?id=207
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",天映频道
 http://61.163.58.154:1321/ms/IPTV.php?id=208
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",天映频道
-http://61.163.58.154:1321/ms/IPTV.php?id=209
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",千禧经典台
-http://61.163.58.154:1321/ms/IPTV.php?id=210
+http://61.163.58.154:1321/ms/IPTV.php?id=209
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",HUB都会
+http://61.163.58.154:1321/ms/IPTV.php?id=210
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
 http://61.163.58.154:1321/ms/IPTV.php?id=211
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Astro 欢喜台
 http://61.163.58.154:1321/ms/IPTV.php?id=212
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",欢喜台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Astro AOD
 http://61.163.58.154:1321/ms/IPTV.php?id=213
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
-http://61.163.58.154:1321/ms/IPTV.php?id=214
 #EXTINF:-1 tvg-id="AstroQuanJiaHD" tvg-name="Astro QuanJia" tvg-logo="https://content.stream-link.org/images/Astro_QJ.png",Astro QuanJia
+http://61.163.58.154:1321/ms/IPTV.php?id=214
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Astro AEC
 http://61.163.58.154:1321/ms/IPTV.php?id=215
 #EXTINF:-1 tvg-id="TVBUSE" tvg-name="翡翠娛樂台" tvg-logo="https://content.stream-link.org/images/tvbus_e.png",翡翠娛樂台
 http://61.163.58.154:1321/ms/IPTV.php?id=216
