@@ -1,7 +1,7 @@
 #EXTM3U
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",123
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",123
 http://61.163.58.154:1321/ms/IPTV.php?id=123
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
 http://61.163.58.154:1321/ms/IPTV.php?id=124
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
 http://61.163.58.154:1321/ms/IPTV.php?id=125
