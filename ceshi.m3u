@@ -19,13 +19,13 @@ http://61.163.58.154:1321/ms/IPTV.php?id=130
 http://61.163.58.154:1321/ms/IPTV.php?id=131
 #EXTINF:-1 tvg-id="nowBusinessNewsChannel" tvg-name="Now Business News" tvg-logo="https://content.stream-link.org/images/now_333.png",now財經台
 http://61.163.58.154:1321/ms/IPTV.php?id=132
-#EXTINF:-1 tvg-id="nowBaoguSuperstars" tvg-name="now爆谷星影台" tvg-logo="https://content.stream-link.org/images/now_138.png",now爆谷星影台
+#EXTINF:-1 tvg-id="nowBaoguSuperstars" tvg-name="now爆谷星影台" tvg-logo="https://content.stream-link.org/images/now_138.png",now爆谷星影台(粵語)
 http://61.163.58.154:1321/ms/IPTV.php?id=133
-#EXTINF:-1 tvg-id="nowBaoguSuperstars" tvg-name="now爆谷星影台" tvg-logo="https://content.stream-link.org/images/now_138.png",now爆谷星影台
+#EXTINF:-1 tvg-id="nowBaoguSuperstars" tvg-name="now爆谷星影台" tvg-logo="https://content.stream-link.org/images/now_138.png",now爆谷星影台(國語)
 http://61.163.58.154:1321/ms/IPTV.php?id=134
-#EXTINF:-1 tvg-id="nowBaoguMovies" tvg-name="now爆谷電影台" tvg-logo="https://content.stream-link.org/images/now_133.png",now爆谷電影台
+#EXTINF:-1 tvg-id="nowBaoguMovies" tvg-name="now爆谷電影台" tvg-logo="https://content.stream-link.org/images/now_133.png",now爆谷電影台(粵語)
 http://61.163.58.154:1321/ms/IPTV.php?id=135
-#EXTINF:-1 tvg-id="nowBaoguMovies" tvg-name="now爆谷電影台" tvg-logo="https://content.stream-link.org/images/now_133.png",now爆谷電影台
+#EXTINF:-1 tvg-id="nowBaoguMovies" tvg-name="now爆谷電影台" tvg-logo="https://content.stream-link.org/images/now_133.png",now爆谷電影台(國語)
 http://61.163.58.154:1321/ms/IPTV.php?id=136
 #EXTINF:-1 tvg-id="nowChineseDramaChannel" tvg-name="now華劇台" tvg-logo="https://content.stream-link.org/images/now_105.png",now華劇台
 http://61.163.58.154:1321/ms/IPTV.php?id=137
@@ -157,13 +157,13 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
 http://61.163.58.154:1321/ms/IPTV.php?id=200
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",中国电影频道
 http://61.163.58.154:1321/ms/IPTV.php?id=201
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",美亚电影台（粤语）
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",美亚电影台(粵語)
 http://61.163.58.154:1321/ms/IPTV.php?id=202
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",美亚电影台（国语）
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",美亚电影台(國語)
 http://61.163.58.154:1321/ms/IPTV.php?id=203
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Asia action（粤语）
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Asia action(粵語)
 http://61.163.58.154:1321/ms/IPTV.php?id=204
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Asia action（国语）
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Asia action(國語)
 http://61.163.58.154:1321/ms/IPTV.php?id=205
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",天映经典频道
 http://61.163.58.154:1321/ms/IPTV.php?id=206
