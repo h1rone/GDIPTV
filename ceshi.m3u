@@ -167,9 +167,9 @@ http://61.163.58.154:1321/ms/IPTV.php?id=204
 http://61.163.58.154:1321/ms/IPTV.php?id=205
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",天映经典频道
 http://61.163.58.154:1321/ms/IPTV.php?id=206
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",天映频道
+#EXTINF:-1 tvg-id="CelestialMovies.my" tvg-name="Astro天映頻道(粵語)" tvg-logo="https://content.2025link.site/images/astro_celestial_movies.png",Astro天映頻道(粵語)
 http://61.163.58.154:1321/ms/IPTV.php?id=207
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",天映频道
+#EXTINF:-1 tvg-id="CelestialMovies.my" tvg-name="Astro天映頻道(國語)" tvg-logo="https://content.2025link.site/images/astro_celestial_movies.png",Astro天映頻道(國語)
 http://61.163.58.154:1321/ms/IPTV.php?id=208
 #EXTINF:-1 tvg-id="TVBClassic" tvg-name="TVB千禧經典台" tvg-logo="https://content.stream-link.org/images/tvb_classic.png",TVB千禧經典台
 http://61.163.58.154:1321/ms/IPTV.php?id=209
@@ -213,7 +213,7 @@ http://61.163.58.154:1321/ms/IPTV.php?id=227
 http://61.163.58.154:1321/ms/IPTV.php?id=228
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
 http://61.163.58.154:1321/ms/IPTV.php?id=229
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",赛马
+#EXTINF:-1 tvg-id="TVBUSJ1" tvg-name="翡翠綜合台J1(北美)" tvg-logo="https://content.2025link.site/images/tvbus_j1.png",翡翠綜合台J1(北美)
 http://61.163.58.154:1321/ms/IPTV.php?id=230
-#EXTINF:-1 tvg-id="TVBUSPearlDrama" tvg-name="明珠劇集台" tvg-logo="https://content.stream-link.org/images/tvbus_pearl_drama.png",明珠劇集台(北美)
+#EXTINF:-1 tvg-id="TVBUSPearlDrama" tvg-name="明珠劇集台(北美)" tvg-logo="https://content.stream-link.org/images/tvbus_pearl_drama.png",明珠劇集台(北美)
 http://61.163.58.154:1321/ms/IPTV.php?id=231
