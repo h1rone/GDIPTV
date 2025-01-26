@@ -175,7 +175,7 @@ http://61.163.58.154:1321/ms/IPTV.php?id=208
 http://61.163.58.154:1321/ms/IPTV.php?id=209
 #EXTINF:-1 tvg-id="HubECity.sg" tvg-name="Hub都會" tvg-logo="https://content.stream-link.org/images/hub_e_city.png",Hub都會
 http://61.163.58.154:1321/ms/IPTV.php?id=210
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",HUB娱家
+#EXTINF:-1 tvg-id="HubVVDrama.sg" tvg-name="Hub娛家" tvg-logo="https://content.2025link.site/images/hub_vv_drama.png",Hub娛家
 http://61.163.58.154:1321/ms/IPTV.php?id=211
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Astro 欢喜台
 http://61.163.58.154:1321/ms/IPTV.php?id=212
@@ -195,7 +195,7 @@ http://61.163.58.154:1321/ms/IPTV.php?id=218
 http://61.163.58.154:1321/ms/IPTV.php?id=219
 #EXTINF:-1 tvg-id="I-J-CAW" tvg-name="翡翠台.美加西岸" tvg-logo="https://content.stream-link.org/images/tvb_jade_caw.png",翡翠台.美加西岸(tvbanywhere)
 http://61.163.58.154:1321/ms/IPTV.php?id=220
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="I-J-AUS" tvg-name="翡翠台.澳新時區" tvg-logo="https://content.2025link.site/images/tvb_jade_aus.png",翡翠台.澳新時區(tvbanywhere)
 http://61.163.58.154:1321/ms/IPTV.php?id=221
 #EXTINF:-1 tvg-id="I-J-UK" tvg-name="翡翠台.英國時區" tvg-logo="https://content.stream-link.org/images/tvb_jade_uk.png",翡翠台.英國(tvbanywhere)
 http://61.163.58.154:1321/ms/IPTV.php?id=222
