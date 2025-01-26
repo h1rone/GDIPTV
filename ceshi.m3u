@@ -119,15 +119,15 @@ http://61.163.58.154:1321/ms/IPTV.php?id=180
 http://61.163.58.154:1321/ms/IPTV.php?id=181
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSports英超1台
 http://61.163.58.154:1321/ms/IPTV.php?id=182
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSports英超2台
 http://61.163.58.154:1321/ms/IPTV.php?id=183
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSports英超3台
 http://61.163.58.154:1321/ms/IPTV.php?id=184
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSports英超4台
 http://61.163.58.154:1321/ms/IPTV.php?id=185
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSports英超5台
 http://61.163.58.154:1321/ms/IPTV.php?id=186
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSports英超6台
 http://61.163.58.154:1321/ms/IPTV.php?id=187
 #EXTINF:-1 tvg-id="beINSports1" tvg-name="beINSports1" tvg-logo="https://content.stream-link.org/images/bein_sports1.png",beIN SPORTS1
 http://61.163.58.154:1321/ms/IPTV.php?id=188
