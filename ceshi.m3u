@@ -217,3 +217,9 @@ http://61.163.58.154:1321/ms/IPTV.php?id=229
 http://61.163.58.154:1321/ms/IPTV.php?id=230
 #EXTINF:-1 tvg-id="TVBUSPearlDrama" tvg-name="明珠劇集台(北美)" tvg-logo="https://content.stream-link.org/images/tvbus_pearl_drama.png",明珠劇集台(北美)
 http://61.163.58.154:1321/ms/IPTV.php?id=231
+#EXTINF:-1 tvg-id="EntertainmentNews" tvg-name="TVB娛樂新聞台" tvg-logo="https://content.stream-link.org/images/tvb_entertainment.png",TVB娛樂新聞台
+http://61.163.58.154:1321/ms/IPTV.php?id=233
+
+
+
+
