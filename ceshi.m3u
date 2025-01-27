@@ -153,9 +153,9 @@ http://61.163.58.154:1321/ms/IPTV.php?id=197
 http://61.163.58.154:1321/ms/IPTV.php?id=198
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",popc
 http://61.163.58.154:1321/ms/IPTV.php?id=199
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",中国电影频道
 http://61.163.58.154:1321/ms/IPTV.php?id=200
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",中国电影频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",lstimes
 http://61.163.58.154:1321/ms/IPTV.php?id=201
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",美亚电影台(粵語)
 http://61.163.58.154:1321/ms/IPTV.php?id=202
