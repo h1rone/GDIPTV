@@ -139,21 +139,21 @@ http://61.163.58.154:1321/ms/IPTV.php?id=196
 http://61.163.58.154:1321/ms/IPTV.php?id=197
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",黄金华剧
 http://61.163.58.154:1321/ms/IPTV.php?id=198
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",popc
+#EXTINF:-1 tvg-id="POPC" tvg-name="POPC" tvg-logo="https://content.stream-link.org/images/tvb_206.png",PopC
 http://61.163.58.154:1321/ms/IPTV.php?id=199
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",中国电影频道
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中国电影频道.png",中国电影频道
 http://61.163.58.154:1321/ms/IPTV.php?id=200
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",lstimes
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/lstime.png",龍祥時代
 http://61.163.58.154:1321/ms/IPTV.php?id=201
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",美亚电影台(粵語)
+#EXTINF:-1 tvg-id="MeiAhMovieChannel" tvg-name="美亞電影台(粵語)" tvg-logo="https://content.2025link.site/images/tvb_201.png",美亚电影台(粵語)
 http://61.163.58.154:1321/ms/IPTV.php?id=202
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",美亚电影台(國語)
+#EXTINF:-1 tvg-id="MeiAhMovieChannel" tvg-name="美亞電影台(國語)" tvg-logo="https://content.2025link.site/images/tvb_201.png",美亚电影台(國語)
 http://61.163.58.154:1321/ms/IPTV.php?id=203
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Asia action(粵語)
+#EXTINF:-1 tvg-id="I-AACT" tvg-name="功夫台" tvg-logo="https://content.2025link.site/images/kongfu.png",功夫台(粵語)
 http://61.163.58.154:1321/ms/IPTV.php?id=204
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Asia action(國語)
+#EXTINF:-1 tvg-id="I-AACT" tvg-name="功夫台" tvg-logo="https://content.2025link.site/images/kongfu.png",功夫台(國語)
 http://61.163.58.154:1321/ms/IPTV.php?id=205
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",天映经典频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/天映经典频道.png",天映经典频道
 http://61.163.58.154:1321/ms/IPTV.php?id=206
 #EXTINF:-1 tvg-id="CelestialMovies.my" tvg-name="Astro天映頻道(粵語)" tvg-logo="https://content.2025link.site/images/astro_celestial_movies.png",Astro天映頻道(粵語)
 http://61.163.58.154:1321/ms/IPTV.php?id=207
@@ -175,7 +175,7 @@ http://61.163.58.154:1321/ms/IPTV.php?id=214
 http://61.163.58.154:1321/ms/IPTV.php?id=215
 #EXTINF:-1 tvg-id="TVBUSE" tvg-name="翡翠娛樂台" tvg-logo="https://content.stream-link.org/images/tvbus_e.png",翡翠娛樂台
 http://61.163.58.154:1321/ms/IPTV.php?id=216
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",星空
+#EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png",星空卫视
 http://61.163.58.154:1321/ms/IPTV.php?id=217
 #EXTINF:-1 tvg-id="I-J-CAE" tvg-name="翡翠台.美加東岸" tvg-logo="https://content.stream-link.org/images/tvb_jade_cae.png",翡翠台.美加東岸(tvbanywhere)
 http://61.163.58.154:1321/ms/IPTV.php?id=219
@@ -197,8 +197,6 @@ http://61.163.58.154:1321/ms/IPTV.php?id=226
 http://61.163.58.154:1321/ms/IPTV.php?id=227
 #EXTINF:-1 tvg-id="TVBXingHe.my" tvg-name="TVB星河台(粵語)" tvg-logo="https://content.stream-link.org/images/tvb_xing_he.png",TVB星河台(粵語)
 http://61.163.58.154:1321/ms/IPTV.php?id=228
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
-http://61.163.58.154:1321/ms/IPTV.php?id=229
 #EXTINF:-1 tvg-id="TVBUSJ1" tvg-name="翡翠綜合台J1(北美)" tvg-logo="https://content.2025link.site/images/tvbus_j1.png",翡翠綜合台J1(北美)
 http://61.163.58.154:1321/ms/IPTV.php?id=230
 #EXTINF:-1 tvg-id="TVBUSPearlDrama" tvg-name="明珠劇集台(北美)" tvg-logo="https://content.stream-link.org/images/tvbus_pearl_drama.png",明珠劇集台(北美)
@@ -206,11 +204,11 @@ http://61.163.58.154:1321/ms/IPTV.php?id=231
 #EXTINF:-1 tvg-id="EntertainmentNews" tvg-name="TVB娛樂新聞台" tvg-logo="https://content.stream-link.org/images/tvb_entertainment.png",TVB娛樂新聞台
 http://61.163.58.154:1321/ms/IPTV.php?id=233
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",广东珠江
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png",广东珠江
 http://61.163.58.154:1321/ms/IPTV.php?id=72
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",广东体育
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png",广东体育
 http://61.163.58.154:1321/ms/IPTV.php?id=234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",广东新闻
+#EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png",广东新闻
 http://61.163.58.154:1321/ms/IPTV.php?id=235
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",民视
