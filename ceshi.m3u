@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml" 
 #EXTINF:-1 tvg-id="PhoenixChineseChannel" tvg-name="鳳凰衛視中文台" tvg-logo="https://content.stream-link.org/images/phtv_live.png",鳳凰衛視中文台
 http://61.163.58.154:1321/ms/IPTV.php?id=123
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel" tvg-name="鳳凰衛視資訊台" tvg-logo="https://content.stream-link.org/images/phtv_info.png",鳳凰衛視資訊台
@@ -35,12 +35,8 @@ http://61.163.58.154:1321/ms/IPTV.php?id=138
 http://61.163.58.154:1321/ms/IPTV.php?id=139
 #EXTINF:-1 tvg-id="nowSportsPrime" tvg-name="Now Sports Prime" tvg-logo="https://content.stream-link.org/images/now_630.png",now精選體育
 http://61.163.58.154:1321/ms/IPTV.php?id=140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSports
-http://61.163.58.154:1321/ms/IPTV.php?id=141
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWSportsPlus
 http://61.163.58.154:1321/ms/IPTV.php?id=142
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",NOWNBA
-http://61.163.58.154:1321/ms/IPTV.php?id=143
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",HOY76
 http://61.163.58.154:1321/ms/IPTV.php?id=144
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",HOY77
@@ -55,12 +51,6 @@ http://61.163.58.154:1321/ms/IPTV.php?id=148
 http://61.163.58.154:1321/ms/IPTV.php?id=149
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",RTHK32
 http://61.163.58.154:1321/ms/IPTV.php?id=150
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",新时代1
-http://61.163.58.154:1321/ms/IPTV.php?id=151
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",新时代2
-http://61.163.58.154:1321/ms/IPTV.php?id=152
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",城市电视
-http://61.163.58.154:1321/ms/IPTV.php?id=153
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",中旺电视
 http://61.163.58.154:1321/ms/IPTV.php?id=154
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",FASHION
@@ -87,8 +77,6 @@ http://61.163.58.154:1321/ms/IPTV.php?id=164
 http://61.163.58.154:1321/ms/IPTV.php?id=165
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",nickjr.
 http://61.163.58.154:1321/ms/IPTV.php?id=166
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
-http://61.163.58.154:1321/ms/IPTV.php?id=167
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",super free
 http://61.163.58.154:1321/ms/IPTV.php?id=168
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", myTV SUPER 直播足球2台
@@ -189,8 +177,6 @@ http://61.163.58.154:1321/ms/IPTV.php?id=215
 http://61.163.58.154:1321/ms/IPTV.php?id=216
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",星空
 http://61.163.58.154:1321/ms/IPTV.php?id=217
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无
-http://61.163.58.154:1321/ms/IPTV.php?id=218
 #EXTINF:-1 tvg-id="I-J-CAE" tvg-name="翡翠台.美加東岸" tvg-logo="https://content.stream-link.org/images/tvb_jade_cae.png",翡翠台.美加東岸(tvbanywhere)
 http://61.163.58.154:1321/ms/IPTV.php?id=219
 #EXTINF:-1 tvg-id="I-J-CAW" tvg-name="翡翠台.美加西岸" tvg-logo="https://content.stream-link.org/images/tvb_jade_caw.png",翡翠台.美加西岸(tvbanywhere)
@@ -203,7 +189,7 @@ http://61.163.58.154:1321/ms/IPTV.php?id=222
 http://61.163.58.154:1321/ms/IPTV.php?id=223
 #EXTINF:-1 tvg-id="TVBNews" tvg-name="無綫新聞台" tvg-logo="https://content.stream-link.org/images/tvb_news.png",無綫新聞台
 http://61.163.58.154:1321/ms/IPTV.php?id=224
-#EXTINF:-1 tvg-id="TVBPearl" tvg-name="明珠台" tvg-logo="https://content.stream-link.org/images/tvb_pearl.png",明珠台 anywhere
+#EXTINF:-1 tvg-id="TVBPearl" tvg-name="明珠台" tvg-logo="https://content.stream-link.org/images/tvb_pearl.png",明珠台
 http://61.163.58.154:1321/ms/IPTV.php?id=225
 #EXTINF:-1 tvg-id="I-STYLE" tvg-name="TVB生活台" tvg-logo="https://content.stream-link.org/images/tvbanywhere_style.png",TVB生活台
 http://61.163.58.154:1321/ms/IPTV.php?id=226
