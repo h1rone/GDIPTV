@@ -262,7 +262,7 @@ http://192.168.2.1:7088/udp/239.77.0.164:5146
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="IPTV-数字付费",CETV-1
 http://192.168.2.1:7088/udp/239.77.1.222:5146
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="IPTV-数字付费",CETV-4
-http://192.168.2.1:7088/udp/239.77.1.200:5146
+http://192.168.2.1:7088/udp/239.77.1.114:5146
 #EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="IPTV-数字付费",早期教育
 http://192.168.2.1:7088/udp/239.77.0.180:5146
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="IPTV-数字付费",中国交通
