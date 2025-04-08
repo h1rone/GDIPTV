@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml" 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=",96
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=",ViuTVsix
 http://a.ru8.dpdns.org/now/096/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=",99
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=",ViuTV
 http://a.ru8.dpdns.org/now/099/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=",105
 http://a.ru8.dpdns.org/now/105/master.m3u8
