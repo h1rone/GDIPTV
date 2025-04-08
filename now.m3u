@@ -1,0 +1,17 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml" 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=",96
+http://a.ru8.dpdns.org/now/096/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=",99
+http://a.ru8.dpdns.org/now/099/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=",105
+http://a.ru8.dpdns.org/now/105/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=",200
+http://a.ru8.dpdns.org/now/200/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=",331
+http://a.ru8.dpdns.org/now/331/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=",332
+http://a.ru8.dpdns.org/now/332/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=",333
+http://a.ru8.dpdns.org/now/333/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=",630
+http://a.ru8.dpdns.org/now/630/master.m3u8
