@@ -7,7 +7,7 @@ http://a.ru8.dpdns.org/now/099/master.m3u8
 http://a.ru8.dpdns.org/now/105/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch200_170_122",熊貓TV
 http://a.ru8.dpdns.org/now/200/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch331_170_122",331
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch331_170_122",Now直播台
 http://a.ru8.dpdns.org/now/331/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_170_122",332
 http://a.ru8.dpdns.org/now/332/master.m3u8
