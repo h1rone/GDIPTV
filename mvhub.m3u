@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://media-1-mvhub.imgix.net/channel/28_2B61arT3zcGqlCFU4I5SQXvENgVihLZ8.png",Asian Action
 https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://media-1-mvhub.imgix.net/channel/28_2B61arT3zcGqlCFU4I5SQXvENgVihLZ8.png",翡翠台
+http://qjrhc.jydjd.top:2911/udp/224.1.100.121:11111
 #EXTINF:-1 tvg-logo="https://media-1-mvhub.imgix.net/channel/29_3bNHBsOMtP2S6AdR1mk9cfGy0oJiF5WE.png",Entertainment News
 https://lb-mvtv-live.v2h-cdn.com/redirect/enew/enew.stream?type=m3u8
 #EXTINF:-1 tvg-logo="https://media-1-mvhub.imgix.net/channel/30_G8iEVCPUknH4Xb21TBmju3waZoLecIFK.png",TVB Finance
