@@ -45,10 +45,6 @@ https://lb-mvtv-live.v2h-cdn.com/redirect/mix_major/mix_major.stream?type=m3u8
 https://lb-mvtv-live.v2h-cdn.com/redirect/mvlao/mvlao.stream?type=m3u8
 #EXTINF:-1 tvg-logo="https://media-1-mvhub.imgix.net/channel/70_2LZhfO0vtMWucA3aE7iCxRBPYHzjKlUF.png",V2H2
 https://lb-mvtv-live.v2h-cdn.com/redirect/v2h2/v2h2.stream?type=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_170_122",Now新聞台
-http://mytv.cdn.com.mp/live/now/stream.m3u8
-#EXTINF:-1 tvg-logo="https://media-1-mvhub.imgix.net/channel/31_abtcfyZ2AJsuPX0MLhlC56D9gIK3TzRr.png,广东翡翠台
 http://qjrhc.jydjd.top:2911/udp/224.1.100.121:11111
 
 
