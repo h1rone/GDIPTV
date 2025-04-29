@@ -5,6 +5,16 @@ http://mytv.cdn.com.mp/live/now/stream.m3u8
 http://mytv.cdn.com.mp/live/hoy/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",ViuTV
 http://mytv.cdn.com.mp/live/viu/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",翡翠台4K
+http://mytv.cdn.com.mp/live/fct4k/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",TVB PLUS
+http://mytv.cdn.com.mp/live/tvbp/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",澳视澳门
+http://mytv.cdn.com.mp/live/asam/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",澳视卫星
+http://mytv.cdn.com.mp/live/as/stream.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Discovery
 http://mytv.cdn.com.mp/live/d/stream.m3u8
