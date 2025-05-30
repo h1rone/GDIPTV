@@ -15,37 +15,3 @@ http://a.ru8.dpdns.org/now/332/master.m3u8
 http://a.ru8.dpdns.org/now/333/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_170_122",Now Sports 精選
 http://a.ru8.dpdns.org/now/630/master.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",鳳凰衛視中文台
-http://jxiptv.dpdns.org/stream/tvb/null/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",鳳凰衛視資訊台
-http://jxiptv.dpdns.org/stream/tvb/null-1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",鳳凰衛視香港台
-http://jxiptv.dpdns.org/stream/tvb/null-2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",翡翠台
-http://jxiptv.dpdns.org/stream/tvb/null-3/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",明珠台
-http://jxiptv.dpdns.org/stream/tvb/null-4/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",無線新聞台
-http://jxiptv.dpdns.org/stream/tvb/null-5/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",娛樂新聞台
-http://jxiptv.dpdns.org/stream/tvb/null-6/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",黃金翡翠台
-http://jxiptv.dpdns.org/stream/tvb/null-7/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",美亞電影台
-http://jxiptv.dpdns.org/stream/tvb/null-8/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",PopC
-http://jxiptv.dpdns.org/stream/tvb/popc/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",TVB Plus
-http://jxiptv.dpdns.org/stream/tvb/tvbplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",ROCK Action
-http://jxiptv.dpdns.org/stream/tvb/rockaction/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Love Nature
-http://jxiptv.dpdns.org/stream/tvb/lovenature/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",myTV SUPER FREE
-http://jxiptv.dpdns.org/stream/tvb/mytvsuperfree/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",SUPER Kids Channel
-http://jxiptv.dpdns.org/stream/tvb/superkidschannel/master.m3u8
