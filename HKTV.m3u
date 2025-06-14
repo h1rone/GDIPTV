@@ -1,131 +1,112 @@
 #EXTM3U
-#EXTINF:-1 group-title="MyTV测试,#genre#" ,翡翠台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=KjAOOI&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="MyTV测试,#genre#" ,明珠台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2PbgsN&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="MyTV测试,#genre#" ,無綫新聞台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8nFudc&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="MyTV测试,#genre#" ,娛樂新聞台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=OMDwWm&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="MyTV测试,#genre#" ,myTV SUPER 18台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RHTgsl&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="MyTV测试,#genre#" ,PopC
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=OlvBIb&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="MyTV测试,#genre#" ,中國電影頻道
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=R3KcxS&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="MyTV测试,#genre#" ,亞洲劇台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wz0Xn4&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="MyTV测试,#genre#" ,功夫台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kLvo0O&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="MyTV测试,#genre#" ,千禧經典台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WWGN0W&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="MyTV测试,#genre#" ,天映经典
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rXs0xw&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="MyTV测试,#genre#" ,戲曲台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CTmPpI&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="MyTV测试,#genre#" ,星河频道
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=uAvQtL&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="MyTV测试,#genre#" ,粵語片台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=AfweoN&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="MyTV测试,#genre#" ,美亞電影台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=h9byVd&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="MyTV测试,#genre#" ,華語劇台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0uCbYc&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="MyTV测试,#genre#" ,黄金翡翠台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=G9mHvh&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="MyTV测试,#genre#" ,黄金华剧台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UDfA1R&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,凤凰中文台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Ir8vvy&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,凤凰资讯台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZAHIzM&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,凤凰香港台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yAVbFJ&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,翡翠台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Jd70bO&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,无线新闻台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1r31bY&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,TVB Plus
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lTzkuR&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,TVB生活台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=IULkpx&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,TVB星河(国)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1657QZ&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,TVB功夫(国)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zBI53y&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,PopC电影
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vuz1bt&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,天映经典(港)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Y1o9FI&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,星空卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9YKZeu&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,星空电影
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zKxr0E&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,凤凰电影
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rRQ7hD&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,Now新闻台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=l8mBrr&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,Now爆谷台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oyhNpX&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,Now星影台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=TIGsnG&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,HOY77
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=dPP1c4&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,HOY78
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=nQR1Yd&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,中天亚洲
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kobly4&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,中天综合
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5Ny1xR&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,中天娱乐
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iEcJYD&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,中天亚洲(备)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SJOjru&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,民视第一
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=P1El40&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,民视台湾
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fLnFkg&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,美亚电影
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Oh5T57&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,东森超视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jQXGIg&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,东森综合
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RVVbbP&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,八大第一
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oZDTeh&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,八大综合
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fJUO30&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,爱尔达娱乐
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zfWRVZ&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,Channel5HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HHzR2b&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,Channel8HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tLOmVF&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,ChannelUHD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Q4tvIc&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,八度空間
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1dSnSq&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,天映頻道HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1oweC3&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,天映經典HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LmDgaS&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,寰宇新闻台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=QNmViC&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,中天新闻台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7dD94h&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,中天新闻2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=v9M15K&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,中天新闻2(备)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=nQUSfx&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,中视新闻台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9p9wUB&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,TVBS HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JYX8wj&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,台视新闻
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Iv9ZzU&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,动物星球
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=nyavFW&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,astro Boo
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8khHvb&tk=Rxa4XG2JITwz
-#EXTINF:-1 group-title="极速港台,#genre#" ,爱奇艺
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=q2vnNL&tk=Rxa4XG2JITwz
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文台.png",凤凰中文台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZHiWJk&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯台.png",凤凰资讯台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Yut166&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="凤凰香港台" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港台.png",凤凰香港台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oebyCu&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",翡翠台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FJX5af&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png",无线新闻台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3OQYDQ&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.cn/tv/TVB Plus.png",TVB Plus
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=sPy2jx&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="TVB生活台" tvg-logo="https://live.fanmingming.cn/tv/TVB生活台.png",TVB生活台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=me7kJW&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="TVB星河(国)" tvg-logo="https://live.fanmingming.cn/tv/TVB星河(国).png",TVB星河(国)
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BNlfN5&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="TVB功夫(国)" tvg-logo="https://live.fanmingming.cn/tv/TVB功夫(国).png",TVB功夫(国)
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zoshmz&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="TVB功夫(粤)" tvg-logo="https://live.fanmingming.cn/tv/TVB功夫(粤).png",TVB功夫(粤)
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gqBNaN&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="PopC电影" tvg-logo="https://live.fanmingming.cn/tv/PopC电影.png",PopC电影
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5EYWtw&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://live.fanmingming.cn/tv/天映频道.png",天映频道
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3lU6jd&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://live.fanmingming.cn/tv/天映经典.png",天映经典
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zPw6yL&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="mySUPER獎門人" tvg-logo="https://live.fanmingming.cn/tv/mySUPER獎門人.png",mySUPER獎門人
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XdyOUe&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="Hub娱家" tvg-logo="https://live.fanmingming.cn/tv/Hub娱家.png",Hub娱家
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ff1X2l&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="Hub都会" tvg-logo="https://live.fanmingming.cn/tv/Hub都会.png",Hub都会
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=p4mGVc&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="港版美亚(国)" tvg-logo="https://live.fanmingming.cn/tv/港版美亚(国).png",港版美亚(国)
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ns2pAs&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="港版美亚(粤)" tvg-logo="https://live.fanmingming.cn/tv/港版美亚(粤).png",港版美亚(粤)
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=G7IeL6&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="黄金华剧" tvg-logo="https://live.fanmingming.cn/tv/黄金华剧.png",黄金华剧
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=IfgPC0&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="黄金翡翠" tvg-logo="https://live.fanmingming.cn/tv/黄金翡翠.png",黄金翡翠
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=D93QX9&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png",星空卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=OdKsii&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="星空V音乐" tvg-logo="https://live.fanmingming.cn/tv/星空V音乐.png",星空V音乐
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=N6D8S5&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="星空电影" tvg-logo="https://live.fanmingming.cn/tv/星空电影.png",星空电影
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LvbkP5&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://live.fanmingming.cn/tv/凤凰电影.png",凤凰电影
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1yZ7e5&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="Now新闻台" tvg-logo="https://live.fanmingming.cn/tv/Now新闻台.png",Now新闻台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4eOPqy&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://live.fanmingming.cn/tv/Now爆谷台.png",Now爆谷台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=S5HBIL&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://live.fanmingming.cn/tv/Now星影台.png",Now星影台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SHi2dS&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="HOY77" tvg-logo="https://live.fanmingming.cn/tv/HOY77.png",HOY77
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tlgxcj&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="HOY78" tvg-logo="https://live.fanmingming.cn/tv/HOY78.png",HOY78
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1dS8Ae&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://live.fanmingming.cn/tv/中天亚洲.png",中天亚洲
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8blGBI&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="中天综合" tvg-logo="https://live.fanmingming.cn/tv/中天综合.png",中天综合
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UuPnLJ&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://live.fanmingming.cn/tv/中天娱乐.png",中天娱乐
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=V7IM3c&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="中天亚洲(备)" tvg-logo="https://live.fanmingming.cn/tv/中天亚洲(备).png",中天亚洲(备)
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WLrIv0&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="民视第一" tvg-logo="https://live.fanmingming.cn/tv/民视第一.png",民视第一
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LA9jcy&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="民视台湾" tvg-logo="https://live.fanmingming.cn/tv/民视台湾.png",民视台湾
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Jgtnxh&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://live.fanmingming.cn/tv/美亚电影.png",美亚电影
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zgzuRG&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.cn/tv/东森超视.png",东森超视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CQQgJD&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="东森综合" tvg-logo="https://live.fanmingming.cn/tv/东森综合.png",东森综合
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PoeuoU&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="八大第一" tvg-logo="https://live.fanmingming.cn/tv/八大第一.png",八大第一
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CtQ1Xo&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="八大综合" tvg-logo="https://live.fanmingming.cn/tv/八大综合.png",八大综合
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CFgCwx&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="爱尔达娱乐" tvg-logo="https://live.fanmingming.cn/tv/爱尔达娱乐.png",爱尔达娱乐
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vYBCMv&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="Channel5HD" tvg-logo="https://live.fanmingming.cn/tv/Channel5HD.png",Channel5HD
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=GMwYjR&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="Channel8HD" tvg-logo="https://live.fanmingming.cn/tv/Channel8HD.png",Channel8HD
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=QibcI7&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="ChannelUHD" tvg-logo="https://live.fanmingming.cn/tv/ChannelUHD.png",ChannelUHD
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=x42OO1&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="八度空間" tvg-logo="https://live.fanmingming.cn/tv/八度空間.png",八度空間
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=p8O3lP&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="TVBS台剧台" tvg-logo="https://live.fanmingming.cn/tv/TVBS台剧台.png",TVBS台剧台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0yvuEc&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="TVBS综艺台" tvg-logo="https://live.fanmingming.cn/tv/TVBS综艺台.png",TVBS综艺台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5k5WGr&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="猪哥亮歌秀厅" tvg-logo="https://live.fanmingming.cn/tv/猪哥亮歌秀厅.png",猪哥亮歌秀厅
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=aBSiyJ&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://live.fanmingming.cn/tv/寰宇新闻台.png",寰宇新闻台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HcuKpg&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.cn/tv/中天新闻台.png",中天新闻台
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fX107Y&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="中天新闻2" tvg-logo="https://live.fanmingming.cn/tv/中天新闻2.png",中天新闻2
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7C0zGf&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.cn/tv/中视新闻.png",中视新闻
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JZ45SX&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://live.fanmingming.cn/tv/TVBS HD.png",TVBS HD
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=KBedOV&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://live.fanmingming.cn/tv/台视新闻.png",台视新闻
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=C3GbIY&tk=fvpSrP3Lwr8p
+#EXTINF:-1 tvg-name="动物星球" tvg-logo="https://live.fanmingming.cn/tv/动物星球.png",动物星球
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ePqgNq&tk=fvpSrP3Lwr8p
