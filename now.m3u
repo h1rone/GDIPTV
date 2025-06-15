@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml" 
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",翡翠台
+http://ali.hlspull.yximgs.com/live/198c9b22180cb5864e46c669d435e880.flv
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png",无线新闻台
+http://ali.hlspull.yximgs.com/live/cd156be95d97a14bf94a3a7df5d01491.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_170_122",ViuTVsix
 http://a.ru8.dpdns.org/now/096/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch99_170_122",ViuTV
