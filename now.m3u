@@ -1,8 +1,22 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml" 
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",翡翠台
-http://ali.hlspull.yximgs.com/live/198c9b22180cb5864e46c669d435e880.flv
+http://ali.hlspull.yximgs.com/live/06c346edf970b9bdc3de193196cedc2f.flv
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png",无线新闻台
-http://ali.hlspull.yximgs.com/live/cd156be95d97a14bf94a3a7df5d01491.flv
+http://ali.hlspull.yximgs.com/live/224e21608039bff2b347f81594644134.flv
+
+TVB Plus
+https://ali.hlspull.yximgs.com/live/xaigjiaogetvbplus01.flv
+HOY77
+https://ali.hlspull.yximgs.com/live/xiangjiaogehoy77511.flv
+HOY78
+https://ali.hlspull.yximgs.com/live/xaigjiaogehoy7801.flv
+Now新闻台
+https://ali.hlspull.yximgs.com/live/d3f1464bace2f7fe97b36b5b2462b423.flv
+Now爆谷台
+https://ali.hlspull.yximgs.com/live/xiangjiaoge1116163133.flv
+Now星影台
+https://ali.hlspull.yximgs.com/live/xiangjiaogef31fdg31g1gdg.flv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_170_122",ViuTVsix
 http://a.ru8.dpdns.org/now/096/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch99_170_122",ViuTV
