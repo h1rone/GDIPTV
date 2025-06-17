@@ -13,11 +13,11 @@ https://ali.hlspull.yximgs.com/live/xaigjiaogehoy7801.flv
 https://ali.hlspull.yximgs.com/live/a88d72cb43443bc90faf3f0d33756614.flv
 
 #EXTINF:-1 tvg-name="Channel5HD" tvg-logo="https://live.fanmingming.cn/tv/Channel5HD.png",Channel5HD
-https://cdn6.0o0.myfw.us/live/ch5/stream.m3u8
+http://cdn6.101.qzz.io/live/ch5/stream.m3u8
 #EXTINF:-1 tvg-name="Channel8HD" tvg-logo="https://live.fanmingming.cn/tv/Channel8HD.png",Channel8HD
-https://cdn6.0o0.myfw.us/live/ch8/stream.m3u8
+http://cdn6.101.qzz.io/live/ch8/stream.m3u8
 #EXTINF:-1 tvg-name="ChannelUHD" tvg-logo="https://live.fanmingming.cn/tv/ChannelUHD.png",ChannelUHD
-https://cdn6.163189.xyz/live/chu/stream.m3u8
+http://cdn6.101.qzz.io/live/chu/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_170_122",ViuTVsix
 http://a.ru8.dpdns.org/now/096/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch99_170_122",ViuTV
