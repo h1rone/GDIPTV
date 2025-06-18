@@ -1,16 +1,10 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml" 
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",翡翠台
-http://ali.hlspull.yximgs.com/live/213b0b1d500482fbb276e68f77d844de.flv
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png",无线新闻台
-http://ali.hlspull.yximgs.com/live/762a4c574db061bd1aadc2bed6df5351.flv
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.cn/tv/TVBPlus.png",TVB Plus
 https://ali.hlspull.yximgs.com/live/xaigjiaogetvbplus01.flv
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://live.fanmingming.cn/tv/HOY77.png",HOY77
 https://ali.hlspull.yximgs.com/live/xiangjiaogehoy77511.flv
 #EXTINF:-1 tvg-name="HOY78" tvg-logo="https://live.fanmingming.cn/tv/HOY78.png",HOY78
 https://ali.hlspull.yximgs.com/live/xaigjiaogehoy7801.flv
-#EXTINF:-1 tvg-name="Now新闻台" tvg-logo="https://live.fanmingming.cn/tv/Now新闻台.png",Now新闻台
-https://ali.hlspull.yximgs.com/live/a88d72cb43443bc90faf3f0d33756614.flv
 
 #EXTINF:-1 tvg-name="Channel5HD" tvg-logo="https://live.fanmingming.cn/tv/Channel5HD.png",Channel5HD
 http://cdn6.101.qzz.io/live/ch5/stream.m3u8
