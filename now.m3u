@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="TVB" tvg-logo="https://live.fanmingming.cn/tv/TVB.png",谷豆TVB
 http://lfdxn.jydjd.top:2903/udp/224.1.100.122:11111
 #EXTINF:-1 tvg-name="" tvg-logo="",谷豆明珠台
-http://lfdxn.jydjd.top:2903/udp/224.2.100.122:11111
+http://lfdxn.jydjd.top:2903/udp/224.1.100.2:11111
 
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.cn/tv/TVBPlus.png",TVB Plus
 https://ali.hlspull.yximgs.com/live/xaigjiaogetvbplus01.flv
