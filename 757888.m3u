@@ -1,0 +1,29 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="18台" tvg-logo="https://live.fanmingming.cn/tv/18台.png",18台
+http://bx.757888.xyz/api.php?id=18
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.cn/tv/TVB Plus.png",TVB Plus
+http://bx.757888.xyz/api.php?id=tvbp
+#EXTINF:-1 tvg-name="天映經典頻道" tvg-logo="https://live.fanmingming.cn/tv/天映經典頻道.png",天映經典頻道
+http://bx.757888.xyz/api.php?id=tyjd
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.cn/tv/明珠台.png",明珠台
+http://bx.757888.xyz/api.php?id=mz
+#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="https://live.fanmingming.cn/tv/無線新聞台.png",無線新聞台
+http://bx.757888.xyz/api.php?id=wxxw
+#EXTINF:-1 tvg-name="美亞電影台" tvg-logo="https://live.fanmingming.cn/tv/美亞電影台.png",美亞電影台
+http://bx.757888.xyz/api.php?id=meiya
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",翡翠台
+http://bx.757888.xyz/api.php?id=fct
+#EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.cn/tv/鳳凰中文.png",鳳凰中文
+http://bx.757888.xyz/api.php?id=fhzw
+#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://live.fanmingming.cn/tv/鳳凰資訊.png",鳳凰資訊
+http://bx.757888.xyz/api.php?id=fhzx
+#EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://live.fanmingming.cn/tv/鳳凰香港.png",鳳凰香港
+http://bx.757888.xyz/api.php?id=fhhk
+#EXTINF:-1 tvg-name="中國電影頻道" tvg-logo="https://live.fanmingming.cn/tv/中國電影頻道.png",中國電影頻道
+http://bx.757888.xyz/api.php?id=zgdy
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://live.fanmingming.cn/tv/中天新聞台.png",中天新聞台
+http://bx.757888.xyz/api.php?id=ztxw
+#EXTINF:-1 tvg-name="東森電影" tvg-logo="https://live.fanmingming.cn/tv/東森電影.png",東森電影
+http://bx.757888.xyz/api.php?id=dsdy
+#EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://live.fanmingming.cn/tv/龍華電影.png",龍華電影
+http://bx.757888.xyz/api.php?id=lhdy
