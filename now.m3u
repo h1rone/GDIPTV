@@ -4,6 +4,13 @@ http://lfdxn.jydjd.top:2903/udp/224.1.100.122:11111
 #EXTINF:-1 tvg-name="" tvg-logo="",广东明珠台
 http://lfdxn.jydjd.top:2903/udp/224.1.100.2:11111
 
+#EXTINF:-1 tvg-name="" tvg-logo="",NOW新闻台
+http://cdn.1636.dpdns.org/live/now/stream.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="",VIUTV
+http://cdn.1636.dpdns.org/live/viu/stream.m3u8
+
+
+
 #EXTINF:-1 tvg-name="Channel5HD" tvg-logo="https://live.fanmingming.cn/tv/Channel5HD.png",Channel5HD
 http://cdn6.101.qzz.io/live/ch5/stream.m3u8
 #EXTINF:-1 tvg-name="Channel8HD" tvg-logo="https://live.fanmingming.cn/tv/Channel8HD.png",Channel8HD
