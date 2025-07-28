@@ -4,6 +4,18 @@ http://lfdxn.jydjd.top:2903/udp/224.1.100.122:11111
 #EXTINF:-1 tvg-name="" tvg-logo="",广东明珠台
 http://lfdxn.jydjd.top:2903/udp/224.1.100.2:11111
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",HOY76
+http://a.ru8.dpdns.org/now/76/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",HOY77
+http://a.ru8.dpdns.org/now/77/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",HOY78
+http://a.ru8.dpdns.org/now/78/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",翡翠台
+http://a.ru8.dpdns.org/now/81/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",无限新闻台
+http://a.ru8.dpdns.org/now/83/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_170_122",ViuTVsix
 http://a.ru8.dpdns.org/now/096/master.m3u8
