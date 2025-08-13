@@ -4,6 +4,8 @@
 http://lfdxn.jydjd.top:2903/udp/224.1.100.122:11111
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="IPTV-香港电视台",广东明珠台
 http://lfdxn.jydjd.top:2903/udp/224.1.100.2:11111
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_170_122",Now新聞台
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/hktv-nowxwt.flv
 
 #EXTINF:-1 tvg-id="20" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="IPTV-广东电视台",广东卫视
 http://192.168.2.1:7088/udp/239.77.0.166:5146
