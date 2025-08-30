@@ -1,7 +1,7 @@
 # > 车来了
 [Mitm]
 hostname = pic1.chelaile.net.cn, api.chelaile.net.cn, atrace.chelaile.net.cn, web.chelaile.net.cn, cdn.*.chelaileapp.cn
-[Script]
+[Url Rewrite]
 https?:\/\/pic1\.chelaile\.net\.cn\/adv\/ reject
 ^https?:\/\/(api|atrace)\.chelaile\.net\.cn\/adpub\/ reject
 ^https?:\/\/api\.chelaile\.net\.cn\/goocity\/advert\/ reject
