@@ -9,4 +9,4 @@ hostname = pic1.chelaile.net.cn, api.chelaile.net.cn, atrace.chelaile.net.cn, we
 ^https?:\/\/atrace\.chelaile\.net\.cn\/exhibit\?&adv_image reject-img
 ^https?:\/\/web\.chelaile\.net\.cn\/api\/adpub\/ad reject
 ^https?:\/\/cdn\.\w{3}\.chelaileapp\.cn\/(api\/)?adpub reject
-tag=车来了去广告
+tag＝车来了去广告
