@@ -88,7 +88,7 @@ http://192.168.2.1:7088/udp/239.253.43.1:5146
 http://192.168.2.1:7088/udp/239.253.43.2:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/河源综合.png" group-title="IPTV-广东地方台",河源综合
 http://192.168.2.1:7088/udp/239.253.43.213:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/河源公共.png" group-title="IPTV-广东地方台",河源公共
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/河源生活.png" group-title="IPTV-广东地方台",河源生活
 http://192.168.2.1:7088/udp/239.253.43.214:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/清远新闻综合.png" group-title="IPTV-广东地方台",清远新闻综合
 http://192.168.2.1:7088/udp/239.253.43.33:5146
