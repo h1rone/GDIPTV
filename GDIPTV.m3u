@@ -33,8 +33,6 @@ http://192.168.2.1:7088/udp/239.77.0.213:5146
 http://192.168.2.1:7088/udp/239.253.43.71:5146
 #EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="IPTV-广州电视台",广州新闻
 http://192.168.2.1:7088/udp/239.253.43.72:5146
-#EXTINF:-1 tvg-id="" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" group-title="IPTV-广州电视台",广州影视
-http://192.168.2.1:7088/udp/239.253.43.73:5146
 #EXTINF:-1 tvg-id="" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" group-title="IPTV-广州电视台",广州法治
 http://192.168.2.1:7088/udp/239.253.43.74:5146
 #EXTINF:-1 tvg-id="170" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="IPTV-深圳电视台",深圳卫视
@@ -300,6 +298,6 @@ http://192.168.2.1:7088/udp/239.77.0.245:5146
 #EXTINF:-1 tvg-id="" tvg-name="南国都市" tvg-logo="https://epg.112114.xyz/logo/南国都市.png" group-title="IPTV-4K频道",南国都市4K
 http://192.168.2.1:7088/udp/239.253.43.99:5146
 #EXTINF:-1 tvg-id="247" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" group-title="IPTV-4K频道",CCTV-4K
-http://192.168.2.1:7088/udp/239.77.0.174:5146
+http://192.168.2.1:7088/udp/239.77.1.180:5146
 #EXTINF:-1 tvg-id="62" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="IPTV-4K频道",北京卫视4K
 http://192.168.2.1:7088/udp/239.77.0.3:5146
