@@ -1,0 +1,43 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml" 
+#EXTINF:-1 tvg-name="301" tvg-logo="https://live.fanmingming.cn/tv/301.png",301
+http://182.93.7.202:1001/hls/301/index.m3u8
+#EXTINF:-1 tvg-name="302" tvg-logo="https://live.fanmingming.cn/tv/302.png",302
+http://182.93.7.202:1001/hls/302/index.m3u8
+#EXTINF:-1 tvg-name="303" tvg-logo="https://live.fanmingming.cn/tv/303.png",303
+http://182.93.7.202:1001/hls/303/index.m3u8
+#EXTINF:-1 tvg-name="304" tvg-logo="https://live.fanmingming.cn/tv/304.png",304
+http://182.93.7.202:1001/hls/304/index.m3u8
+#EXTINF:-1 tvg-name="305" tvg-logo="https://live.fanmingming.cn/tv/305.png",305
+http://182.93.7.202:1001/hls/305/index.m3u8
+#EXTINF:-1 tvg-name="306" tvg-logo="https://live.fanmingming.cn/tv/306.png",306
+http://182.93.7.202:1001/hls/306/index.m3u8
+#EXTINF:-1 tvg-name="307" tvg-logo="https://live.fanmingming.cn/tv/307.png",307
+http://182.93.7.202:1001/hls/307/index.m3u8
+#EXTINF:-1 tvg-name="308" tvg-logo="https://live.fanmingming.cn/tv/308.png",308
+http://182.93.7.202:1001/hls/308/index.m3u8
+#EXTINF:-1 tvg-name="309" tvg-logo="https://live.fanmingming.cn/tv/309.png",309
+http://182.93.7.202:1001/hls/309/index.m3u8
+#EXTINF:-1 tvg-name="310" tvg-logo="https://live.fanmingming.cn/tv/310.png",310
+http://182.93.7.202:1001/hls/310/index.m3u8
+#EXTINF:-1 tvg-name="311" tvg-logo="https://live.fanmingming.cn/tv/311.png",311
+http://182.93.7.202:1001/hls/311/index.m3u8
+#EXTINF:-1 tvg-name="312" tvg-logo="https://live.fanmingming.cn/tv/312.png",312
+http://182.93.7.202:1001/hls/312/index.m3u8
+#EXTINF:-1 tvg-name="313" tvg-logo="https://live.fanmingming.cn/tv/313.png",313
+http://182.93.7.202:1001/hls/313/index.m3u8
+#EXTINF:-1 tvg-name="314" tvg-logo="https://live.fanmingming.cn/tv/314.png",314
+http://182.93.7.202:1001/hls/314/index.m3u8
+#EXTINF:-1 tvg-name="315" tvg-logo="https://live.fanmingming.cn/tv/315.png",315
+http://182.93.7.202:1001/hls/315/index.m3u8
+#EXTINF:-1 tvg-name="316" tvg-logo="https://live.fanmingming.cn/tv/316.png",316
+http://182.93.7.202:1001/hls/316/index.m3u8
+#EXTINF:-1 tvg-name="1" tvg-logo="https://live.fanmingming.cn/tv/1.png",1
+http://182.93.7.202:1001/hls/1/index.m3u8
+#EXTINF:-1 tvg-name="2" tvg-logo="https://live.fanmingming.cn/tv/2.png",2
+http://182.93.7.202:1001/hls/2/index.m3u8
+#EXTINF:-1 tvg-name="3" tvg-logo="https://live.fanmingming.cn/tv/3.png",3
+http://182.93.7.202:1001/hls/3/index.m3u8
+#EXTINF:-1 tvg-name="4" tvg-logo="https://live.fanmingming.cn/tv/4.png",4
+http://182.93.7.202:1001/hls/4/index.m3u8
+#EXTINF:-1 tvg-name="16" tvg-logo="https://live.fanmingming.cn/tv/16.png",16
+http://182.93.7.202:1001/hls/16/index.m3u8
