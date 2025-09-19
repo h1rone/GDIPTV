@@ -1,25 +1,27 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml" 
-#EXTINF:-1 tvg-name="304" tvg-logo="https://live.fanmingming.cn/tv/DW.png",DW
+#EXTINF:-1 tvg-name="303" tvg-logo="https://live.fanmingming.cn/tv/nhkworld.png",NHK WORLD
+http://182.93.7.202:1001/hls/303/index.m3u8
+#EXTINF:-1 tvg-name="304" tvg-logo="https://live.fanmingming.cn/tv/dw.png",DW
 http://182.93.7.202:1001/hls/304/index.m3u8
 #EXTINF:-1 tvg-name="307" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",翡翠台
 http://182.93.7.202:1001/hls/307/index.m3u8
 #EXTINF:-1 tvg-name="308" tvg-logo="https://live.fanmingming.cn/tv/明珠台.png",明珠台
 http://182.93.7.202:1001/hls/308/index.m3u8
-#EXTINF:-1 tvg-name="309" tvg-logo="https://live.fanmingming.cn/tv/cna.png",cna
+#EXTINF:-1 tvg-name="309" tvg-logo="https://live.fanmingming.cn/tv/CNA.png",cna
 http://182.93.7.202:1001/hls/309/index.m3u8
-#EXTINF:-1 tvg-name="310" tvg-logo="https://live.fanmingming.cn/tv/TRTWORLD.png",TRTWORLD
+#EXTINF:-1 tvg-name="310" tvg-logo="https://live.fanmingming.cn/tv/trtworld.png",TRTWORLD
 http://182.93.7.202:1001/hls/310/index.m3u8
 #EXTINF:-1 tvg-name="313" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png",无线新闻台
 http://182.93.7.202:1001/hls/313/index.m3u8
 #EXTINF:-1 tvg-name="314" tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png",星空卫视
 http://182.93.7.202:1001/hls/314/index.m3u8
-#EXTINF:-1 tvg-name="315" tvg-logo="https://live.fanmingming.cn/tv/ViuSix.png",ViuSix
+#EXTINF:-1 tvg-name="315" tvg-logo="https://live.fanmingming.cn/tv/viusix.png",ViuSix
 http://182.93.7.202:1001/hls/315/index.m3u8
-#EXTINF:-1 tvg-name="316" tvg-logo="https://live.fanmingming.cn/tv/ViuTV.png",ViuTV
+#EXTINF:-1 tvg-name="316" tvg-logo="https://live.fanmingming.cn/tv/viutv.png",ViuTV
 http://182.93.7.202:1001/hls/316/index.m3u8
 #EXTINF:-1 tvg-name="1" tvg-logo="https://live.fanmingming.cn/tv/澳视澳门.png",澳视澳门
 http://182.93.7.202:1001/hls/1/index.m3u8
-#EXTINF:-1 tvg-name="2" tvg-logo="https://live.fanmingming.cn/tv/Macua.png",澳门Macau
+#EXTINF:-1 tvg-name="2" tvg-logo="https://live.fanmingming.cn/tv/澳视卫星.png",澳视卫星
 http://182.93.7.202:1001/hls/2/index.m3u8
 #EXTINF:-1 tvg-name="3" tvg-logo="https://live.fanmingming.cn/tv/澳门资讯.png",澳门资讯
 http://182.93.7.202:1001/hls/3/index.m3u8
