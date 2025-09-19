@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml" 
+#EXTM3U x-tvg-url="https://epg.946985.xyz/t.xml" 
 #EXTINF:-1 tvg-name="303" tvg-logo="https://live.fanmingming.cn/tv/nhkworld.png",NHK WORLD
 http://182.93.7.202:1001/hls/303/index.m3u8
 #EXTINF:-1 tvg-name="304" tvg-logo="https://live.fanmingming.cn/tv/dw.png",DW
@@ -23,9 +23,9 @@ http://182.93.7.202:1001/hls/316/index.m3u8
 http://182.93.7.202:1001/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="2" tvg-logo="https://live.fanmingming.cn/tv/澳视卫星.png",澳视卫星
 http://182.93.7.202:1001/hls/2/index.m3u8
-#EXTINF:-1 tvg-name="3" tvg-logo="https://live.fanmingming.cn/tv/澳门资讯.png",澳门资讯
+#EXTINF:-1 tvg-name="3" tvg-logo="https://live.fanmingming.cn/tv/澳视资讯.png",澳视资讯
 http://182.93.7.202:1001/hls/3/index.m3u8
-#EXTINF:-1 tvg-name="4" tvg-logo="https://live.fanmingming.cn/tv/4.澳门Macau",澳门Macau
+#EXTINF:-1 tvg-name="4" tvg-logo="https://live.fanmingming.cn/tv/4.澳视葡文",澳视葡文
 http://182.93.7.202:1001/hls/4/index.m3u8
-#EXTINF:-1 tvg-name="16" tvg-logo="https://live.fanmingming.cn/tv/澳门体育.png",澳门体育
+#EXTINF:-1 tvg-name="16" tvg-logo="https://live.fanmingming.cn/tv/澳视体育.png",澳视体育
 http://182.93.7.202:1001/hls/16/index.m3u8
