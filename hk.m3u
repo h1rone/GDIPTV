@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.946985.xyz/t.xml" 
 #EXTINF:-1 tvg-name="303" tvg-logo="https://epg.112114.xyz/logo/nhk.png",NHK WORLD
 http://182.93.7.202:1001/hls/303/index.m3u8
-#EXTINF:-1 tvg-name="304" tvg-logo="https://live.fanmingming.cn/tv/德国之声.png",DW
+#EXTINF:-1 tvg-name="304" tvg-logo="https://epg.112114.xyz/logo/德国之声.png",DW
 http://182.93.7.202:1001/hls/304/index.m3u8
 #EXTINF:-1 tvg-name="307" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
 http://182.93.7.202:1001/hls/307/index.m3u8
