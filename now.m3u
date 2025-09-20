@@ -1,20 +1,20 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml" 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/HOY76.png",HOY76
-http://a.ru8.dpdns.org/now/76/master.m3u8
+#http://a.ru8.dpdns.org/now/76/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/HOY77.png",HOY77
-http://a.ru8.dpdns.org/now/77/master.m3u8
+#http://a.ru8.dpdns.org/now/77/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/HOY78.png",HOY78
-http://a.ru8.dpdns.org/now/78/master.m3u8
+#http://a.ru8.dpdns.org/now/78/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_170_122",ViuTVsix
 http://a.ru8.dpdns.org/now/96/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch99_170_122",ViuTV
 http://a.ru8.dpdns.org/now/99/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch105_170_122",Now華劇台
-http://a.ru8.dpdns.org/now/105/master.m3u8
+#http://a.ru8.dpdns.org/now/105/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch200_170_122",熊貓TV
-http://a.ru8.dpdns.org/now/200/master.m3u8
+#http://a.ru8.dpdns.org/now/200/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch331_170_122",Now直播台
 http://a.ru8.dpdns.org/now/331/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_170_122",Now新聞台
