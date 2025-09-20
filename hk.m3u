@@ -9,7 +9,7 @@ http://182.93.7.202:1001/hls/307/index.m3u8
 http://182.93.7.202:1001/hls/308/index.m3u8
 #EXTINF:-1 tvg-name="309" tvg-logo="https://epg.112114.xyz/logo/亚洲新闻.png",cna
 http://182.93.7.202:1001/hls/309/index.m3u8
-#EXTINF:-1 tvg-name="310" tvg-logo="https://epg.112114.xyz/logo/trtworld.png",TRTWORLD
+#EXTINF:-1 tvg-name="310" tvg-logo="https://img-284.media.info/i/bg/6/6617-1492904872.webp",TRTWORLD
 http://182.93.7.202:1001/hls/310/index.m3u8
 #EXTINF:-1 tvg-name="313" tvg-logo="https://epg.112114.xyz/logo/無線新聞台.png",无线新闻台
 http://182.93.7.202:1001/hls/313/index.m3u8
