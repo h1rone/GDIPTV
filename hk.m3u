@@ -21,7 +21,7 @@ http://182.93.7.202:1001/hls/315/index.m3u8
 http://182.93.7.202:1001/hls/316/index.m3u8
 #EXTINF:-1 tvg-name="1" tvg-logo="https://epg.112114.xyz/logo/澳视澳门.png",澳视澳门
 http://182.93.7.202:1001/hls/1/index.m3u8
-#EXTINF:-1 tvg-name="2" tvg-logo="https://epg.112114.xyz/logo/澳视葡文.png",澳视葡文
+#EXTINF:-1 tvg-name="2" tvg-logo="https://epg.112114.xyz/logo/澳視葡文.png",澳视葡文
 http://182.93.7.202:1001/hls/2/index.m3u8
 #EXTINF:-1 tvg-name="3" tvg-logo="https://epg.112114.xyz/logo/澳视资讯.png",澳视资讯
 http://182.93.7.202:1001/hls/3/index.m3u8
