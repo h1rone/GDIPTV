@@ -11,7 +11,7 @@ http://182.93.7.202:1001/hls/308/index.m3u8
 http://182.93.7.202:1001/hls/309/index.m3u8
 #EXTINF:-1 tvg-name="310" tvg-logo="https://epg.112114.xyz/logo/trtworld.png",TRTWORLD
 http://182.93.7.202:1001/hls/310/index.m3u8
-#EXTINF:-1 tvg-name="313" tvg-logo="https://epg.112114.xyz/logo/无线新闻台.png",无线新闻台
+#EXTINF:-1 tvg-name="313" tvg-logo="https://epg.112114.xyz/logo/無線新聞台.png",无线新闻台
 http://182.93.7.202:1001/hls/313/index.m3u8
 #EXTINF:-1 tvg-name="314" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png",星空卫视
 http://182.93.7.202:1001/hls/314/index.m3u8
@@ -19,13 +19,13 @@ http://182.93.7.202:1001/hls/314/index.m3u8
 http://182.93.7.202:1001/hls/315/index.m3u8
 #EXTINF:-1 tvg-name="316" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png",ViuTV
 http://182.93.7.202:1001/hls/316/index.m3u8
-#EXTINF:-1 tvg-name="1" tvg-logo="https://epg.112114.xyz/logo/澳视澳门.png",澳视澳门
+#EXTINF:-1 tvg-name="1" tvg-logo="https://epg.112114.xyz/logo/澳视澳门.png",澳視澳門
 http://182.93.7.202:1001/hls/1/index.m3u8
-#EXTINF:-1 tvg-name="2" tvg-logo="https://epg.112114.xyz/logo/澳視葡文.png",澳视葡文
+#EXTINF:-1 tvg-name="2" tvg-logo="https://epg.112114.xyz/logo/澳視葡文.png",澳視葡文
 http://182.93.7.202:1001/hls/2/index.m3u8
-#EXTINF:-1 tvg-name="3" tvg-logo="https://epg.112114.xyz/logo/澳视资讯.png",澳视资讯
+#EXTINF:-1 tvg-name="3" tvg-logo="https://epg.112114.xyz/logo/澳视资讯.png",澳門資訊
 http://182.93.7.202:1001/hls/3/index.m3u8
-#EXTINF:-1 tvg-name="4" tvg-logo="https://epg.112114.xyz/logo/澳門-Macau.png",澳門-Macau
+#EXTINF:-1 tvg-name="4" tvg-logo="https://epg.112114.xyz/logo/澳門Macau.png",澳門Macau
 http://182.93.7.202:1001/hls/4/index.m3u8
-#EXTINF:-1 tvg-name="16" tvg-logo="https://epg.112114.xyz/logo/澳视体育.png",澳视体育
+#EXTINF:-1 tvg-name="16" tvg-logo="https://epg.112114.xyz/logo/澳视体育.png",澳門体育
 http://182.93.7.202:1001/hls/16/index.m3u8
