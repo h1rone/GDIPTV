@@ -10,7 +10,7 @@ http://a.ru8.dpdns.org/now/78/master.m3u8
 https://hls.168.us.kg/u/78/master.m3u8
 #EXTINF:-1 tvg-name="313" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png",无线新闻台(168)
 https://hls.168.us.kg/u/83/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch331_170_122",Now直播台(168)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch331_170_122",Now新聞台(168)
 https://hls.168.us.kg/u/332/master.m3u8
 
 
