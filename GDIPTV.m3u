@@ -4,6 +4,8 @@
 http://lfdxn.jydjd.top:2903/udp/224.1.100.122:11111
 #EXTINF:-1 tvg-name="" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="IPTV-香港电视台",广东明珠台
 http://lfdxn.jydjd.top:2903/udp/224.1.100.2:11111
+#EXTINF:-1 tvg-name="" tvg-logo="https://epg.112114.xyz/logo/澳视澳门.png" group-title="IPTV-香港电视台",澳視澳門
+http://lfdxn.jydjd.top:2903/udp/224.1.100.12:11111
 
 #EXTINF:-1 tvg-id="20" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="IPTV-广东电视台",广东卫视
 http://192.168.2.1:7088/udp/239.77.0.166:5146
