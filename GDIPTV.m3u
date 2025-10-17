@@ -303,3 +303,18 @@ http://192.168.2.1:7088/udp/239.253.43.99:5146
 http://192.168.2.1:7088/udp/239.77.1.180:5146
 #EXTINF:-1 tvg-id="62" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="IPTV-4K频道",北京卫视4K
 http://192.168.2.1:7088/udp/239.77.0.3:5146
+#EXTINF:-1 tvg-id="64" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="IPTV-4K频道",湖南卫视4K
+http://192.168.2.1:7088/udp/239.77.0.56:5146
+#EXTINF:-1 tvg-id="66" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="IPTV-4K频道",浙江卫视4K
+http://192.168.2.1:7088/udp/239.77.0.58:5146
+#EXTINF:-1 tvg-id="65" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="IPTV-4K频道",江苏卫视4K
+http://192.168.2.1:7088/udp/239.77.0.57:5146
+#EXTINF:-1 tvg-id="63" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="IPTV-4K频道",东方卫视4K
+http://192.168.2.1:7088/udp/239.77.0.59:5146
+#EXTINF:-1 tvg-id="67" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="IPTV-4K频道",山东卫视4K
+http://192.168.2.1:7088/udp/239.77.0.61:5146
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="IPTV-4K频道",四川卫视4K
+http://192.168.2.1:7088/udp/239.77.0.60:5146
+
+
+
