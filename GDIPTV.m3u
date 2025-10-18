@@ -1,12 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/biansty/IPTV-EPG/refs/heads/master/e.xml" catchup="append" catchup-source="&st=${(b)yyyyMMddHHmmss}&ed=${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1 tvg-name="TVB" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="IPTV-香港电视台",广东TVB
-http://lfdxn.jydjd.top:2903/udp/224.1.100.121:11111
-#EXTINF:-1 tvg-name="" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="IPTV-香港电视台",广东明珠台
-http://lfdxn.jydjd.top:2903/udp/224.1.100.123:11111
-#EXTINF:-1 tvg-name="" tvg-logo="https://epg.112114.xyz/logo/澳视澳门.png" group-title="IPTV-香港电视台",澳視澳門
-http://lfdxn.jydjd.top:2903/udp/224.1.100.12:11111
-
 #EXTINF:-1 tvg-id="20" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="IPTV-广东电视台",广东卫视
 http://192.168.2.1:7088/udp/239.77.0.166:5146
 #EXTINF:-1 tvg-id="21" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="IPTV-广东电视台",广东珠江
