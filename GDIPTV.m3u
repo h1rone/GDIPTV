@@ -1,5 +1,12 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/biansty/IPTV-EPG/refs/heads/master/e.xml" catchup="append" catchup-source="&st=${(b)yyyyMMddHHmmss}&ed=${(e)yyyyMMddHHmmss}"
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/HOY78.png" group-title="IPTV-香港电视台",HOY78(168)
+https://hls.168.us.kg/u/78/master.m3u8
+#EXTINF:-1 tvg-name="313" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="IPTV-香港电视台",无线新闻台(168)
+https://hls.168.us.kg/u/83/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_170_122" group-title="IPTV-香港电视台",Now新聞台(168)
+https://hls.168.us.kg/u/332/master.m3u8
+
 #EXTINF:-1 tvg-id="20" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="IPTV-广东电视台",广东卫视
 http://192.168.2.1:7088/udp/239.77.0.166:5146
 #EXTINF:-1 tvg-id="21" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="IPTV-广东电视台",广东珠江
