@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/biansty/IPTV-EPG/refs/heads/master/e.xml" catchup="append" catchup-source="&st=${(b)yyyyMMddHHmmss}&ed=${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml" catchup="append" catchup-source="&st=${(b)yyyyMMddHHmmss}&ed=${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="IPTV-香港电视台",翡翠台
 http://192.168.2.1:7088/udp/239.77.1.107:5146
