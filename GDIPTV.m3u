@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml" catchup="append" catchup-source="&st=${(b)yyyyMMddHHmmss}&ed=${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="IPTV-香港电视台",翡翠台
-http://192.168.2.1:7088/udp/239.77.1.107:5146
+#http://192.168.2.1:7088/udp/239.77.1.107:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="IPTV-香港电视台",明珠台
-http://192.168.2.1:7088/udp/239.77.1.189:5146
+#http://192.168.2.1:7088/udp/239.77.1.189:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/HOY78.png" group-title="IPTV-香港电视台",HOY78(168)
 https://hls.168.us.kg/u/78/master.m3u8
 #EXTINF:-1 tvg-name="313" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="IPTV-香港电视台",无线新闻台(168)
