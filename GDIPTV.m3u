@@ -45,10 +45,6 @@ http://192.168.2.1:7088/udp/239.77.1.3:5146
 http://192.168.2.1:7088/udp/239.77.1.176:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/深圳电视剧.png" group-title="IPTV-深圳电视台",深圳电视剧频道
 http://192.168.2.1:7088/udp/239.77.1.177:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/深圳财经生活.png" group-title="IPTV-深圳电视台",深圳财经生活
-http://192.168.2.1:7088/udp/239.77.1.242:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/深圳体育健康.png" group-title="IPTV-深圳电视台",深圳体育健康
-http://192.168.2.1:7088/udp/239.77.1.128:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/深圳少儿.png" group-title="IPTV-深圳电视台",深圳少儿频道
 http://192.168.2.1:7088/udp/239.77.1.244:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/深圳宝安.png" group-title="IPTV-深圳电视台",深圳宝安频道
