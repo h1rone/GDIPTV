@@ -110,8 +110,6 @@ http://192.168.2.1:7088/udp/239.253.43.55:5146
 http://192.168.2.1:7088/udp/239.253.43.57:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中山综合.png" group-title="IPTV-广东地方台",中山综合
 http://192.168.2.1:7088/udp/239.253.43.62:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/香山文化.png" group-title="IPTV-广东地方台",香山文化
-http://192.168.2.1:7088/udp/239.253.43.63:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/潮州综合.png" group-title="IPTV-广东地方台",潮州综合
 http://192.168.2.1:7088/udp/239.253.43.70:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/潮州民生.png" group-title="IPTV-广东地方台",潮州民生
