@@ -247,13 +247,11 @@ http://192.168.2.1:7088/udp/239.77.1.114:5146
 http://192.168.2.1:7088/udp/239.77.0.180:5146
 #EXTINF:-1 tvg-id="" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="IPTV-数字付费",中国天气
 http://192.168.2.1:7088/udp/239.77.1.2:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/chapd.png" group-title="IPTV-数字付费",茶
-http://192.168.2.1:7088/udp/239.77.0.15:5146
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="IPTV-数字付费",快乐垂钓
 http://192.168.2.1:7088/udp/239.77.0.145:5146
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="IPTV-数字付费",金鹰纪实
 http://192.168.2.1:7088/udp/239.77.1.217:5146
-#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="IPTV-数字付费",求索纪
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="IPTV-数字付费",求索纪录
 http://192.168.2.1:7088/udp/239.77.0.21:5146
 #EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="IPTV-数字付费",天元围棋
 http://192.168.2.1:7088/udp/239.253.43.98:5146
