@@ -22,8 +22,6 @@ http://192.168.2.1:7088/udp/239.77.0.250:5146
 http://192.168.2.1:7088/udp/239.77.0.179:5146
 #EXTINF:-1 tvg-id="" tvg-name="岭南戏曲" tvg-logo="https://epg.112114.xyz/logo/岭南戏曲.png" group-title="IPTV-广东电视台",岭南戏曲
 http://192.168.2.1:7088/udp/239.77.0.122:5146
-#EXTINF:-1 tvg-id="34" tvg-name="现代教育" tvg-logo="https://epg.112114.xyz/logo/现代教育.png" group-title="IPTV-广东电视台",现代教育
-http://192.168.2.1:7088/udp/239.77.0.213:5146
 #EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" group-title="IPTV-广州电视台",广州综合
 http://192.168.2.1:7088/udp/239.253.43.71:5146
 #EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="IPTV-广州电视台",广州新闻
@@ -105,7 +103,7 @@ http://192.168.2.1:7088/udp/239.253.43.75:5146
 http://192.168.2.1:7088/udp/239.253.43.123:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/客家生活.png" group-title="IPTV-广东地方台",客家生活
 http://192.168.2.1:7088/udp/239.253.43.124:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/阳江-1.png" group-title="IPTV-广东地方台",阳江-1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/阳江-1.png" group-title="IPTV-广东地方台",阳江
 http://192.168.2.1:7088/udp/239.253.43.82:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="IPTV-央视",CCTV-1
 http://192.168.2.1:7088/udp/239.77.0.129:5146
