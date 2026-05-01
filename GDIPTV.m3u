@@ -49,8 +49,6 @@ http://192.168.2.1:7088/udp/239.77.0.117:5146
 http://192.168.2.1:7088/udp/239.77.0.141:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/揭阳综合.png" group-title="IPTV-广东地方台",揭阳综合
 http://192.168.2.1:7088/udp/239.77.0.229:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/揭阳生活.png" group-title="IPTV-广东地方台",揭阳生活
-http://192.168.2.1:7088/udp/239.77.0.251:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/汕尾新闻综合.png" group-title="IPTV-广东地方台",汕尾综合
 http://192.168.2.1:7088/udp/239.77.0.25:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/江门综合.png" group-title="IPTV-广东地方台",江门综合
