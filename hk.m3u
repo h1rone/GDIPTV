@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.yang-1989.eu.org/epg.xml.gz" 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
 http://120.234.44.98:18180/TV00000000000000000032@HHZT
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/明珠台.png",明珠台
