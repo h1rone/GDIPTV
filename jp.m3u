@@ -4,46 +4,46 @@
 http://tsb-mega.i9.ee/stream/nhkg_avc_1080p
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="NHK東京・教育_jp" tvg-name="NHK E" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_e.png",NHK E
-http://203.156.125.135:5002/hdgd02.m3u8?token=guoziyun&gid=hdgd02&channel=zhongying
+http://203.156.125.132:5002/hdgd02.m3u8?token=guoziyun&gid=hdgd02&channel=zhongying
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="日本テレビ_jp" tvg-name="NTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv.png",NTV
-http://203.156.125.135:5002/hdgd03.m3u8?token=guoziyun&gid=hdgd03&channel=zhongying
+http://203.156.125.132:5002/hdgd03.m3u8?token=guoziyun&gid=hdgd03&channel=zhongying
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="テレビ朝日_jp" tvg-name="TV Asahi" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi.png",TV Asahi
-http://203.156.125.135:5002/hdgd06.m3u8?token=guoziyun&gid=hdgd06&channel=zhongying
+http://203.156.125.132:5002/hdgd06.m3u8?token=guoziyun&gid=hdgd06&channel=zhongying
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="TBS_jp" tvg-name="TBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs.png",TBS
-http://203.156.125.135:5002/hdgd04.m3u8?token=guoziyun&gid=hdgd04&channel=zhongying
+http://203.156.125.132:5002/hdgd04.m3u8?token=guoziyun&gid=hdgd04&channel=zhongying
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="テレ東_jp" tvg-name="TV Tokyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_tokyo.png",TV Tokyo
-http://203.156.125.135:5002/hdgd07.m3u8?token=guoziyun&gid=hdgd07&channel=zhongying
+http://203.156.125.132:5002/hdgd07.m3u8?token=guoziyun&gid=hdgd07&channel=zhongying
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="フジテレビ_jp" tvg-name="Fuji TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv.png",Fuji TV
-http://203.156.125.135:5002/hdgd05.m3u8?token=guoziyun&gid=hdgd05&channel=zhongying
+http://203.156.125.132:5002/hdgd05.m3u8?token=guoziyun&gid=hdgd05&channel=zhongying
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="TOKYO・MX_jp" tvg-name="TOKYO MX1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tokyo_mx1.png",TOKYO MX1
-http://203.156.125.135:5002/hdgd08.m3u8?token=guoziyun&gid=hdgd08&channel=zhongying
+http://203.156.125.132:5002/hdgd08.m3u8?token=guoziyun&gid=hdgd08&channel=zhongying
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="NHK大阪・総合_jp" tvg-name="NHK G Osaka" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g_osaka.png",NHK G Osaka
-http://203.156.125.135:5002/gx06.m3u8?token=guoziyun&gid=gx06&channel=zhongying
+http://203.156.125.132:5002/gx06.m3u8?token=guoziyun&gid=gx06&channel=zhongying
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="サンテレビ_jp" tvg-name="SUN" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/sun.png",SUN
-http://203.156.125.135:5002/gx07.m3u8?token=guoziyun&gid=gx07&channel=zhongying
+http://203.156.125.132:5002/gx07.m3u8?token=guoziyun&gid=gx07&channel=zhongying
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="毎日テレビ_jp" tvg-name="MBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mbs.png",MBS
-http://203.156.125.135:5002/gx01.m3u8?token=guoziyun&gid=gx01&channel=zhongying
+http://203.156.125.132:5002/gx01.m3u8?token=guoziyun&gid=gx01&channel=zhongying
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="ABCテレビ_jp" tvg-name="ABC" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/abc.png",ABC
-http://203.156.125.135:5002/gx02.m3u8?token=guoziyun&gid=gx02&channel=zhongying
+http://203.156.125.132:5002/gx02.m3u8?token=guoziyun&gid=gx02&channel=zhongying
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="テレビ大阪_jp" tvg-name="TV Osaka" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_osaka.png",TV Osaka
-http://203.156.125.135:5002/gx05.m3u8?token=guoziyun&gid=gx05&channel=zhongying
+http://203.156.125.132:5002/gx05.m3u8?token=guoziyun&gid=gx05&channel=zhongying
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="関西テレビ_jp" tvg-name="Kansai TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kansai_tv.png",Kansai TV
-http://203.156.125.135:5002/gx03.m3u8?token=guoziyun&gid=gx03&channel=zhongying
+http://203.156.125.132:5002/gx03.m3u8?token=guoziyun&gid=gx03&channel=zhongying
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="読売テレビ_jp" tvg-name="ytv" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ytv.png",ytv
-http://203.156.125.135:5002/gx04.m3u8?token=guoziyun&gid=gx04&channel=zhongying
+http://203.156.125.132:5002/gx04.m3u8?token=guoziyun&gid=gx04&channel=zhongying
 
 # === BS放送 ===
 
