@@ -43,7 +43,7 @@ http://203.156.125.149:5002/gx05.m3u8?token=guoziyun&channel=zhongying
 http://203.156.125.149:5002/gx03.m3u8?token=guoziyun&channel=zhongying
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="読売テレビ_jp" tvg-name="ytv" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ytv.png",ytv
-http://203.156.125.149:5002/gx04.m3u8?token=guoziyun&gid=gx04&channel=zhongying
+http://203.156.125.149:5002/gx04.m3u8?token=guoziyun&channel=zhongying
 
 # === BS放送 ===
 
